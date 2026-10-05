@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowDown, Download, ShieldCheck, MapPin, Mail, CheckCircle } from 'lucide-react';
-import { LinkedinIcon } from './Icons';
+import { LinkedinIcon, GithubIcon } from './Icons';
 import type { RoleLens } from '../data/roles';
 import { identityData } from '../data/identity';
 
@@ -270,6 +270,19 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
               >
                 <LinkedinIcon size={15} />
                 <span>LinkedIn</span>
+              </a>
+
+              <a
+                href={identityData.contact.githubUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: 'flex', alignItems: 'center', gap: '6px', color: 'var(--text-secondary)' }}
+                onMouseEnter={(e) => (e.currentTarget.style.color = 'var(--text-emerald)')}
+                onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--text-secondary)')}
+                title="GitHub Profile"
+              >
+                <GithubIcon size={15} />
+                <span>GitHub</span>
               </a>
             </div>
 
