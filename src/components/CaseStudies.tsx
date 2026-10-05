@@ -239,7 +239,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.8rem', color: '#F87171', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>
-                    The Problem:
+                    1. Problem & Operational Friction:
                   </div>
                   <div style={{ fontSize: '0.94rem', color: 'var(--text-secondary)', lineHeight: 1.65 }}>
                     {activeCase.problem}
@@ -247,7 +247,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
               </div>
 
-              {/* 2. What I Saw */}
+              {/* 2. Diagnosis */}
               <div style={{ display: 'flex', gap: '14px' }}>
                 <div
                   style={{
@@ -267,7 +267,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.8rem', color: '#38BDF8', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>
-                    What I Saw (Field Observation):
+                    2. Diagnosis (Root-Cause Discovery):
                   </div>
                   <div style={{ fontSize: '0.94rem', color: 'var(--text-secondary)', lineHeight: 1.65 }}>
                     {activeCase.whatISaw}
@@ -275,7 +275,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
               </div>
 
-              {/* 3. What I Did */}
+              {/* 3. Intervention */}
               <div style={{ display: 'flex', gap: '14px' }}>
                 <div
                   style={{
@@ -295,7 +295,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.8rem', color: '#E5A93C', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>
-                    What I Did (Action & Intervention):
+                    3. Intervention (Strategic Process Design):
                   </div>
                   <div style={{ fontSize: '0.94rem', color: 'var(--text-secondary)', lineHeight: 1.65 }}>
                     {activeCase.whatIDid}
@@ -303,7 +303,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
               </div>
 
-              {/* 4. What I Built */}
+              {/* 4. System / Action */}
               <div style={{ display: 'flex', gap: '14px' }}>
                 <div
                   style={{
@@ -323,7 +323,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.8rem', color: '#A78BFA', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>
-                    What I Built (Custom Systems & Artifacts):
+                    4. System / Action (Custom Architecture & Execution):
                   </div>
                   <div style={{ fontSize: '0.94rem', color: 'var(--text-secondary)', lineHeight: 1.65 }}>
                     {activeCase.whatIBuilt}
@@ -331,7 +331,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
               </div>
 
-              {/* 5. Result */}
+              {/* 5. Measured Outcome */}
               <div style={{ display: 'flex', gap: '14px' }}>
                 <div
                   style={{
@@ -351,7 +351,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.8rem', color: '#34D399', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>
-                    The Result (Audited Outcome):
+                    5. Measured Outcome (Audited Business Results):
                   </div>
                   <div style={{ fontSize: '0.94rem', color: '#FFFFFF', fontWeight: 600, lineHeight: 1.65 }}>
                     {activeCase.result}

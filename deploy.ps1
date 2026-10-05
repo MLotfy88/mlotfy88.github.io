@@ -1,7 +1,7 @@
-# PowerShell Deployment Script for mmlotfy.github.io
+# PowerShell Deployment Script for mlotfy88.github.io
 param(
-    [string]$Username = "mmlotfy",
-    [string]$RepoName = "mmlotfy.github.io"
+    [string]$Username = "MLotfy88",
+    [string]$RepoName = "mlotfy88.github.io"
 )
 
 Write-Host "==========================================================" -ForegroundColor Cyan

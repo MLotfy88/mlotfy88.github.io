@@ -23,12 +23,64 @@ export const CvHub: React.FC<CvHubProps> = ({ activeRole }) => {
         <div className="section-header">
           <div className="section-badge">
             <Download size={14} />
-            <span>Document Hub</span>
+            <span>Document Architecture</span>
           </div>
-          <h2 className="section-title">8 Role-Focused ATS-Compliant CVs</h2>
+          <h2 className="section-title">8 Targeted ATS-Compliant Executive CVs</h2>
           <p className="section-subtitle">
-            Every version is tailored to a specific organizational function, fully ATS-formatted, and available in both PDF and editable DOCX formats.
+            Structured into 5 Primary Career Tracks, 2 Specialized Supply Chain Focus Areas, and 1 Comprehensive Master CV.
           </p>
+
+          {/* Architecture Explanatory Pills */}
+          <div
+            style={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              justifyContent: 'center',
+              gap: '12px',
+              marginTop: '18px',
+              marginBottom: '10px',
+            }}
+          >
+            <span
+              style={{
+                fontSize: '0.78rem',
+                backgroundColor: 'rgba(13, 107, 82, 0.25)',
+                border: '1px solid var(--border-emerald)',
+                color: 'var(--text-emerald)',
+                padding: '4px 12px',
+                borderRadius: 'var(--radius-full)',
+                fontWeight: 600,
+              }}
+            >
+              5 Primary Dossiers (Healthcare, Supply Chain, Procurement, Business Ops, Events)
+            </span>
+            <span
+              style={{
+                fontSize: '0.78rem',
+                backgroundColor: 'rgba(56, 189, 248, 0.15)',
+                border: '1px solid rgba(56, 189, 248, 0.3)',
+                color: '#38BDF8',
+                padding: '4px 12px',
+                borderRadius: 'var(--radius-full)',
+                fontWeight: 600,
+              }}
+            >
+              2 Specialized Tracks (Demand Planning & Logistics under Supply Chain)
+            </span>
+            <span
+              style={{
+                fontSize: '0.78rem',
+                backgroundColor: 'rgba(229, 169, 60, 0.15)',
+                border: '1px solid rgba(229, 169, 60, 0.3)',
+                color: '#E5A93C',
+                padding: '4px 12px',
+                borderRadius: 'var(--radius-full)',
+                fontWeight: 600,
+              }}
+            >
+              1 Master Executive General CV
+            </span>
+          </div>
         </div>
 
         {/* Active Role Recommendation Banner if applicable */}

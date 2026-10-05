@@ -34,9 +34,9 @@ export const financialMetrics = {
       context: "Average revenue generated per interventional procedure (+30.2%) via dynamic replacement-cost pricing adjustment."
     },
     {
-      growth: "+37.0%",
-      metric: "3-Year Revenue CAGR",
-      context: "Compound annual growth rate sustained across 3 consecutive fiscal years (2023–2025 official financial audit)."
+      growth: "+65.5%",
+      metric: "Top-Line Revenue Expansion",
+      context: "Gross annual revenue expanded from EGP 5,850,791 to EGP 9,679,955 in audited statements (+30.4% 3-year CAGR from 2023 baseline)."
     },
     {
       growth: "~20%",
@@ -45,9 +45,9 @@ export const financialMetrics = {
     }
   ],
   trendData: [
-    { year: "2023", revenueStatus: "Baseline Establishing", profitStatus: "Operational Stabilization", note: "Unit restructuring & inventory control initiation" },
-    { year: "2024", revenueStatus: "Rapid Expansion (+37% CAGR)", profitStatus: "EGP 1,905,945 (H1)", note: "Dynamic pricing introduced & waiting list modeled" },
-    { year: "2025", revenueStatus: "+65.5% Growth (H1)", profitStatus: "EGP 2,978,995 (H1 Record)", note: "Record net profitability (+56.3% YoY)" }
+    { year: "2023", revenueStatus: "EGP 5,689,106", profitStatus: "Operational Stabilization", note: "Unit restructuring & inventory control initiation" },
+    { year: "2024", revenueStatus: "EGP 5,850,791", profitStatus: "EGP 1,905,945 (H1)", note: "Dynamic pricing introduced & waiting list modeled" },
+    { year: "2025", revenueStatus: "EGP 9,679,955 (+65.5%)", profitStatus: "EGP 2,978,995 (H1 Record)", note: "Record net profitability (+56.3% YoY)" }
   ],
   growthDrivers: [
     {

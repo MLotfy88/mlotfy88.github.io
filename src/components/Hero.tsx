@@ -59,7 +59,7 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
             }}
           >
             <ShieldCheck size={16} />
-            <span>Executive Profile & Professional Portfolio</span>
+            <span>Executive Career Portfolio & Dossiers</span>
           </div>
 
           {/* Main Headline */}
@@ -81,7 +81,7 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
           {/* Dynamic Role Subtitle */}
           <div
             style={{
-              fontSize: 'clamp(1.15rem, 2.2vw, 1.45rem)',
+              fontSize: 'clamp(1.15rem, 2.2vw, 1.4rem)',
               fontWeight: 600,
               color: activeRole.id === 'all' ? 'var(--text-emerald)' : '#E5A93C',
               lineHeight: 1.4,
@@ -90,9 +90,9 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
             }}
           >
             {activeRole.id === 'all' ? (
-              <span>Healthcare Operations Director • Business Operations • End-to-End Supply Chain & Procurement</span>
+              <span>A Cross-Functional Operations Leader Who Turns Complex Operations Into Measurable Systems</span>
             ) : (
-              <span>{activeRole.title} — <span style={{ color: 'var(--text-secondary)', fontWeight: 400 }}>{activeRole.subtitle}</span></span>
+              <span>Target Position: {activeRole.title} — <span style={{ color: 'var(--text-secondary)', fontWeight: 400 }}>{activeRole.subtitle}</span></span>
             )}
           </div>
 
@@ -128,7 +128,7 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
                 margin: 0,
               }}
             >
-              Over 15+ years of multi-sector professional leadership, I have transformed underperforming operational units into high-margin, institutionalized systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) processing 90–140 procedures per month, I delivered <strong>+56.3% net profit growth</strong> and <strong>+65.5% revenue expansion</strong>, maintained <strong>100% stock availability</strong>, and achieved <strong>zero procedure cancellations</strong> due to supply failure across 30+ consecutive months—all while absorbing <strong>&gt;70% macroeconomic cost inflation</strong> and building <strong>4 custom enterprise software platforms on zero external budget</strong>.
+              Over 15+ years of multi-sector professional experience (including 5+ years in high-acuity healthcare operations leadership), I have transformed complex operational environments into high-margin, institutionalized systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) processing 90–140 procedures per month, I delivered <strong>+56.3% net profit growth</strong> and <strong>+65.5% revenue expansion</strong>, maintained <strong>100% stock availability</strong>, and achieved <strong>zero procedure cancellations</strong> due to supply failure across 30+ consecutive months—all while absorbing <strong>&gt;70% macroeconomic operational cost inflation</strong> and engineering <strong>4 custom operational platforms on zero external software budget</strong>.
             </p>
           </div>
 
@@ -169,7 +169,7 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
                 e.currentTarget.style.transform = 'translateY(0)';
               }}
             >
-              <span>Explore 8 Role Lenses</span>
+              <span>Explore 5 Career Dossiers</span>
               <ArrowDown size={16} />
             </button>
 
@@ -200,11 +200,11 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
               }}
             >
               <Download size={16} color="var(--text-emerald)" />
-              <span>Download CVs (8 ATS Versions)</span>
+              <span>Download Executive CVs</span>
             </a>
 
             <a
-              href="#results"
+              href="#methodology"
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
@@ -218,7 +218,7 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
               onMouseEnter={(e) => (e.currentTarget.style.color = '#FFFFFF')}
               onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--text-secondary)')}
             >
-              <span>View Documented Results</span>
+              <span>How I Work (7-Step Method)</span>
               <span>→</span>
             </a>
           </div>
@@ -239,7 +239,7 @@ export const Hero: React.FC<HeroProps> = ({ activeRole, onExploreRoles }) => {
           >
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               <MapPin size={15} color="var(--text-emerald)" />
-              <span>Alexandria & Zagazig, Egypt</span>
+              <span>Cairo • Alexandria • Sharkia, Egypt</span>
             </div>
 
             <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>

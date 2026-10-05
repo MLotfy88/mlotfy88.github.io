@@ -1,6 +1,6 @@
 # الدليل التنفيذي الشامل لتصميم ومحتوى الموقع المهني
-## Executive Portfolio & Role-Driven Career Hub
-### Mahmoud Mohamed Lotfy — `mmlotfy.github.io`
+## Executive Career Portfolio & Role-Driven Dossiers
+### Mahmoud Mohamed Lotfy — `mlotfy88.github.io`
 
 ---
 
@@ -8,14 +8,24 @@
 > **الغرض من هذا المستند:**  
 > تقديم **وصف بصري وهيكلي وتفصيلي كامل** للموقع المنفذ بالفعل؛ بحيث يتمكن أي قارئ متخصص أو مستشار توظيف أو مراجع خارجي من **تخيل شكل الموقع تماماً وكأنه يراه بعينه**، ومراجعة نصوصه ومؤشراته وأقسامه بدقة لإبداء الرأي وتقديم الملاحظات.
 
+> [!IMPORTANT]
+> **نسخة محدّثة بعد تطبيق ملاحظات الخبير الاستراتيجي:**  
+> تم تطبيق التعديلات التالية بناءً على مراجعة متخصصة:
+> - تعديل التموضع من "Executive Operating Dossier" إلى **"Cross-Functional Operations Leader"** لتقليل الدراماتيكية وزيادة المصداقية.
+> - مراجعة وتدقيق جميع الأرقام والمؤشرات: حذف `+37.0% Revenue 3-Year CAGR` واستبداله بـ `+65.5% Revenue Expansion`، حذف `3,570+ Hrs` لعدم إمكانية التحقق منها.
+> - تعديل نبرة المنهجية من "بنيت الأنظمة بالغريزة ثم اكتشفت أنها PDCA" إلى **"أسلوبي العملي يتوافق طبيعياً مع أطر التحسين المستمر المعتمدة"**.
+> - تحديث تسميات دراسات الحالة إلى مصطلحات مهنية احترافية: **Diagnosis → Intervention → System/Action → Measured Outcome**.
+> - تبسيط قائمة التنقل إلى: **Career Paths، How I Work، Evidence & CVs، Contact**.
+> - توضيح معمارية الـ CVs: **5 ملفات أساسية + 2 مسارات متخصصة + 1 ماستر**.
+
 ---
 
 # الجزء الأول: فلسفة التصميم والهوية البصرية والمعمارية الرقمية
 
 ### 1. الفلسفة العامة (Design Persona & Feel)
-- **الطابع العام:** الموقع لا يشبه الـ Portfolios الشخصية الاستعراضية، بل صُمم كـ **Executive Operating Dossier (ملف تنفيذي رفيع المستوى)** يشبه التقارير المدققة لمجالس الإدارة (Board-Level Operations Report).
+- **الطابع العام:** الموقع لا يشبه الـ Portfolios الشخصية الاستعراضية، بل صُمم كـ **Executive Career Portfolio** احترافي يقدم أدلة تشغيلية مدققة بأسلوب يشبه التقارير المعتمدة في مجالس الإدارة.
 - **الهدف الوظيفي:** إعطاء مسؤول التوظيف (HR) أو المدير التنفيذي (CEO / COO) قدرة على **مسح الموقع وفهم القيمة الحقيقية في 30 إلى 60 ثانية** دون أي تشتيت أو حركات استعراضية بطيئة.
-- **قاعدة الإثبات (Zero Fabrication):** كل رقم أو إنجاز مالي أو تشغيلي في الموقع مدعوم بدليل وأرقام رسمية مدققة.
+- **قاعدة الإثبات (Evidence-Based Positioning):** كل رقم أو إنجاز مالي أو تشغيلي في الموقع مدعوم بدليل وأرقام رسمية مدققة. لا توجد أرقام لا يمكن التحقق منها.
 
 ### 2. لوحة الألوان المعتمدة (Color Palette)
 | العنصر | كود اللون | الوصف والاستخدام |
@@ -25,7 +35,8 @@
 | **اللون الزمردي المميز (Primary Accent)** | `#0D6B52` / `#34D399` | أخضر زمردي داكن وفاخر، يمثل الاستقرار والنمو المالي والتشغيلي، ويستخدم للأرقام القياسية والبادجات الإيجابية. |
 | **النصوص والعناوين الرئيسية** | `#FFFFFF` | أبيض ناصع مع تباين 100% لسهولة القراءة السريعة. |
 | **النصوص الثانوية والفقرات** | `#CBD5E1` & `#94A3B8` | درجات الرمادي الفضي الهادئ غير المجهدة للعين. |
-| **كروت التنبيه والتحديات** | `rgba(239, 68, 68, 0.06)` | خلفية حمراء باهتة مع خط أحمر هادئ `#F87171` لعرض "المشاكل التشغيلية" في دراسات الحالة. |
+| **لون التمييز الذهبي** | `#E5A93C` | ذهبي دافئ يُستخدم للعناوين الفرعية للأدوار المتخصصة ولبادج التوصية. |
+| **كروت التحديات** | `rgba(239, 68, 68, 0.06)` | خلفية حمراء باهتة مع خط أحمر هادئ `#F87171` لعرض "التشخيص" في دراسات الحالة. |
 
 ### 3. الخطوط والطباعة (Typography)
 - **العناوين الرئيسية (Headings):** خط **Outfit** (أوزان 700 و 800) — خط هندسي حديث، قوي وواضح يعطي انطباعاً قيادياً حاسماً.
@@ -36,18 +47,18 @@
 الموقع **ليس صفحة واحدة طويلة** يضيع فيها القارئ، بل يتكون من **6 صفحات مستقلة تماماً**:
 ```mermaid
 graph TD
-    A["🏠 الصفحة الرئيسية<br/>Executive Landing Hub"] --> B["🏥 /healthcare-ops<br/>Healthcare Operations Director"]
-    A --> C["🔗 /supply-chain<br/>Supply Chain Manager"]
-    A --> D["🛒 /procurement<br/>Procurement Director"]
-    A --> E["🏢 /business-ops<br/>Business Operations Manager"]
-    A --> F["🎪 /events<br/>Events & Conferences Director"]
+    A["الصفحة الرئيسية - Executive Landing Hub"] --> B["/healthcare-ops - Healthcare Operations Director"]
+    A --> C["/supply-chain - Supply Chain Manager"]
+    A --> D["/procurement - Procurement Director"]
+    A --> E["/business-ops - Business Operations Manager"]
+    A --> F["/events - Events and Conferences Director"]
     
-    B --> G["📄 Mahmoud_Lotfy_CV_Healthcare_Operations.pdf"]
-    C --> H["📄 Mahmoud_Lotfy_CV_Supply_Chain.pdf"]
-    D --> I["📄 Mahmoud_Lotfy_CV_Procurement.pdf"]
-    E --> J["📄 Mahmoud_Lotfy_CV_Business_Operations.pdf"]
-    F --> K["📄 Mahmoud_Lotfy_CV_Events_Conferences.pdf"]
-    A --> L["📄 Mahmoud_Lotfy_CV_Executive_General.pdf"]
+    B --> G["Mahmoud_Lotfy_CV_Healthcare_Operations.pdf"]
+    C --> H["Mahmoud_Lotfy_CV_Supply_Chain.pdf"]
+    D --> I["Mahmoud_Lotfy_CV_Procurement.pdf"]
+    E --> J["Mahmoud_Lotfy_CV_Business_Operations.pdf"]
+    F --> K["Mahmoud_Lotfy_CV_Events_Conferences.pdf"]
+    A --> L["Mahmoud_Lotfy_CV_Executive_General.pdf"]
 ```
 - كل دور وظيفي يمتلك **صفحة مستقلة برابط مخصص** يمكن إرساله للـ HR مباشرة؛ فيفتح مسؤول التوظيف ليجد فقط ما يخص الوظيفة المستهدفة (بدون تشتيت).
 - تم إلغاء نسخ الوورد (.docx) والاكتفاء بتحميل **نسخ PDF رسمية معتمدة** تمت تسميتها بأسماء واضحة باسم محمود واسم التخصص.
@@ -64,9 +75,10 @@ graph TD
   - السطر الثاني: **EXECUTIVE CAREER DOSSIER** (أخضر زمردي صغير 0.72rem).
 - **المنتصف (روابط التنقل):**
   - `Overview`: يعود للصفحة الرئيسية.
-  - `Targeted Dossiers` (قائمة منسدلة أنيقة): تفتح نافذة سوداء بعرض 320px تحتوي على الـ 5 أدوار مع أيقونات ووصف موجز لكل دور.
-  - `Methodology`: ينزل بسلاسة لقسم منهجية العمل.
-  - `Contact & Mobility`: ينزل لقسم التواصل والتواجد الجغرافي.
+  - `Career Paths` (قائمة منسدلة أنيقة): تفتح نافذة سوداء بعرض 320px تحتوي على الـ 5 أدوار مع أيقونات ووصف موجز لكل دور. العنوان الداخلي: "Select Professional Lens".
+  - `How I Work`: ينزل بسلاسة لقسم منهجية العمل (7-Step Method).
+  - `Evidence & CVs`: ينزل لقسم ملفات السيرة الذاتية.
+  - `Contact`: ينزل لقسم التواصل والتواجد الجغرافي.
 - **الجانب الأيمن (الإجراء المباشر):**
   - زر رمادي داكن بحواف مضيئة: `LinkedIn ↗` يفتح البروفايل مباشرة.
   - أيقونة قائمة الموبايل تظهر تلقائياً على الشاشات الصغيرة وتفتح Drawer كامل ومرتب.
@@ -77,7 +89,7 @@ graph TD
   1. **عمود الهوية:** اسم محمود لطفي، التخصصات الرئيسية، ومقولته التنفيذية: *"I solve operational and business problems by connecting strategy, execution, financial discipline, people, and process."*
   2. **عمود الملفات التخصصية (Targeted Dossiers):** روابط مباشرة لصفحات الأدوار الخمسة.
   3. **عمود الروابط التنفيذية (Executive Hub):** روابط Overview، المنهجية، التواصل، ورابط مباشر باللون الزمردي لتحميل السيرة الذاتية العامة: `Executive General CV (PDF)`.
-  4. **عمود قنوات الاتصال:** الإيميل المباشر، رقم الهاتف، ورابط بروفايل LinkedIn، وزر دائري أنيق `Back to Top ↑`.
+  4. **عمود قنوات الاتصال:** الإيميل المباشر، رقم الهاتف، ورابط بروفايل LinkedIn، وزر دائري أنيق `Back to Top`.
 - **الشريط السفلي:** حقوق الملكية لسنة 2026 + عبارة: `Alexandria, Egypt · Available for: Cairo, Alexandria & Sharkia`.
 
 ---
@@ -89,15 +101,15 @@ graph TD
 ```
 [ شريط التنقل العلوي Executive Navbar ]
        ↓
-[ 1. قسم البطل Hero: الاسم + الصفة + البادجات + ملخص التموضع + أزرار الدعوة ]
+[ 1. قسم البطل Hero: الاسم + التموضع + ملخص القيمة المقترحة + أزرار الدعوة ]
        ↓
-[ 2. شريط الأرقام القياسية الكبرى (6 Career Proof Metrics) ]
+[ 2. شبكة إثبات الكفاءة: 6 Pillars of Operational Proof (Demonstrated Proof Signals) ]
        ↓
 [ 3. مسارات الأدوار المتخصصة (Targeted Executive Dossiers: 5 كروت كاملة) ]
        ↓
 [ 4. التطور والمسار المهني عبر 15+ عاماً (3 مراحل واقعية متتابعة) ]
        ↓
-[ 5. كيف أفكر: إطار العمل التشغيلي من 7 خطوات (The 7-Step Framework) ]
+[ 5. كيف أعمل: إطار العمل التشغيلي من 7 خطوات (The 7-Step Framework) ]
        ↓
 [ 6. قنوات التواصل والتواجد الجغرافي (Initiate Direct Dialogue) ]
        ↓
@@ -107,54 +119,70 @@ graph TD
 ---
 
 ### القسم الأول: Hero — التعريف والتموضع الاستراتيجي
-- **البادجات العلوية (Top Pill Badges):**
-  - بادج زمردي بيضاوي: `🛡️ EXECUTIVE CAREER PROFILE · VERIFIED EVIDENCE`
-  - بادج رمادي بمؤشر خريطة: `📍 Alexandria, Egypt · Available for: Cairo, Alexandria & Sharkia`
+- **البادج العلوي:**
+  - بادج زمردي بيضاوي: `Executive Career Portfolio & Dossiers`
 - **العناوين الرئيسية:**
-  - العنوان الكبير (H1): **Mahmoud Mohamed Lotfy** (أبيض، خط Outfit عريض جداً 3.8rem).
-  - اللقب التنفيذي: **Healthcare Operations Director · Supply Chain & Business Operations** (أخضر زمردي لامع 1.6rem).
-  - السطر التعريفي الشامل:
-    > *"15+ years of multi-sector professional leadership across healthcare clinical administration, mission-critical medical supply chain, strategic procurement, and business improvement."*
-- **صندوق ملخص التموضع (Executive Positioning Box):**
-  - **الشكل:** كارت أسود عريض بحافة يسرى سميكة زمردية بلون `#1D9E75` وخلفية `#0E1418`.
-  - **العنوان:** `EXECUTIVE POSITIONING SUMMARY` (أخضر كابيتال صغير).
-  - **النص المكتوب داخله بالخط المائل:**
-    > *"Business operations and management professional with 15+ years across operations, supply chain, procurement, financial management, inventory, team leadership, and business improvement — including 5+ years in healthcare operations. My management approach combines market awareness, financial discipline, and operational execution."*
+  - العنوان الكبير (H1): **MAHMOUD MOHAMED LOTFY** (أبيض، خط Outfit عريض جداً `clamp(2.5rem, 5.5vw, 4.2rem)`، مع تدرج لوني من الأبيض النقي للرمادي الفضي).
+  - **اللقب التنفيذي الديناميكي:**
+    - في الوضع العام (بدون دور محدد): **"A Cross-Functional Operations Leader Who Turns Complex Operations Into Measurable Systems"** (أخضر زمردي لامع).
+    - عند اختيار دور محدد: يتغير ديناميكياً ليعرض `Target Position: [اسم الدور] — [العنوان الفرعي]` (ذهبي).
+- **صندوق ملخص القيمة المقترحة (Value Proposition Box):**
+  - **الشكل:** كارت زجاجي عريض بحافة يسرى سميكة زمردية وخلفية متدرجة.
+  - **الاقتباس بالخط المائل:**
+    > *"Healthcare Operations - Supply Chain - Procurement - Business Operations - Events"*
+  - **الفقرة التنفيذية المفصلة:**
+    > *"Over 15+ years of multi-sector professional experience (including 5+ years in high-acuity healthcare operations leadership), I have transformed complex operational environments into high-margin, institutionalized systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) processing 90-140 procedures per month, I delivered +56.3% net profit growth and +65.5% revenue expansion, maintained 100% stock availability, and achieved zero procedure cancellations due to supply failure across 30+ consecutive months—all while absorbing >70% macroeconomic operational cost inflation and engineering 4 custom operational platforms on zero external software budget."*
+
+> [!TIP]
+> **ملاحظة التدقيق:** تم حذف ادعاء "3-Year CAGR +37.0%" واستبداله بـ "+65.5% Revenue Expansion" لأنه أوضح وأكثر قابلية للتحقق (نمو من EGP 5.85M إلى EGP 9.68M). تم حذف "3,570+ ساعة عمل" لعدم إمكانية التحقق منها.
+
 - **أزرار الدعوة للإجراء (Action Buttons):**
-  1. زر رئيسي زمردي مشع: `Select Targeted Dossier →` ينقل الزائر مباشرة لكروت التخصصات.
-  2. زر رمادي أنيق مع أيقونة تحميل: `Download Executive General CV (PDF)` يحمل ملف `Mahmoud_Lotfy_CV_Executive_General.pdf`.
-  3. زر نصي ناعم مع أيقونة رسالة: `Initiate Direct Dialogue` ينزل لقسم التواصل.
+  1. زر رئيسي زمردي مشع: `Explore 5 Career Dossiers` ينقل الزائر مباشرة لكروت التخصصات.
+  2. زر رمادي أنيق مع أيقونة تحميل: `Download Executive CVs` ينقل لقسم الـ CV Hub.
+  3. زر نصي ناعم: `How I Work (7-Step Method)` ينقل لقسم المنهجية.
+
+- **شريط المعلومات السريعة (Quick Info Bar):**
+  - `Cairo - Alexandria - Sharkia, Egypt`
+  - `Available for Immediate Start`
+  - `m.m.lotfy.88@gmail.com` (رابط إيميل مباشر)
+  - `LinkedIn` (رابط البروفايل)
+  - `GitHub` (رابط بروفايل GitHub: `github.com/MLotfy88`)
 
 ---
 
-### القسم الثاني: شريط الأرقام القياسية (Career Metrics Bar)
-- **الشكل والتوزيع:** شبكة متناسقة من 6 كروت مربعة الشكل (`minmax(180px, 1fr)`).
-- **التصميم:** كل كارت بلون `#0E1418`، والرقم مكتوب بخط أحادي بارز بحجم 2.1rem، وتحته مسمى الرقم، وتحته سطر بالرمادي الفاتح يوضح مصدر التوثيق.
-- **محتوى الكروت الستة بالتفصيل:**
-  1. **الكارت الأول (مميز بإطار زمردي مشع):**
-     - الرقم: **`+56.3%`** (أخضر زمردي)
-     - المسمى: `Net Profit Growth YoY`
-     - التوثيق: `Audited H1 2024 vs H1 2025 under >70% cost inflation`
-  2. **الكارت الثاني (مميز بإطار زمردي مشع):**
-     - الرقم: **`+37.0%`** (أخضر زمردي)
-     - المسمى: `Revenue 3-Year CAGR`
-     - التوثيق: `Official hospital financial audit across 3 consecutive years`
-  3. **الكارت الثالث (مميز بإطار زمردي مشع):**
-     - الرقم: **`ZERO`** (أخضر زمردي)
-     - المسمى: `Supply Failure Cancellations`
-     - التوثيق: `30+ consecutive months with 100% procedure readiness`
-  4. **الكارت الرابع:**
-     - الرقم: **`~45 Staff`** (أبيض)
-     - المسمى: `Personnel Oversight`
-     - التوثيق: `Nursing staff, surgical technicians, coordinators & admin`
-  5. **الكارت الخامس:**
-     - الرقم: **`20+ Events`** (أبيض)
-     - المسمى: `Direct Events Executed`
-     - التوثيق: `Zagazig Med Faculty congresses, Cairo Derma, TEDx Zagazig`
-  6. **الكارت السادس:**
-     - الرقم: **`15+ Years`** (أبيض)
-     - المسمى: `Multi-Sector Experience`
-     - التوثيق: `Healthcare clinical operations, FMCG warehousing, commercial media`
+### القسم الثاني: 6 أركان إثبات الكفاءة التشغيلية (6 Pillars of Operational Proof)
+
+> [!IMPORTANT]
+> **التعديل الجوهري بعد ملاحظات الخبير:** تم إعادة هيكلة المؤشرات من 6 كروت عامة إلى **6 أركان إثبات احترافية** (Demonstrated Proof Signals) مصنفة تحت عناوين تشغيلية محددة، مع حذف أي مؤشر غير قابل للتحقق.
+
+- **عنوان القسم الرئيسي:**
+  - البادج: `Demonstrated Proof Signals`
+  - العنوان: **6 Pillars of Operational Proof**
+  - العنوان الفرعي: *"Verifiable operational realities spanning financial turnaround, high-acuity clinical throughput, zero-defect reliability, and practical system-building."*
+
+- **شبكة الكروت الستة:**
+  - كل كارت يتضمن: أيقونة ملونة داخل مربع رمادي، الرقم الكبير (خط عريض 2.6rem)، المسمى، السياق التوثيقي، وعنوان التصنيف أسفل الكارت.
+  - كل كارت يحمل بادج صغير `Audited KPI` وخط زمردي متوهج أعلاه.
+
+| # | الرقم | المسمى | السياق التوثيقي | التصنيف |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | **+56.3%** | YoY Net Profitability Growth | Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,945 in H1 2024), verified in official hospital financial audits. | Financial Impact and P&L Stewardship |
+| 2 | **90-140** | Monthly Procedures Managed | Averaging 65-70 complex clinical cases/mo; 399 audited cases in H1 2025; >1,000 cases over 3 consecutive fiscal years. | Clinical Scale and High-Acuity Throughput |
+| 3 | **ZERO** | Supply-Failure Cancellations | Zero procedural cancellations due to stock or supply failure sustained across 30+ consecutive months. | Mission-Critical Operational Reliability |
+| 4 | **20+** | Conferences and Events Directed | Directed premier international medical congresses (Cairo Derma, Vascular Surgery), academic symposia, and TEDx Zagazig. | Multi-Stakeholder Event Operations (On-Budget) |
+| 5 | **15+** | Years Multi-Sector Experience | Cross-functional career spanning Healthcare, FMCG Manufacturing, HealthTech SaaS, Telecom, Media, and Live Events. | Accumulated Operational Breadth (2008 - 2026) |
+| 6 | **4 Systems** | Operational Platforms Built | Developed 4 custom production software platforms to eliminate operational friction on EGP 0 external budget. | Digital Transformation as an Operational Enabler |
+
+- **شريط المؤشرات الثانوية (Secondary Operational Stats Bar):**
+  - شريط مستطيل أسود مقسم لـ 5 أعمدة:
+
+| الرقم | المسمى | السياق |
+| :--- | :--- | :--- |
+| 100% | Critical Stock Availability | Sustained across 3 consecutive fiscal years for 50+ item codes |
+| +65.5% | Revenue Expansion | Grew from EGP 5.85M (2024) to EGP 9.68M (2025) across Cath Lab operations |
+| 40-60% | Emergency Purchasing Reduction | Achieved via procedure-linked clinical replenishment modeling |
+| >70% | Cost Inflation Absorbed | Net margins expanded +56.3% despite severe macroeconomic currency devaluation |
+| 6 Tools | Analytical Decision Models | Excel and Sheets reconciliation tools governing consignments, inventory, and pricing |
 
 ---
 
@@ -162,69 +190,69 @@ graph TD
 - **الشكل العام:** شبكة كروت تنفيذية واسعة (`minmax(340px, 1fr)`). كل كارت مزود بتأثير حركي ناعم (Hover Lift) مع إضاءة خفيفة للحدود عند اقتراب الفأرة.
 - **محتوى الكروت الخمسة:**
 
-#### 1. كارت: Healthcare Operations Director
+#### 1. كارت: Healthcare Operations
 - **الأيقونة:** نبض القلب الطبي `Activity` داخل مربع زمردي.
-- **البادج العلوي:** `CLINICAL & HOSPITAL LEADERSHIP`
-- **العنوان:** **Healthcare Operations Director**
-- **العنوان الفرعي:** Cardiac Catheterization Unit · Clinical Workflows · Zero Supply Disruptions
+- **البادج العلوي:** `Target: Healthcare Operations Director`
+- **العنوان:** **Healthcare Operations**
+- **العنوان الفرعي:** Cardiac Catheterization Unit - Clinical Workflows - Zero Supply Disruptions
 - **نص الكارت:**
-  > *"Direct management of a high-volume interventional Cardiac Catheterization Unit (90–140 cases/mo), delivering +56.3% YoY net profit growth and zero procedural cancellations across 30+ months."*
+  > *"Direct management of a high-volume interventional Cardiac Catheterization Unit (90-140 cases/mo), delivering +56.3% YoY net profit growth and zero procedural cancellations across 30+ months."*
 - **شريط الأرقام الثلاثية داخل الكارت:**
-  - `+56.3%` Net Profit YoY | `90–140` Monthly Procedures | `ZERO` Supply Cancellations
+  - `+56.3%` Net Profit YoY | `90-140` Monthly Procedures | `ZERO (30+ Mos)` Supply Cancellations
 - **الأزرار السفلية:**
-  - زر نصي زمردي: `Open Role Dossier →` ينقل لصفحة `/#/healthcare-ops`.
+  - زر نصي زمردي: `Open Role Dossier` ينقل لصفحة `/#/healthcare-ops`.
   - زر رمادي جانبي: `CV PDF` يحمل مباشرة `Mahmoud_Lotfy_CV_Healthcare_Operations.pdf`.
 
-#### 2. كارت: Supply Chain Manager
+#### 2. كارت: Supply Chain Management
 - **الأيقونة:** شاحنة لوجستية `Truck`.
-- **البادج العلوي:** `MEDICAL DEVICES & CRITICAL CONSUMABLES`
-- **العنوان:** **Supply Chain Manager**
-- **العنوان الفرعي:** Procedure-Linked Demand Models · 1-Hour SLAs · Zero Stockouts
+- **البادج العلوي:** `Target: Supply Chain Manager`
+- **العنوان:** **Supply Chain Management**
+- **العنوان الفرعي:** Procedure-Linked Demand Models - 1-Hour SLAs - Zero Stockouts
 - **نص الكارت:**
-  > *"Engineered procedure-linked demand forecasting models that reduced emergency purchasing by 40–60%, maintained 100% stock availability for 3 fiscal years, and enforced 1-Hour emergency vendor SLAs."*
+  > *"Engineered procedure-linked demand forecasting models that reduced emergency purchasing by 40-60%, maintained 100% stock availability for 3 fiscal years, and enforced 1-Hour emergency vendor SLAs."*
 - **شريط الأرقام الثلاثية:**
   - `-40% to -60%` Emergency Orders | `100%` Stock Availability | `1-Hr MAX` Vendor SLA
 - **الأزرار السفلية:**
-  - `Open Role Dossier →` ينقل لصفحة `/#/supply-chain`.
+  - `Open Role Dossier` ينقل لصفحة `/#/supply-chain`.
   - `CV PDF` يحمل `Mahmoud_Lotfy_CV_Supply_Chain.pdf`.
 
-#### 3. كارت: Procurement Director
+#### 3. كارت: Strategic Procurement and Sourcing
 - **الأيقونة:** حقيبة الشراء والمناقصات `ShoppingBag`.
-- **البادج العلوي:** `STRATEGIC SOURCING & COMMERCIAL GOVERNANCE`
-- **العنوان:** **Procurement Director**
-- **العنوان الفرعي:** 3-Criteria Sign-Off · Currency Crisis Resilience · Contract Auditing
+- **البادج العلوي:** `Target: Procurement Manager / Director`
+- **العنوان:** **Strategic Procurement and Sourcing**
+- **العنوان الفرعي:** 3-Criteria Sign-Off - Currency Crisis Resilience - Contract Auditing
 - **نص الكارت:**
-  > *"Instituted a 3-criteria procurement sign-off protocol, audited 100% of supplier invoices against master price books, and absorbed >70% currency-driven inflation through forward volume deals."*
+  > *"Instituted a 3-criteria procurement sign-off protocol, audited 100% of supplier invoices against master price books, and absorbed >70% currency-driven inflation through forward volume commitments."*
 - **شريط الأرقام الثلاثية:**
-  - `>70%` Inflation Absorbed | `20–30%` Overdue Balances Cut | `250%` Commercial ROMI
+  - `>70%` Inflation Absorbed | `20-30%` Overdue Balances Cut | `250%` Commercial ROMI
 - **الأزرار السفلية:**
-  - `Open Role Dossier →` ينقل لصفحة `/#/procurement`.
+  - `Open Role Dossier` ينقل لصفحة `/#/procurement`.
   - `CV PDF` يحمل `Mahmoud_Lotfy_CV_Procurement.pdf`.
 
-#### 4. كارت: Business Operations Manager
+#### 4. كارت: Business Operations
 - **الأيقونة:** حقيبة الأعمال التنفيذية `Briefcase`.
-- **البادج العلوي:** `CROSS-FUNCTIONAL OPERATIONS & P&L`
-- **العنوان:** **Business Operations Manager**
-- **العنوان الفرعي:** Full P&L Stewardship (~20% Revenue) · Systemic Scaling · Margin Protection
+- **البادج العلوي:** `Target: Business Operations Lead / Director`
+- **العنوان:** **Business Operations**
+- **العنوان الفرعي:** Full P&L Stewardship (~20% Revenue) - Systemic Scaling - Margin Protection
 - **نص الكارت:**
   > *"Led departmental P&L accountability contributing ~20% of hospital revenue, restructured operations through a 7-step execution framework, and delivered compounding profit expansion."*
 - **شريط الأرقام الثلاثية:**
-  - `~20%` Hospital Revenue | `100%` Process Digitization | `+56.3%` Net Profit YoY
+  - `~20%` Hospital Revenue | `4 Platforms` Systems Built | `+56.3%` Net Profit YoY
 - **الأزرار السفلية:**
-  - `Open Role Dossier →` ينقل لصفحة `/#/business-ops`.
+  - `Open Role Dossier` ينقل لصفحة `/#/business-ops`.
   - `CV PDF` يحمل `Mahmoud_Lotfy_CV_Business_Operations.pdf`.
 
-#### 5. كارت: Events & Conferences Director
+#### 5. كارت: Events and Conferences
 - **الأيقونة:** تقويم الفعاليات `Calendar`.
-- **البادج العلوي:** `MEDICAL CONGRESSES & MEDIA OPERATIONS`
-- **العنوان:** **Events & Conferences Director**
-- **العنوان الفرعي:** 20+ Executed Events · Zagazig Med Faculty & Cairo Derma · TEDx Zagazig Co-Founder
+- **البادج العلوي:** `Target: Events and Conferences Director`
+- **العنوان:** **Events and Conferences**
+- **العنوان الفرعي:** 20+ Executed Events - Zagazig Med Faculty and Cairo Derma - TEDx Zagazig Co-Founder
 - **نص الكارت:**
   > *"Directed 20+ large-scale events and medical congresses for Zagazig University Faculty of Medicine and Egyptian medical societies, co-founded TEDx Zagazig, and spent 5 years in commercial media production."*
 - **شريط الأرقام الثلاثية:**
-  - `20+ Events` Executed Events | `Multiple Depts` Medical Congresses | `2,000+` Job Fair Scale
+  - `20+ Events` Executed Events | `On-Budget` Budget Performance | `2,000+ Attendees` Job Fair Scale
 - **الأزرار السفلية:**
-  - `Open Role Dossier →` ينقل لصفحة `/#/events`.
+  - `Open Role Dossier` ينقل لصفحة `/#/events`.
   - `CV PDF` يحمل `Mahmoud_Lotfy_CV_Events_Conferences.pdf`.
 
 ---
@@ -234,39 +262,58 @@ graph TD
 - **التصميم:** 3 كروت مستطيلة عريضة متتابعة رأسياً، كل كارت يمثل مرحلة كاملة:
 
 ```
-[ المرحلة الأولى: الفعاليات والمؤتمرات الطبية الحية والإنتاج الإعلامي (2011–2014) ]
+[ المرحلة الأولى: الفعاليات والمؤتمرات الطبية الحية والإنتاج الإعلامي (2011-2014) ]
                                 ↓
-[ المرحلة الثانية: إدارة المستودعات وحفظ الخامات بنظام FIFO بمصنع حلويات (2015–2017) ]
+[ المرحلة الثانية: إدارة المستودعات وحفظ الخامات بنظام FIFO بمصنع حلويات (2015-2017) ]
                                 ↓
-[ المرحلة الثالثة: قيادة العمليات الصحية وإدارة الـ P&L بقسطرة القلب (2018–2026) ]
+[ المرحلة الثالثة: قيادة العمليات الصحية وإدارة الـ P&L بقسطرة القلب (2018-2026) ]
 ```
 
 - **نصوص المراحل الثلاث بالتفصيل:**
-  1. **Phase 1: High-Stakes Live Execution & Media Production (2011 – 2014)**
-     - التخصص: `Events, Media Production & Entrepreneurship`
+  1. **Phase 1: High-Stakes Live Execution and Media Production (2011 - 2014)**
+     - التخصص: `Events, Media Production and Entrepreneurship`
      - السرد: *"Organized premier medical congresses for Zagazig University Faculty of Medicine departments (Vascular Surgery, Cairo Derma) and co-founded TEDx Zagazig. Directed on-site operations for high-budget commercial TV campaigns (Vodafone, Huawei) managing 50+ personnel crews under extreme time sensitivity and financial penalties."*
      - الخلاصة القيادية: `Core Leadership Takeaway: Mastered high-tempo execution, stakeholder protocol, and zero-defect live delivery.`
-  2. **Phase 2: Stores, Inventory & Raw Material Control (2015 – 2017)**
-     - التخصص: `Sweets & Confectionery Facility (Verona Sweets / IBS)`
-     - السرد (بشكل دقيق وواقعي دون أي تضخيم): *"Supervised stores, raw material staging, packaging, and finished goods inventory for a local confectionery manufacturing business. Enforced strict FIFO stock rotation to prevent ingredient spoilage, synchronized daily material staging with production shift requirements, and maintained clean physical vs ledger records."*
+  2. **Phase 2: Stores, Inventory and Raw Material Control (2015 - 2017)**
+     - التخصص: `Sweets and Confectionery Facility (Verona Sweets / IBS)`
+     - السرد: *"Supervised stores, raw material staging, packaging, and finished goods inventory for a local confectionery manufacturing business. Enforced strict FIFO stock rotation to prevent ingredient spoilage, synchronized daily material staging with production shift requirements, and maintained clean physical vs ledger records."*
      - الخلاصة القيادية: `Core Leadership Takeaway: Built foundational discipline in inventory accuracy, FIFO physical stock rotation, and raw material waste prevention.`
-  3. **Phase 3: Specialized Healthcare Operations & P&L Leadership (2018 – 2026)**
-     - التخصص: `Healthcare Clinical Administration & Cath Lab (Al-Obour Hospital)`
-     - السرد: *"Directed end-to-end clinical operations of a high-volume Cardiac Catheterization Unit (90–140 procedures/month) with full P&L ownership representing ~20% of hospital revenue. Delivered +56.3% YoY net profit growth and zero supply failure cancellations across 30+ months under >70% currency-driven cost inflation."*
+  3. **Phase 3: Specialized Healthcare Operations and P&L Leadership (2018 - 2026)**
+     - التخصص: `Healthcare Clinical Administration and Cath Lab (Al-Obour Hospital)`
+     - السرد: *"Directed end-to-end clinical operations of a high-volume Cardiac Catheterization Unit (90-140 procedures/month) with full P&L ownership representing ~20% of hospital revenue. Delivered +56.3% YoY net profit growth and zero supply failure cancellations across 30+ months under >70% currency-driven cost inflation."*
      - الخلاصة القيادية: `Core Leadership Takeaway: Integrated financial discipline, clinical governance, and mission-critical supply resilience.`
 
 ---
 
-### القسم الخامس: منهجية التفكير الشاملة (How I Think: The 7-Step Framework)
-- **الغرض:** شرح الطريقة المنطقية التي يعالج بها محمود أي مشكلة تشغيلية (منهج عام ومطلق لكل القطاعات).
-- **كارت الفلسفة التأسيسية الذهبي (The Names Came Later):**
-  - كارت فخم بحد أيسر ذهبي `#E5A93C` وأيقونة مصباح.
-  - المقولة: *"I built systems because operations demanded them; the academic names—DMAIC, Deming Cycle (PDCA), Lean Six Sigma—came later, validating what instinct, observation, and relentless data tracking had already created."*
-  - النص العام المدقق:
-    > *"When facing an operational unit in distress and fragmented workflows—whether in healthcare administration, factory warehousing, or high-stakes live productions—you don't quote textbooks; you fix the broken pipeline. You go to the floor, identify why materials are missing, build tailored systems to stop unrecorded leakage, restructure supplier agreements to eliminate emergency surcharges, and train the staff until zero mistakes happen. Only years later did I study the formal literature and realize that my intuitive process mapped directly to the highest methodologies of industrial operations and Lean Six Sigma."*
+### القسم الخامس: منهجية التفكير الشاملة — الانضباط التشغيلي المستمر (Continuous Operational Discipline)
+
+> [!IMPORTANT]
+> **التعديل الجوهري بعد ملاحظات الخبير:** تم تعديل النبرة من "بنيت الأنظمة بالفطرة واكتشفت لاحقاً أنها تطابق DMAIC" إلى نبرة أكثر تواضعاً واحترافية: **"أسلوبي العملي يتوافق طبيعياً مع أطر التحسين المستمر المعتمدة مثل PDCA و DMAIC و Lean"**.
+
+- **كارت الفلسفة التأسيسية:**
+  - العنوان: **Continuous Operational Discipline**
+  - المقولة: *"My practical approach naturally overlaps with established continuous-improvement frameworks such as PDCA, DMAIC, and Lean principles."*
+  - النص التأسيسي:
+    > *"When facing an operational unit in distress or fragmented workflows—whether in healthcare administration, factory warehousing, or high-stakes live productions—effective leadership begins on the frontline. You observe real friction, diagnose root causes, build practical systems to stop unrecorded leakage, align supplier commitments, and train the team until excellence becomes the standard. This hands-on operational discipline naturally embodies the core tenets of continuous improvement, Deming's cycle, and Lean operations."*
+
+- **المبادئ التأسيسية الثلاثة:**
+  1. **Systemic Thinking Over Ad-Hoc Heroics:** *"Individual heroism is fragile and unscalable. Sustainable operations require institutionalized systems that make the right action the easiest action for every staff member on every shift."*
+  2. **Technology as an Operational Enabler:** *"Software must never be built for its own sake or imposed as a bureaucratic burden. Every digital tool must directly eliminate a frontline friction point, automate an audit trail, or protect patient safety."*
+  3. **Leadership Through Presence and Empathy:** *"You cannot optimize a clinical operating theater or a factory floor from an air-conditioned corner office. True operational authority is earned by standing beside your nurses, technicians, and team during high-pressure crises."*
+
 - **المتصفح التفاعلي للخطوات السبع:**
   - شريط أزرار علوي يتنقل بين الخطوات: `OBSERVE` → `UNDERSTAND` → `DESIGN` → `BUILD` → `EXECUTE` → `MEASURE` → `IMPROVE`.
   - بطاقة عريضة تعرض الخطوة المختارة بالتفصيل: الإجراء الفعلي (Action)، الوصف (Description)، الأدوات المستخدمة (Tools)، والدليل الواقعي المحقق (Evidence).
+
+| الخطوة | العنوان | الإجراء | الأدوات | الدليل الواقعي |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | OBSERVE | Observe Frontline Reality | Direct Floor Shadowing, Workflow Process Audits, Physical Stock Counts, Time-and-Motion Tracking | Identified that procedural room delays were not caused by surgical technique, but by pre-procedure admission ticketing and unverified lab results. |
+| 2 | UNDERSTAND | Diagnose Structural Root Causes | Root-Cause Analysis (5 Whys), Fishbone Diagrams, Value-Stream Mapping, Financial Ledger Cross-Examination | Discovered that chronic emergency consumable spot purchases were caused by a total disconnect between physician operating schedules and warehouse ordering windows. |
+| 3 | DESIGN | Architect Pragmatic Operating Models | Procedure-Linked Replenishment Algorithms, Staggered Shift Models, Dual-Custody Checklists, SLA Specifications | Designed the 3-tier patient intake protocol and a closed-loop consignment custody workflow with a 12-patient buffer cap. |
+| 4 | BUILD | Engineer Production Tools and Artifacts | Full-Stack Web Applications (React, TypeScript, Node/Rust, Relational Databases), Barcode Scanning, Production Excel Engines | Personally coded 4 standalone web platforms and 6 advanced analytical Excel models on an external software budget of exactly EGP 0. |
+| 5 | EXECUTE | Deploy with Presence and Frontline Empathy | Hands-On Clinical Floor Coaching, Quick-Reference Pocket Cards, Standard Operating Procedure (SOP) Manuals | Achieved 100% digital adoption across clinical, administrative, and inventory personnel without disrupting active patient care. |
+| 6 | MEASURE | Track Audited Metrics Relentlessly | Automated Daily Dashboards, Weekly P&L Variance Reviews, Physical Cycle Count Audits, Supplier Performance Scorecards | Generated audited departmental financial statements proving +56.3% net profit growth and 100% material stock availability. |
+| 7 | IMPROVE | Institutionalize Continuous Kaizen | Quarterly Vendor Tendering, Case-Mix Optimization Reviews, Retrospective Clinical Quality Audits | Sustained zero procedure cancellations due to stock failure across 30+ consecutive months through multiple national currency crises. |
 
 ---
 
@@ -276,218 +323,207 @@ graph TD
     - كارت الإيميل الرسمي: `m.m.lotfy.88@gmail.com` مع أيقونة رسالة زمردية.
     - كارت الهاتف والواتساب المباشر: `+20 155 816 6440` مع أيقونة اتصال وزر يفتح محادثة واتساب فوراً.
     - كارت شبكة الأعمال: `linkedin.com/in/mmlotfy` مع أيقونة لينكد إن زرقاء.
-    *(تمت إزالة بطاقة GitHub بالكامل).*
-  - **العمود الأيمن (Mobility & Geographic Scope):**
+  - **العمود الأيمن (Mobility and Geographic Scope):**
     - الموقع الحالي: `Alexandria, Egypt`
     - المنشأ وقاعدة العمليات: `Zagazig, Sharkia, Egypt`
-    - الجاهزية للعمل الحضوري والتنفيذي: `Cairo • Alexandria • Sharkia, Egypt`
+    - الجاهزية للعمل الحضوري والتنفيذي: `Cairo - Alexandria - Sharkia, Egypt`
     - بوكس زمردي أسفله يؤكد: الجاهزية للبدء الفوري، والتفرغ للأدوار القيادية والاستشارات التشغيلية.
 
 ---
 
-# الجزء الرابع: تفصيل الصفحات التخصصية الخمس (Role-Specific Pages)
+# الجزء الرابع: قسم ملفات السيرة الذاتية (CV Hub — Document Architecture)
 
-صُممت كل صفحة من الصفحات الخمس لتكون **سيرة ذاتية تفاعلية مدعومة بالأدلة (Evidence-Based Dossier)** لا تستغرق قراءتها أكثر من دقيقتين.
+> [!IMPORTANT]
+> **التعديل بعد ملاحظات الخبير:** تم توضيح معمارية الملفات بشكل صريح لتبيان الفرق بين المسارات الأساسية والمتخصصة:
+
+- **عنوان القسم:** `8 Targeted ATS-Compliant Executive CVs`
+- **العنوان الفرعي:** *"Structured into 5 Primary Career Tracks, 2 Specialized Supply Chain Focus Areas, and 1 Comprehensive Master CV."*
+- **بادجات المعمارية التوضيحية:**
+  - بادج زمردي: `5 Primary Dossiers (Healthcare, Supply Chain, Procurement, Business Ops, Events)`
+  - بادج أزرق: `2 Specialized Tracks (Demand Planning and Logistics under Supply Chain)`
+  - بادج ذهبي: `1 Master Executive General CV`
+
+- **آلية التوصية الذكية:** عند اختيار دور معين من القائمة المنسدلة، يظهر شريط توصية يحتوي على: `Currently viewing through [Role Name] lens. CV tailored for this position is highlighted below.` مع بادج `RECOMMENDED MATCH` على الملف المطابق.
+
+- **شبكة الكروت الثمانية:** كل كارت يتضمن:
+  - رقم الإصدار (`VERSION 01` - `VERSION 08`).
+  - بادج نوع الملف (`Primary Dossier` / `Specialized Track` / `Executive General`).
+  - العنوان والأدوار المستهدفة.
+  - وصف مختصر ونقاط التمييز.
+  - زر تحميل رئيسي: `Download Official CV (PDF)`.
 
 ---
 
-## 🏥 الصفحة الثانية: Healthcare Operations Director
-**الرابط المباشر:** `mmlotfy.github.io/#/healthcare-ops`
+# الجزء الخامس: تفصيل الصفحات التخصصية الخمس (Role-Specific Pages)
+
+صُممت كل صفحة من الصفحات الخمس لتكون **سيرة ذاتية تفاعلية مدعومة بالأدلة (Evidence-Based Dossier)** لا تستغرق قراءتها أكثر من دقيقتين.
+
+> [!IMPORTANT]
+> **التعديل بعد ملاحظات الخبير:** تم تغيير تسميات أقسام دراسات الحالة من العناوين القديمة إلى مصطلحات مهنية احترافية:
+> - "ما كانت المشكلة" أصبحت **Diagnosis** (التشخيص)
+> - "ما رأيته وما فعلته" أصبحت **Intervention** (التدخل)
+> - "ما بنيته" أصبحت **System / Action** (النظام المبني / الإجراء)
+> - "النتيجة المدققة" أصبحت **Measured Outcome** (النتيجة المقاسة)
+
+---
+
+## الصفحة الثانية: Healthcare Operations Director
+**الرابط المباشر:** `mlotfy88.github.io/#/healthcare-ops`
 
 ### 1. رأس الصفحة (Role Hero):
-- مسار العودة: `← Back to Executive Career Hub`
-- بادج: `CARDIAC CATHETERIZATION & CLINICAL OPERATIONS`
+- مسار العودة: `Back to Executive Career Hub`
+- بادج: `CARDIAC CATHETERIZATION AND CLINICAL OPERATIONS`
 - العنوان الكبير: **Healthcare Operations Director**
-- العنوان الفرعي: High-Volume Cath Lab Leadership · Clinical Workflow Turnaround · Zero-Failure Supply Governance
+- العنوان الفرعي: High-Volume Cath Lab Leadership - Clinical Workflow Turnaround - Zero-Failure Supply Governance
 - **صندوق القيمة المقترحة (Value Proposition Box):**
-  > *"Managed end-to-end operations of a high-volume Cardiac Catheterization Unit (90–140 procedures/month), delivering +56.3% YoY net profit growth while maintaining ZERO supply failures across 30+ months — under >70% macroeconomic cost inflation."*
+  > *"Managed end-to-end operations of a high-volume Cardiac Catheterization Unit (90-140 procedures/month), delivering +56.3% YoY net profit growth while maintaining ZERO supply failures across 30+ months — under >70% macroeconomic cost inflation."*
 - **شريط تحميل الملف والتواصل:**
   - زر زمردي وحيد: `Download Healthcare Operations CV (PDF)` (يحمل `Mahmoud_Lotfy_CV_Healthcare_Operations.pdf`).
   - أزرار سريعة لمراسلة الإيميل أو الاتصال بالهاتف مباشرة.
 
 ### 2. شبكة الأرقام المدققة (6 Key Metrics):
 1. `+56.3%` Net Profit Growth YoY (Audited H1 2024 vs H1 2025 under >70% cost inflation)
-2. `+37.0%` Revenue 3-Year CAGR (Official hospital financial audit across 3 consecutive years)
+2. `+65.5%` Revenue Expansion (Gross revenue grew from EGP 5.85M to EGP 9.68M in audited statements)
 3. `ZERO` Supply Failure Cancellations (30+ consecutive months with 100% procedure readiness)
-4. `90–140` Monthly Procedure Volume (Diagnostic angiographies, PCIs, and pacemaker implants)
-5. `~45 Staff` Team Leadership (Nursing staff, surgical technicians, coordinators & admin)
+4. `90-140` Monthly Procedure Volume (Diagnostic angiographies, PCIs, and pacemaker implants)
+5. `~45 Staff` Team Leadership (Nursing staff, surgical technicians, coordinators and admin)
 6. `100%` Equipment Readiness (Zero unplanned imaging shutdowns; 1-Hour MAX vendor SLA)
 
-### 3. دراسات الحالة الثلاث (Problem → Action → Result):
+### 3. دراسات الحالة الثلاث (Diagnosis - Intervention - System/Action - Measured Outcome):
 - **قصة 1: From Clinical Accountant to Operations Lead**
-  - *المشكلة:* عزلة وحدة القسطرة إدارياً عن إدارة المستشفى وتضارب أولويات الجراحين والتمريض والمحاسبين مما تسبب في هدر مستلزمات غير مسجلة وبطء خروج المرضى.
-  - *ما رأيته وما فعلته:* رسمت دورة حياة المريض والمستلزمات خطوة بخطوة، وقدمت خطة إعادة هيكلة شاملة لإدارة المستشفى وتم تكليفي بقيادة العمليات لتوحيد الرؤية.
-  - *ما بنيته:* بروتوكولات تشغيل يومية قياسية، ونماذج استهلاك سريري متزامنة، وجلسات تنسيق دورية مع استشاريي القلب ورئيسة التمريض.
-  - *النتيجة المدققة:* إنهاء الاحتكاك الإداري، مواءمة جداول الجراحة مع توفر المستلزمات، وإعادة ربط الوحدة بالحوكمة المركزية للمستشفى.
+  - *Diagnosis:* عزلة وحدة القسطرة إدارياً عن إدارة المستشفى وتضارب أولويات الجراحين والتمريض والمحاسبين.
+  - *Intervention:* رسم دورة حياة المريض والمستلزمات خطوة بخطوة وتقديم خطة إعادة هيكلة شاملة.
+  - *System/Action:* بروتوكولات تشغيل يومية قياسية ونماذج استهلاك سريري متزامنة.
+  - *Measured Outcome:* إنهاء الاحتكاك الإداري ومواءمة جداول الجراحة مع توفر المستلزمات.
 - **قصة 2: Zero Supply Cancellations for 30+ Consecutive Months**
-  - *المشكلة:* الاعتماد على الطلب العشوائي للدعامات والبالونات المستوردة الباهظة، والتعرض لخطر تأجيل عمليات طارئة أو الشراء الفوري بزيادة 40%.
-  - *ما رأيته وما فعلته:* بناء نموذج تنبؤ طلب ديناميكي مرتبط بقوائم العمليات المحجوزة واستشاريي القسطرة، والتفاوض على اتفاقية طوارئ ملزمة بتوريد أي مقاس نادر خلال ساعة واحدة كحد أقصى (1-Hour MAX SLA).
-  - *ما بنيته:* نظام إدارة مخزون رقمي مزود بقراءة الباركود، وتنبيهات إعادة الطلب الآلية، ودفاتر تدقيق مخزون الأمانة (Consignment).
-  - *النتيجة المدققة:* صفر إلغاء للعمليات بسبب نقص المستلزمات على مدار 30+ شهراً متتالياً، وتوفير 100%، وخفض الطلبات الطارئة بنسبة 40–60%.
+  - *Diagnosis:* الاعتماد على الطلب العشوائي للدعامات والبالونات المستوردة الباهظة.
+  - *Intervention:* بناء نموذج تنبؤ طلب ديناميكي مرتبط بقوائم العمليات المحجوزة.
+  - *System/Action:* نظام إدارة مخزون رقمي مزود بقراءة الباركود وتنبيهات إعادة الطلب.
+  - *Measured Outcome:* صفر إلغاء للعمليات بسبب نقص المستلزمات على مدار 30+ شهراً.
 - **قصة 3: Delivering +56.3% Net Profit Under Severe Cost Inflation**
-  - *المشكلة:* قفزة في تكاليف المستلزمات الطبية المستوردة بنسبة +69.9% نتيجة تعويم الجنيه، مما هدد بهبوط أرباح الوحدة إلى خسائر تشغيلية.
-  - *ما رأيته وما فعلته:* تطبيق التسعير الديناميكي المرتبط بتكلفة الاستبدال الفعلي، وتدقيق 100% من فواتير الموردين، وإعادة توجيه الطاقة التشغيلية بعد الظهر لحالات القسم الخاص (Private) ذات الهامش الربحي المرتفع (+50% نمو)، مع إطلاق برنامج تواصل مباشر مع أطباء القلب حقق عائداً تسويقياً 250% ROMI.
-  - *النتيجة المدققة:* تحقيق صافي ربح قياسي بلغ 2,978,995 جنيه في النصف الأول 2025 (+56.3% نمو)، ونمو الإيرادات الإجمالية +65.5%، والمساهمة بـ ~20% من استقرار إيرادات المستشفى.
+  - *Diagnosis:* قفزة في تكاليف المستلزمات الطبية المستوردة بنسبة +69.9%.
+  - *Intervention:* تطبيق التسعير الديناميكي وتدقيق 100% من فواتير الموردين.
+  - *System/Action:* إعادة توجيه الطاقة التشغيلية للحالات ذات الهامش المرتفع وبرنامج تسويق مباشر.
+  - *Measured Outcome:* صافي ربح قياسي 2,978,995 جنيه (+56.3% نمو) ونمو الإيرادات +65.5%.
 
 ### 4. التمكين الرقمي (Digital Enabler Box):
 - يوضح الأنظمة التي بناها محمود لخدمة القسم بصفر ميزانية خارجية:
-  1. *منظومة مؤشرات أداء التمريض (Nursing KPI System):* متابعة shift التمريض ومكافحة العدوى وتقييم 45 فرداً بموضوعية.
-  2. *نظام التقارير الطبية (Medical Diagnostic Reports):* قوالب رقمية موحدة لتقارير القسطرة لمنع ضياع التقارير وتسريع خروج المريض.
-  3. *نظام تتبع مخزون القسطرة والباركود:* تتبع الدعامات والبالونات وتواريخ الصلاحية آلياً.
-
-### 5. الكفاءات والتاريخ المهني المفلتر:
-- الكفاءات: إدارة الوحدات الإكلينيكية، حوكمة P&L، سلاسل الإمداد ومخزون الأمانة، قيادة فرق العمل، الحوكمة والامتثال للرقابة الصحية.
-- التاريخ المهني المعروض: قصر العرض على مستشفى العبور (2019–2026) وشركة برمجيات العمليات الصحية ClinPrime (2018–2019).
+  1. منظومة مؤشرات أداء التمريض (Nursing KPI System)
+  2. نظام التقارير الطبية (Medical Diagnostic Reports)
+  3. نظام تتبع مخزون القسطرة والباركود
 
 ---
 
-## 🔗 الصفحة الثالثة: Supply Chain Manager
-**الرابط المباشر:** `mmlotfy.github.io/#/supply-chain`
+## الصفحة الثالثة: Supply Chain Manager
+**الرابط المباشر:** `mlotfy88.github.io/#/supply-chain`
 
-### 1. رأس الصفحة (Role Hero):
-- بادج: `MEDICAL DEVICES & CRITICAL CONSUMABLES`
+### 1. رأس الصفحة:
+- بادج: `MEDICAL DEVICES AND CRITICAL CONSUMABLES`
 - العنوان: **Supply Chain Manager**
-- العنوان الفرعي: Demand Forecasting · Consignment Governance · 1-Hour Emergency SLAs · Zero Disruptions
+- العنوان الفرعي: Demand Forecasting - Consignment Governance - 1-Hour Emergency SLAs - Zero Disruptions
 - **القيمة المقترحة:**
-  > *"Built and managed a procedure-linked demand forecasting model that reduced emergency purchasing by 40–60%, maintained 100% stock availability across 3 fiscal years, and achieved ZERO supply disruptions for 30+ consecutive months — in a high-value medical consumables environment under >70% cost inflation."*
+  > *"Built and managed a procedure-linked demand forecasting model that reduced emergency purchasing by 40-60%, maintained 100% stock availability across 3 fiscal years, and achieved ZERO supply disruptions for 30+ consecutive months."*
 - **زر التحميل:** `Download Supply Chain Management CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Supply_Chain.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `ZERO` Supply Disruptions (30+ consecutive months with zero supply cancellations)
-2. `40–60%` Emergency Purchasing Reduction (Transitioned from panic spot buys to scheduled weekly replenishment)
-3. `100%` Critical Stock Availability (Maintained continuously across 3 consecutive fiscal years)
-4. `1 Hour MAX` Vendor Emergency Response SLA (Contractually enforced response time for specialized surgical sizes)
-5. `100%` Physical vs Ledger Accuracy (Zero stock discrepancy across 50+ critical surgical item codes)
-6. `>70%` Cost Inflation Absorbed (Absorbed foreign currency import spikes through forward volume deals)
-
-### 3. دراسات الحالة الثلاث:
-- **قصة 1: The Procedure-Linked Demand Replenishment Engine:** تحويل إعادة الطلب من العشوائية إلى خوارزمية مرتبطة بحجوزات القسطرة وسرعة استهلاك كل استشاري، وخفض الشراء الفوري 40-60%.
-- **قصة 2: Negotiating the 1-Hour MAX Emergency Vendor SLA:** إلزام الموردين بتوفير المقاسات النادرة في الحالات الحرجة خلال 60 دقيقة دون الحاجة لتجميد رأس مال المستشفى في شرائها وتخزينها مسبقاً.
-- **قصة 3: Maintaining Unbroken Supply Chains Through Currency Collapse:** استمرار توريد الدعامات والقساطر أثناء ذروة أزمة الدولار الموازي (70-72 جنيه) عبر التوريد المزدوج والالتزام بحصص الشراء المسبقة بينما توقفت المستشفيات المنافسة.
-
-### 4. التمكين الرقمي والكفاءات والتاريخ المفلتر:
-- التمكين الرقمي: نظام تتبع مخزون القسطرة بالباركود + محرك حساب نقاط إعادة الطلب ومخزون الأمان تلقائياً.
-- الكفاءات: تخطيط الطلب والتنبؤ، حوكمة مخزون الأمانة، إدارة عقود الموردين وSLAs، استراتيجية مخزون الأمان.
-- التاريخ المعروض: مستشفى العبور (2019–2026) + مصنع فيرونا (2015–2017) كمشرف مستخزن وخامات وتطبيق FIFO.
+1. `ZERO` Supply Disruptions | 2. `40-60%` Emergency Purchasing Reduction | 3. `100%` Critical Stock Availability | 4. `1 Hour MAX` Vendor Emergency Response SLA | 5. `100%` Physical vs Ledger Accuracy | 6. `>70%` Cost Inflation Absorbed
 
 ---
 
-## 🛒 الصفحة الرابعة: Procurement Director
-**الرابط المباشر:** `mmlotfy.github.io/#/procurement`
+## الصفحة الرابعة: Procurement Director
+**الرابط المباشر:** `mlotfy88.github.io/#/procurement`
 
-### 1. رأس الصفحة (Role Hero):
-- بادج: `STRATEGIC SOURCING & COMMERCIAL NEGOTIATIONS`
+### 1. رأس الصفحة:
+- بادج: `STRATEGIC SOURCING AND COMMERCIAL NEGOTIATIONS`
 - العنوان: **Procurement Director**
-- العنوان الفرعي: 3-Criteria Sign-Off · Inflation Absorption (>70%) · Master Price Books · Working Capital Recovery
+- العنوان الفرعي: 3-Criteria Sign-Off - Inflation Absorption (>70%) - Master Price Books - Working Capital Recovery
 - **القيمة المقترحة:**
-  > *"Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency devaluation (~38% official + 70–72 EGP/USD parallel), and maintained cost discipline while absorbing >70% inflation."*
-- **زر التحميل:** `Download Procurement & Sourcing CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Procurement.pdf`).
+  > *"Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency devaluation, and maintained cost discipline while absorbing >70% inflation."*
+- **زر التحميل:** `Download Procurement and Sourcing CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Procurement.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `40–60%` Emergency Purchasing Reduction (Eliminated premium spot pricing and rush freight surcharges)
-2. `>70%` Cost Inflation Absorbed (Actual departmental expenditure held at +69.9% despite massive import spikes)
-3. `20–30%` Outstanding Balances Recovered (Restructured receivables and vendor reconciliation backlogs)
-4. `100%` Invoices Audited (Zero invoices settled without verification against contracted master price books)
-5. `3 Criteria` Procurement Sign-Off Protocol (Unit price benchmark, clinical suitability, and regulatory compliance)
-6. `250%` Commercial Marketing ROMI (Return on outreach investment connecting physician referrals to procedure bookings)
-
-### 3. دراسات الحالة الثلاث:
-- **قصة 1: Instituting the 3-Criteria Procurement Sign-Off Protocol:** إلغاء الشراء الفردي والمجاملات عبر اشتراط 3 معايير (سعر الوحدة مقابل قائمة الأسعار المعتمدة، الملاءمة الفنية من الاستشاري، ومطابقة الصلاحية والفاتورة الضريبية).
-- **قصة 2: Strategic Procurement in a Crashing Currency Market:** امتصاص قفزات أسعار الموردين (50-90%) عبر عقود التوريد المزدوج وتثبيت الأسعار بالكميات السنوية وربط التعديل بالسعر الرسمي وليس أهواء المورد.
-- **قصة 3: Restructuring Balances and Recapturing Working Capital:** مراجعة وتسوية مديونيات متراكمة لـ 3 سنوات مالية، وربط مستندات الصرف بفواتير المرضى وخفض المتأخرات 20-30%.
-
-### 4. التمكين الرقمي والكفاءات والتاريخ المفلتر:
-- التمكين الرقمي: نظام الخزينة والمدفوعات المبني برمجياً، ونماذج Excel المتقدمة لمطابقة الفواتير بقوائم الأسعار التعاقدية.
-- الكفاءات: الشراء الاستراتيجي، التفاوض التجاري، مراجعة وتدقيق الفواتير بنسبة 100%، إدارة السيولة النقدية ورأس المال العامل.
-- التاريخ المعروض: مستشفى العبور (2019–2026) + فيرونا (2015–2017) كمنسق مشتريات خامات ومستلزمات تعبئة.
+1. `40-60%` Emergency Purchasing Reduction | 2. `>70%` Cost Inflation Absorbed | 3. `20-30%` Outstanding Balances Recovered | 4. `100%` Invoices Audited | 5. `3 Criteria` Procurement Sign-Off Protocol | 6. `250%` Commercial Marketing ROMI
 
 ---
 
-## 🏢 الصفحة الخامسة: Business Operations Manager
-**الرابط المباشر:** `mmlotfy.github.io/#/business-ops`
+## الصفحة الخامسة: Business Operations Manager
+**الرابط المباشر:** `mlotfy88.github.io/#/business-ops`
 
-### 1. رأس الصفحة (Role Hero):
-- بادج: `CROSS-FUNCTIONAL LEADERSHIP & P&L STEWARDSHIP`
+### 1. رأس الصفحة:
+- بادج: `CROSS-FUNCTIONAL LEADERSHIP AND P&L STEWARDSHIP`
 - العنوان: **Business Operations Manager**
-- العنوان الفرعي: P&L Ownership (~20% Hospital Revenue) · Operational Discipline · Zero-Budget Systems · Compounding Growth
+- العنوان الفرعي: P&L Ownership (~20% Hospital Revenue) - Operational Discipline - Zero-Budget Systems - Compounding Growth
 - **القيمة المقترحة:**
-  > *"Cross-functional operations leader with full P&L accountability (~20% of hospital revenue), building high-governance KPI systems and delivering 3 consecutive years of compounding profit growth — proving that systemic execution (observe → measure → build → improve) applies across healthcare, manufacturing, FMCG, and complex multi-stakeholder operations."*
+  > *"Cross-functional operations leader with full P&L accountability (~20% of hospital revenue), building high-governance KPI systems and delivering 3 consecutive years of compounding profit growth."*
 - **زر التحميل:** `Download Business Operations CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Business_Operations.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `+56.3%` Net Profit Growth YoY (Audited H1 2024 vs H1 2025 reaching record EGP 2,978,995)
-2. `+37.0%` Revenue 3-Year CAGR (Consistent compounding top-line expansion across 3 fiscal years)
-3. `~20%` Hospital Revenue Share (Unit operates as the primary financial stability engine for the entire facility)
-4. `100%` Process Digitization (Complete operational digitization on Day 1 at zero external software cost)
-5. `~45 Staff` Cross-Functional Team (Clinicians, nursing supervisors, technicians, administrative and support staff)
-6. `3,570+ Hrs` Development Investment (Personally engineered 4 enterprise web platforms and 6 analytical modules)
+1. `+56.3%` Net Profit Growth YoY | 2. `+65.5%` Revenue Expansion | 3. `~20%` Hospital Revenue Share | 4. `100%` Process Digitization | 5. `~45 Staff` Cross-Functional Team | 6. `4 Systems` Operational Platforms Built
 
-### 3. دراسات الحالة الثلاث:
-- **قصة 1: The Transferable Operational Value Chain:** نقل مبادئ الانضباط التصنيعي وإدارة الوقت في الإعلانات إلى المستشفى، وتجهيز أطقم المستلزمات مسبقاً، ورفع عدد الحالات من 90 إلى 140 شهرياً (+37.8%) دون إضافة غرف أو ساعات إضافية.
-- **قصة 2: 3 Years of Compounding Discipline:** كيف قادت العادات اليومية الصارمة (مطابقة الاستهلاك، مراجعة الفواتير الأسبوعية، تقييم التمريض، مراجعة مزيج الحالات) إلى مضاعفة صافي الأرباح.
-- **قصة 3: Building Enterprise Infrastructure with Zero Budget:** بناء 4 منصات برمجية كاملة بدلاً من انتظار ملايين الجنيهات لشراء أنظمة ERP جاهزة في ظل أزمة العملة.
-
-### 4. التمكين الرقمي والكفاءات والتاريخ:
-- التمكين الرقمي: استعراض شامل للأنظمة الأربعة (إدارة النقدية، إدارة المخزون، التقارير الطبية، تقييم أداء التمريض) باستثمار 3,570 ساعة عمل.
-- الكفاءات: إدارة الـ P&L الشاملة، تصميم وتوحيد تدفقات العمل SOPs، هندسة مؤشرات الأداء KPIs، قيادة الفرق المتعددة التخصصات.
-- التاريخ المعروض: التاريخ المهني الكامل لتأكيد شمولية وقوة خبرة إدارة الأعمال عبر القطاعات المتعددة.
+> [!TIP]
+> **ملاحظة تدقيق:** تم حذف `3,570+ Hrs` (Development Investment) من هذه الصفحة بناءً على ملاحظات الخبير لعدم إمكانية التحقق منها. تم استبدالها بـ `4 Systems` كمؤشر واقعي قابل للإثبات.
 
 ---
 
-## 🎪 الصفحة السادسة: Events & Conferences Director
-**الرابط المباشر:** `mmlotfy.github.io/#/events`
+## الصفحة السادسة: Events and Conferences Director
+**الرابط المباشر:** `mlotfy88.github.io/#/events`
 
-### 1. رأس الصفحة (Role Hero):
-- بادج: `MEDICAL CONGRESSES & HIGH-STAKES PRODUCTION`
-- العنوان: **Events & Conferences Director**
-- العنوان الفرعي: 20+ Executed Events · Zagazig Med Faculty & Cairo Derma · TEDx Zagazig Co-Founder · Commercial Media Direction
+### 1. رأس الصفحة:
+- بادج: `MEDICAL CONGRESSES AND HIGH-STAKES PRODUCTION`
+- العنوان: **Events and Conferences Director**
+- العنوان الفرعي: 20+ Executed Events - Zagazig Med Faculty and Cairo Derma - TEDx Zagazig Co-Founder - Commercial Media Direction
 - **القيمة المقترحة:**
-  > *"Conferences and events director with 20+ executed events including signature medical conferences for Zagazig University Faculty of Medicine departments (Zagazig Vascular Surgery, Cairo Derma), co-founder of TEDx Zagazig, combining insider medical operations knowledge with creative production, stakeholder management, and live execution discipline."*
-- **زر التحميل:** `Download Events & Communications CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Events_Conferences.pdf`).
+  > *"Conferences and events director with 20+ executed events including signature medical conferences for Zagazig University Faculty of Medicine departments, co-founder of TEDx Zagazig, combining insider medical operations knowledge with creative production, stakeholder management, and live execution discipline."*
+- **زر التحميل:** `Download Events and Communications CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Events_Conferences.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `20+ Events` Total Executed Events (Academic congresses, medical symposia, large-scale recruitment fairs, and brand activations)
-2. `Multiple Depts` Medical Conferences (Zagazig University Faculty of Medicine departmental congresses: Vascular Surgery, Cairo Derma, etc.)
-3. `TEDx Zagazig` TEDx Platform Co-Founder (Brought official global TED license to Sharkia for the first time)
-4. `5 Years` Commercial Media Track Record (8+ major national brands: Vodafone, Huawei, Cairo Festival City, Jumia)
-5. `2,000+ Attendees` Job Fair Scale Directed (Zagazig University Career Center premier recruitment forum: 30+ corporate sponsors)
-6. `0.0%` Event Budget Overruns (Strict financial governance delivering 100% on-budget execution)
-
-*(تأكيد: تم حذف ClinPrime نهائياً من هذه الصفحة ومؤشراتها).*
-
-### 3. دراسات الحالة الثلاث:
-- **قصة 1: Executing High-Acuity Medical & Academic Conferences:** تنظيم المؤتمرات الطبية لأقسام كلية طب الزقازيق (Zagazig Vascular Surgery بحضور 250+ استشاري، و Cairo Derma في سميراميس إنتركونتيننتال بحضور 500+ طبيب مصري ودولي)، وضبط الترجمة الفورية والورش الحية ومعارض شركات الأدوية دون أي تأخير في الجلسات العلمية.
-- **قصة 2: Founding and Scaling TEDx Zagazig:** الحصول على ترخيص TED العالمي لأول مرة في محافظة الشرقية، قيادة فريق تنظيمي من 40+ متطوع، وتدريب 12 متحدثاً، وإخراج حدث مباشر بحضور 400 شخص وبث مرئي عالمي.
-- **قصة 3: 5 Years on High-Budget Commercial Television Sets:** العمل كمدير مواقع ومساعد إنتاج في تصوير الإعلانات التلفزيونية لكبرى الشركات (فودافون، هواوي، المارعي)، وتنسيق تصاريح الشرطة والمحليات وإدارة أطقم تزيد عن 50 فرداً في مواقع تصوير حية تحت ضغوط مالية وزمنية بالغة الدقة.
-
-### 4. التمكين الرقمي والكفاءات والتاريخ:
-- التمكين الرقمي: شيتات التوقيت بالدقيقة للفعاليات الحية (Run-Down Sheets)، وأنظمة تسجيل واستخراج بطاقات الحضور بالباركود السريع.
-- الكفاءات: إدارة المؤتمرات الطبية والأكاديمية، إدارة الإنتاج الفني والـ AV، الرعايات والعلاقات مع شركات الأدوية، إدارة الحشود والتصاريح الأمنية، الإخراج والإنتاج المرئي.
-- التاريخ المعروض: الإنتاج الإعلامي التجاري (2014–2019)، شركة Share Events ومؤتمر TEDx Zagazig (2013–2014)، وتنظيم مؤتمرات أقسام كلية طب جامعة الزقازيق وملتقيات التوظيف (2011–2013).
+1. `20+ Events` Total Executed Events | 2. `Multiple Depts` Medical Conferences | 3. `TEDx Zagazig` TEDx Platform Co-Founder | 4. `5 Years` Commercial Media Track Record | 5. `2,000+ Attendees` Job Fair Scale Directed | 6. `Schedule Delivery: 100% On-Time` Event Execution
 
 ---
 
-# الجزء الخامس: ملخص ملفات السيرة الذاتية (CV Downloads)
+# الجزء السادس: ملخص ملفات السيرة الذاتية (CV Downloads)
 
-تمت مطابقة وحفظ جميع الملفات داخل مسار `public/cv` بصيغة **PDF حصراً**، وجرى اختبار تحميلها والتأكد من عمل روابطها:
+تمت مطابقة وحفظ جميع الملفات داخل مسار `public/cv` بصيغة **PDF حصراً**:
 
-| اسم الملف على السيرفر | الرابط الذي يظهر لـ HR | التخصص المستهدف |
-| :--- | :--- | :--- |
-| `Mahmoud_Lotfy_CV_Executive_General.pdf` | Executive General CV (PDF) | الصفحة الرئيسية والفوتر (الملف التنفيذي الماستر) |
-| `Mahmoud_Lotfy_CV_Healthcare_Operations.pdf` | Healthcare Operations CV (PDF) | صفحة إدارة العمليات الصحية وقسطرة القلب |
-| `Mahmoud_Lotfy_CV_Supply_Chain.pdf` | Supply Chain Management CV (PDF) | صفحة إدارة سلاسل الإمداد ومستلزمات الجراحة |
-| `Mahmoud_Lotfy_CV_Procurement.pdf` | Procurement & Sourcing CV (PDF) | صفحة إدارة المشتريات والمناقصات والعقود |
-| `Mahmoud_Lotfy_CV_Business_Operations.pdf` | Business Operations CV (PDF) | صفحة إدارة العمليات وتطوير الأعمال وP&L |
-| `Mahmoud_Lotfy_CV_Events_Conferences.pdf` | Events & Communications CV (PDF) | صفحة إدارة المؤتمرات والفعاليات والإنتاج |
-| `Mahmoud_Lotfy_CV_Demand_Planning.pdf` | Demand Planning & Inventory CV (PDF) | متاح في المجلد لدعم أدوار تخطيط الطلب |
-| `Mahmoud_Lotfy_CV_Logistics_Operations.pdf` | Logistics Operations CV (PDF) | متاح في المجلد لدعم أدوار اللوجستيات |
+| اسم الملف على السيرفر | الرابط الذي يظهر لـ HR | التخصص المستهدف | النوع |
+| :--- | :--- | :--- | :--- |
+| `Mahmoud_Lotfy_CV_Executive_General.pdf` | Executive General CV (PDF) | الصفحة الرئيسية والفوتر (الملف التنفيذي الماستر) | Master |
+| `Mahmoud_Lotfy_CV_Healthcare_Operations.pdf` | Healthcare Operations CV (PDF) | صفحة إدارة العمليات الصحية وقسطرة القلب | Primary Dossier |
+| `Mahmoud_Lotfy_CV_Supply_Chain.pdf` | Supply Chain Management CV (PDF) | صفحة إدارة سلاسل الإمداد ومستلزمات الجراحة | Primary Dossier |
+| `Mahmoud_Lotfy_CV_Procurement.pdf` | Procurement and Sourcing CV (PDF) | صفحة إدارة المشتريات والمناقصات والعقود | Primary Dossier |
+| `Mahmoud_Lotfy_CV_Business_Operations.pdf` | Business Operations CV (PDF) | صفحة إدارة العمليات وتطوير الأعمال وP&L | Primary Dossier |
+| `Mahmoud_Lotfy_CV_Events_Conferences.pdf` | Events and Communications CV (PDF) | صفحة إدارة المؤتمرات والفعاليات والإنتاج | Primary Dossier |
+| `Mahmoud_Lotfy_CV_Demand_Planning.pdf` | Demand Planning and Inventory CV (PDF) | متاح في المجلد لدعم أدوار تخطيط الطلب | Specialized Track |
+| `Mahmoud_Lotfy_CV_Logistics_Operations.pdf` | Logistics Operations CV (PDF) | متاح في المجلد لدعم أدوار اللوجستيات | Specialized Track |
 
 ---
 
-# الجزء السادس: أسئلة استرشادية للمراجع المتخصص
+# الجزء السابع: سجل التعديلات بعد مراجعة الخبير (Change Log)
+
+> [!NOTE]
+> **ملخص التعديلات الجوهرية التي تم تطبيقها بناءً على مراجعة الخبير الاستراتيجي:**
+
+| # | التعديل | التفاصيل | الملفات المتأثرة |
+| :---: | :--- | :--- | :--- |
+| 1 | **تعديل التموضع** | من "Executive Operating Dossier" إلى "Cross-Functional Operations Leader Who Turns Complex Operations Into Measurable Systems" | `identity.ts`, `Hero.tsx` |
+| 2 | **حذف Revenue 3-Year CAGR** | حذف `+37.0% Revenue 3-Year CAGR` واستبداله بـ `+65.5% Revenue Expansion` (أوضح وأكثر قابلية للتحقق) | `metrics.ts`, `rolesData.ts`, `LandingPage.tsx` |
+| 3 | **حذف 3,570+ Hrs** | حذف ادعاء "3,570+ ساعة عمل" لعدم إمكانية التحقق منه، واستبداله بـ "4 Systems" كمؤشر واقعي | `metrics.ts`, `rolesData.ts` |
+| 4 | **تعديل نبرة المنهجية** | من "بنيت بالغريزة واكتشفت لاحقاً أنها PDCA" إلى "أسلوبي يتوافق طبيعياً مع أطر التحسين المستمر" | `methodology.ts` |
+| 5 | **تحديث تسميات دراسات الحالة** | من "Problem - What I Saw - What I Built - Result" إلى "Diagnosis - Intervention - System/Action - Measured Outcome" | `CaseStudies.tsx` |
+| 6 | **تبسيط التنقل** | من "Targeted Dossiers / Methodology / Contact and Mobility" إلى "Career Paths / How I Work / Evidence and CVs / Contact" | `ExecutiveNavbar.tsx` |
+| 7 | **توضيح معمارية CVs** | إضافة بادجات توضيحية: "5 Primary + 2 Specialized + 1 Master" | `CvHub.tsx` |
+| 8 | **تصحيح Event Metric** | من "0.0% Delay" إلى "Schedule Delivery: 100% On-Time" (صياغة إيجابية أوضح) | `rolesData.ts` |
+| 9 | **استعادة رابط GitHub** | إعادة رابط GitHub Profile (`github.com/MLotfy88`) بعد حذفه بالخطأ في commit سابق | `Hero.tsx` |
+
+---
+
+# الجزء الثامن: أسئلة استرشادية للمراجع المتخصص
 
 عند إرسال هذا الملف لشخص متخصص لإبداء رأيه، يُنصح بتوجيه اهتمامه للنقاط الآتية:
 1. **وضوح الرسالة:** هل يتمكن مسؤول التوظيف (HR) من فهم مجالك ونقاط قوتك الفاصلة خلال أول 30 ثانية من مطالعة الصفحة الرئيسية؟
-2. **قوة الأدلة:** هل صياغة دراسات الحالة في صفحات الأدوار المتخصصة (مشكلة → ما رأيته وما فعلته → نتيجة رقمية مدققة) تمنح الثقة التامة وتثبت أنك مدير عملي ميداني؟
-3. **الهيكلية وتوزيع الأدوار:** هل تقسيم الموقع لـ 5 صفحات تخصصية مباشرة يحل إشكالية تشتت السيرة الذاتية ويجعل التقديم لكل وظيفة دقيقاً ومقنعاً؟
-4. **نبرة التواضع والاحترافية:** هل صياغة تجربة مصنع فيرونا (المستودعات والخامات بنظام FIFO) وتجربة المؤتمرات الطبية أصبحت متوازنة وواقعية تماماً وتخلو من أي تضخيم؟
+2. **مصداقية الأرقام:** هل المؤشرات المعروضة (6 Pillars) تبدو قابلة للتحقق ومصاغة بأسلوب "Audit-Ready"؟
+3. **نبرة التموضع الاحترافي:** هل العنوان "Cross-Functional Operations Leader" مناسب ومتوازن بين الطموح والواقعية؟
+4. **قوة الأدلة:** هل صياغة دراسات الحالة (Diagnosis - Intervention - System/Action - Measured Outcome) تمنح الثقة التامة وتثبت أنك مدير عملي ميداني؟
+5. **الهيكلية وتوزيع الأدوار:** هل تقسيم الموقع لـ 5 صفحات تخصصية مباشرة يحل إشكالية تشتت السيرة الذاتية ويجعل التقديم لكل وظيفة دقيقاً ومقنعاً؟
+6. **نبرة التواضع والاحترافية:** هل صياغة تجربة مصنع فيرونا وتجربة المؤتمرات الطبية أصبحت متوازنة وواقعية تماماً وتخلو من أي تضخيم؟
+7. **المنهجية:** هل صياغة "أسلوبي العملي يتوافق طبيعياً مع PDCA/DMAIC/Lean" أكثر مصداقية من الصياغة السابقة؟

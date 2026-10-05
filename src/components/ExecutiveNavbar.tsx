@@ -139,7 +139,7 @@ export const ExecutiveNavbar: React.FC<ExecutiveNavbarProps> = ({ currentRoleSlu
                 padding: '6px 0'
               }}
             >
-              <span>Targeted Dossiers</span>
+              <span>Career Paths</span>
               <ChevronDown size={14} style={{ transform: isRoleDropdownOpen ? 'rotate(180deg)' : 'none', transition: 'transform 0.2s ease' }} />
             </button>
 
@@ -224,7 +224,19 @@ export const ExecutiveNavbar: React.FC<ExecutiveNavbarProps> = ({ currentRoleSlu
               transition: 'color 0.2s ease'
             }}
           >
-            Methodology
+            How I Work
+          </a>
+
+          <a 
+            href="/#cv-hub" 
+            style={{ 
+              fontSize: '0.88rem', 
+              fontWeight: 500, 
+              color: '#CBD5E1',
+              transition: 'color 0.2s ease'
+            }}
+          >
+            Evidence & CVs
           </a>
 
           <a 
@@ -236,7 +248,7 @@ export const ExecutiveNavbar: React.FC<ExecutiveNavbarProps> = ({ currentRoleSlu
               transition: 'color 0.2s ease'
             }}
           >
-            Contact & Mobility
+            Contact
           </a>
         </nav>
 
@@ -358,14 +370,21 @@ export const ExecutiveNavbar: React.FC<ExecutiveNavbarProps> = ({ currentRoleSlu
               onClick={() => setIsMobileMenuOpen(false)}
               style={{ color: '#CBD5E1', textDecoration: 'none', fontSize: '0.9rem' }}
             >
-              7-Step Methodology
+              How I Work (7-Step Method)
+            </a>
+            <a
+              href="/#cv-hub"
+              onClick={() => setIsMobileMenuOpen(false)}
+              style={{ color: '#CBD5E1', textDecoration: 'none', fontSize: '0.9rem' }}
+            >
+              Evidence & CVs (8 Versions)
             </a>
             <a
               href="/#contact"
               onClick={() => setIsMobileMenuOpen(false)}
               style={{ color: '#CBD5E1', textDecoration: 'none', fontSize: '0.9rem' }}
             >
-              Contact & Location Mobility
+              Contact
             </a>
           </div>
         </div>

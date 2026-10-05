@@ -21,7 +21,7 @@ export interface DigitalEnabler {
   title: string;
   subtitle: string;
   description: string;
-  devHours?: string;
+  systemsSummary?: string;
   externalCost: string;
   platforms: { name: string; tech: string; description: string; impact: string }[];
 }
@@ -74,7 +74,7 @@ export const rolesData: Record<string, RoleData> = {
     cvTitle: "Healthcare Operations CV (PDF)",
     metrics: [
       { label: "Net Profit Growth YoY", value: "+56.3%", note: "Audited H1 2024 vs H1 2025 under >70% cost inflation", highlight: true },
-      { label: "Revenue 3-Year CAGR", value: "+37.0%", note: "Official hospital financial audit across 3 consecutive years", highlight: true },
+      { label: "Revenue Growth YoY", value: "+65.5%", note: "Gross revenue expanded from EGP 5.85M to EGP 9.68M", highlight: true },
       { label: "Supply Failure Cancellations", value: "ZERO", note: "30+ consecutive months with 100% procedure readiness", highlight: true },
       { label: "Monthly Procedure Volume", value: "90–140", note: "Diagnostic angiographies, PCIs, and pacemaker implants" },
       { label: "Team Leadership", value: "~45 Staff", note: "Nursing staff, surgical technicians, coordinators & admin" },
@@ -119,7 +119,7 @@ export const rolesData: Record<string, RoleData> = {
       title: "Technology as an Operational Enabler",
       subtitle: "Custom-Built Digital Infrastructure with Zero External Budget",
       description: "Rather than waiting for enterprise software licenses, I personally designed and engineered custom internal applications to eliminate administrative friction and enforce operational discipline on the floor.",
-      devHours: "3,570+ Hours",
+      systemsSummary: "4 Custom Platforms",
       externalCost: "EGP 0",
       platforms: [
         {
@@ -238,10 +238,10 @@ export const rolesData: Record<string, RoleData> = {
         title: "Maintaining Unbroken Supply Chains Through Currency Collapse",
         subtitle: "Navigating Parallel Market Devaluation (70–72 EGP/USD)",
         problem: "During 2023–2024, Egypt experienced severe foreign exchange shortages. The USD surged from 30.9 to 70+ in the parallel market. Importers instituted delivery quotas, demanded upfront cash payments, and canceled open purchase orders.",
-        whatISaw: "Competing hospitals suffered severe supply shortages and canceled surgeries. Waiting for central supply stabilization would shut down our catheterization rooms.",
+        whatISaw: "Severe national foreign currency shortages and import delivery backlogs threatened surgical device availability across the region.",
         whatIDid: "Acted preemptively: established dual-sourcing agreements for all top-20 critical surgical codes; negotiated forward volume commitments locking in price books; and prioritized cash settlements for essential life-saving consignments.",
         whatIBuilt: "Consignment Consumption Audit Protocol ensuring instantaneous credit reconciliation for suppliers upon item implantation.",
-        result: "Al-Obour Hospital maintained 100% stock availability while competitors suffered stockouts. Zero surgical cancellations occurred during the peak of Egypt's foreign currency crisis.",
+        result: "The unit maintained 100% critical stock availability and achieved zero surgical cancellations throughout the severe foreign currency crisis across 30+ consecutive months.",
         demonstrates: "Macroeconomic crisis navigation, dual-sourcing redundancy, supply continuity, and financial risk mitigation."
       }
     ],
@@ -249,7 +249,7 @@ export const rolesData: Record<string, RoleData> = {
       title: "Real-Time Supply Chain Visibility",
       subtitle: "Custom Inventory & Barcode Tracking Architecture",
       description: "Rather than relying on manual paper bin cards prone to transcription errors, I built an end-to-end inventory management platform tailored specifically for cardiac consumables.",
-      devHours: "320 Hours",
+      systemsSummary: "Custom Barcode Platform",
       externalCost: "EGP 0",
       platforms: [
         {
@@ -371,7 +371,7 @@ export const rolesData: Record<string, RoleData> = {
       title: "Procurement Intelligence & Financial Controls",
       subtitle: "Custom Built Cash Management & Purchasing Ledger",
       description: "To prevent financial leakage and track commercial purchasing in real time, I developed internal software tools replacing static spreadsheets.",
-      devHours: "650 Hours",
+      systemsSummary: "Financial & Sourcing Engine",
       externalCost: "EGP 0",
       platforms: [
         {
@@ -448,11 +448,11 @@ export const rolesData: Record<string, RoleData> = {
     cvTitle: "Business Operations CV (PDF)",
     metrics: [
       { label: "Net Profit Growth YoY", value: "+56.3%", note: "Audited H1 2024 vs H1 2025 reaching record EGP 2,978,995", highlight: true },
-      { label: "Revenue 3-Year CAGR", value: "+37.0%", note: "Consistent compounding top-line expansion across 3 fiscal years", highlight: true },
-      { label: "Hospital Revenue Share", value: "~20%", note: "Unit operates as the primary financial stability engine for the entire facility" },
-      { label: "Process Digitization", value: "100%", note: "Complete operational digitization on Day 1 at zero external software cost", highlight: true },
+      { label: "Revenue Growth YoY", value: "+65.5%", note: "Gross annual revenue expanded from EGP 5.85M to EGP 9.68M", highlight: true },
+      { label: "Hospital Revenue Share", value: "~20%", note: "Contributing approximately 20% of facility revenue with steady operating margins" },
+      { label: "Operational Platforms", value: "4 Systems", note: "Production web platforms built on zero external software budget", highlight: true },
       { label: "Cross-Functional Team", value: "~45 Staff", note: "Clinicians, nursing supervisors, technicians, administrative and support staff" },
-      { label: "Development Investment", value: "3,570+ Hrs", note: "Personally engineered 4 enterprise web platforms and 6 analytical modules" }
+      { label: "Analytical Engines", value: "6 Modules", note: "Custom Excel and Sheets analytical decision models" }
     ],
     stories: [
       {
@@ -474,7 +474,7 @@ export const rolesData: Record<string, RoleData> = {
         whatISaw: "No single catastrophic failure was hurting profitability; instead, a hundred micro-inefficiencies were compounding every single day.",
         whatIDid: "Instituted the 7-Step Operational Framework: daily reconciliation of clinical consumption vs cashiering; weekly vendor invoice audits; bi-weekly nursing KPI reviews; and monthly surgical volume mix reviews. Held every departmental stakeholder accountable to clear, quantifiable metrics.",
         whatIBuilt: "Unified Daily Management Reporting Rhythm and Executive Dashboard.",
-        result: "Turned the unit from an administrative challenge into Al-Obour Hospital's most profitable asset: +56.3% net profit growth and +37.0% 3-year revenue CAGR.",
+        result: "Turned the unit from an administrative challenge into Al-Obour Hospital's most profitable asset: +56.3% net profit growth and +65.5% gross revenue expansion.",
         demonstrates: "Operational discipline, performance management, compounding improvement, and cultural change."
       },
       {
@@ -490,10 +490,10 @@ export const rolesData: Record<string, RoleData> = {
       }
     ],
     digitalEnabler: {
-      title: "The Ultimate Force Multiplier: Zero-Budget Software Suite",
-      subtitle: "4 Enterprise Applications · 6 Advanced Analytical Engines · ~3,570 Dev Hours",
-      description: "My defining operational differentiator: when an operational process is broken or lacks visibility, I don't write memos asking for millions in software licenses. I build the exact digital tool needed to standardize, automate, and enforce it.",
-      devHours: "3,570+ Hours",
+      title: "Digital Transformation as an Operational Enabler",
+      subtitle: "4 Enterprise Applications · 6 Advanced Analytical Engines · Zero Software Budget",
+      description: "My defining operational differentiator: when an operational process is broken or lacks visibility, I don't write memos asking for expensive commercial software licenses. I build the exact digital tool needed to standardize, automate, and enforce it.",
+      systemsSummary: "4 Production Platforms",
       externalCost: "EGP 0",
       platforms: [
         {

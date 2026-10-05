@@ -201,7 +201,7 @@ export const roleLenses: RoleLens[] = [
     number: "08",
     title: "Digital Transformation / Operations Analytics",
     subtitle: "Operational Problem Solving Through Technology — 4 Platforms, EGP 0 Budget",
-    pitch: "Technology as an operational enabler: built 4 custom enterprise applications and 6 advanced Excel/Sheets modules from scratch on an external budget of EGP 0 (~3,570 development hours). Designed for real-world frontline adoption by clinicians and administrative staff.",
+    pitch: "Technology as an operational enabler: built 4 custom operational applications and 6 advanced Excel/Sheets modules from scratch on an external software budget of EGP 0. Designed for practical frontline adoption by clinicians and administrative staff.",
     focusAreas: [
       "Operational Problem Solving Through Technology",
       "Custom Enterprise Web Applications (React, TypeScript, SQLite)",
@@ -211,9 +211,9 @@ export const roleLenses: RoleLens[] = [
     ],
     keyMetrics: [
       { label: "Software Budget", value: "EGP 0" },
-      { label: "Development Hours", value: "~3,570 Hours" },
-      { label: "Digital Applications", value: "4 Custom Systems" },
-      { label: "Excel/Sheets Modules", value: "6 Engines" }
+      { label: "Operational Platforms", value: "4 Systems" },
+      { label: "Analytical Models", value: "6 Engines" },
+      { label: "Adoption Rate", value: "100% Frontline" }
     ],
     targetPositions: "Digital Transformation Lead • Operations Analytics Manager • Systems & Process Architect • Business Systems Lead",
     recommendedCvTitle: "Executive General CV (Master ATS)",
@@ -236,7 +236,7 @@ export const roleLenses: RoleLens[] = [
       { label: "Years in Production", value: "5 Years (2014–2019)" },
       { label: "Crew Scale", value: "50+ Personnel" },
       { label: "Named Commercials", value: "8+ Major Brands" },
-      { label: "Schedule Overrun", value: "0.0% Delay" }
+      { label: "Schedule Delivery", value: "100% On-Time" }
     ],
     targetPositions: "Production Manager • Location Manager • Creative Operations Lead • Commercial Project Director",
     recommendedCvTitle: "Events & Communications CV",

@@ -51,21 +51,24 @@ export const DigitalEnablerBox: React.FC<DigitalEnablerBoxProps> = ({ enabler })
             <div>
               <div style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', fontSize: '0.78rem', color: 'var(--text-emerald)', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '8px' }}>
                 <Cpu size={14} />
-                <span>Operational Superpower & Force Multiplier</span>
+                <span>Digital Transformation as an Operational Enabler</span>
               </div>
               <h2 style={{ fontSize: 'clamp(1.5rem, 2.3vw, 2rem)', fontWeight: 800, color: '#FFFFFF', marginBottom: '6px' }}>
                 {enabler.title}
               </h2>
-              <div style={{ fontSize: '0.95rem', color: '#94A3B8' }}>
+              <div style={{ fontSize: '0.95rem', color: '#94A3B8', fontStyle: 'italic', marginBottom: '6px' }}>
+                "The technology was not the goal. The goal was always to improve the operation."
+              </div>
+              <div style={{ fontSize: '0.9rem', color: 'var(--text-emerald)', fontWeight: 500 }}>
                 {enabler.subtitle}
               </div>
             </div>
 
             <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
-              {enabler.devHours && (
+              {enabler.systemsSummary && (
                 <div style={{ padding: '8px 16px', borderRadius: '8px', backgroundColor: 'rgba(255, 255, 255, 0.04)', border: '1px solid rgba(255, 255, 255, 0.1)', textAlign: 'center' }}>
-                  <div style={{ fontSize: '0.72rem', color: '#94A3B8', textTransform: 'uppercase' }}>Invested Time</div>
-                  <div style={{ fontSize: '1.05rem', fontWeight: 800, color: '#F8FAFC', fontFamily: 'var(--font-mono)' }}>{enabler.devHours}</div>
+                  <div style={{ fontSize: '0.72rem', color: '#94A3B8', textTransform: 'uppercase' }}>Scope</div>
+                  <div style={{ fontSize: '1.05rem', fontWeight: 800, color: '#F8FAFC', fontFamily: 'var(--font-mono)' }}>{enabler.systemsSummary}</div>
                 </div>
               )}
               <div style={{ padding: '8px 16px', borderRadius: '8px', backgroundColor: 'rgba(13, 107, 82, 0.2)', border: '1px solid rgba(29, 158, 117, 0.35)', textAlign: 'center' }}>

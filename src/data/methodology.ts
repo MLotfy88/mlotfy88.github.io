@@ -67,9 +67,9 @@ export const methodologySteps: MethodologyStep[] = [
 ];
 
 export const foundationalPhilosophy = {
-  title: "The Names Came Later",
-  quote: "I built systems because operations demanded them; the academic names—DMAIC, Deming Cycle (PDCA), Lean Six Sigma—came later, validating what instinct, observation, and relentless data tracking had already created.",
-  narrative: "When facing an operational unit in distress and fragmented workflows—whether in healthcare administration, factory warehousing, or high-stakes live productions—you don't quote textbooks; you fix the broken pipeline. You go to the floor, identify why materials are missing, build tailored systems to stop unrecorded leakage, restructure supplier agreements to eliminate emergency surcharges, and train the staff until zero mistakes happen. Only years later did I study the formal literature and realize that my intuitive process mapped directly to the highest methodologies of industrial operations and Lean Six Sigma."
+  title: "Continuous Operational Discipline",
+  quote: "My practical approach naturally overlaps with established continuous-improvement frameworks such as PDCA, DMAIC, and Lean principles.",
+  narrative: "When facing an operational unit in distress or fragmented workflows—whether in healthcare administration, factory warehousing, or high-stakes live productions—effective leadership begins on the frontline. You observe real friction, diagnose root causes, build practical systems to stop unrecorded leakage, align supplier commitments, and train the team until excellence becomes the standard. This hands-on operational discipline naturally embodies the core tenets of continuous improvement, Deming's cycle, and Lean operations."
 };
 
 export const corePrinciples = [

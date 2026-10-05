@@ -15,14 +15,13 @@ import { heroMetrics, secondaryMetrics } from '../data/metrics';
 export const HeroMetrics: React.FC = () => {
   const getIcon = (id: string) => {
     switch (id) {
-      case 'profit': return <TrendingUp size={24} color="#34D399" />;
-      case 'stock': return <ShieldCheck size={24} color="#38BDF8" />;
-      case 'cancellations': return <CheckCircle2 size={24} color="#E5A93C" />;
-      case 'throughput': return <Activity size={24} color="#A78BFA" />;
-      case 'software': return <Code2 size={24} color="#F472B6" />;
-      case 'inflation': return <DollarSign size={24} color="#FBBF24" />;
-      case 'experience': return <Clock size={24} color="#34D399" />;
-      default: return <Sparkles size={24} color="#34D399" />;
+      case 'profit-growth': return <TrendingUp size={24} color="#34D399" />;
+      case 'monthly-procedures': return <Activity size={24} color="#38BDF8" />;
+      case 'cancellations-zero': return <ShieldCheck size={24} color="#E5A93C" />;
+      case 'conferences-count': return <Sparkles size={24} color="#A78BFA" />;
+      case 'experience-years': return <Clock size={24} color="#34D399" />;
+      case 'systems-built': return <Code2 size={24} color="#F472B6" />;
+      default: return <CheckCircle2 size={24} color="#34D399" />;
     }
   };
 
@@ -34,11 +33,11 @@ export const HeroMetrics: React.FC = () => {
         <div className="section-header" style={{ marginBottom: '44px' }}>
           <div className="section-badge">
             <Sparkles size={14} />
-            <span>Audited Executive Results</span>
+            <span>Demonstrated Proof Signals</span>
           </div>
-          <h2 className="section-title">The 7 Pillars of Demonstrated Impact</h2>
+          <h2 className="section-title">6 Pillars of Operational Proof</h2>
           <p className="section-subtitle">
-            Every figure below is an audited operational reality from high-acuity healthcare and multi-sector enterprise leadership.
+            Verifiable operational realities spanning financial turnaround, high-acuity clinical throughput, zero-defect reliability, and practical system-building.
           </p>
         </div>
 
