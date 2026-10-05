@@ -1,0 +1,71 @@
+@import './styles/design-tokens.css';
+
+/* Global Layout & Flex Structure */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Responsive Navigation Breakpoints */
+@media (min-width: 900px) {
+  .desktop-nav {
+    display: flex !important;
+  }
+  .mobile-menu-trigger {
+    display: none !important;
+  }
+}
+
+@media (max-width: 899px) {
+  .desktop-nav {
+    display: none !important;
+  }
+  .mobile-menu-trigger {
+    display: flex !important;
+  }
+}
+
+/* Card Hover Interactions */
+.role-card-hover {
+  transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+}
+
+.role-card-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(29, 158, 117, 0.45) !important;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.35s ease forwards;
+}
+
+/* Custom Text Selection */
+::selection {
+  background: var(--color-primary-light);
+  color: #FFFFFF;
+}
+
+/* Smooth Focus states */
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--text-emerald);
+  outline-offset: 3px;
+}
