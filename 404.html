@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+      // Single Page Apps for GitHub Pages
+      // Redirects path-based routes (e.g. /healthcare-ops) to hash-based routes (/#/healthcare-ops)
+      var path = window.location.pathname;
+      var search = window.location.search;
+      var hash = window.location.hash;
+      
+      // Remove trailing slash if any
+      if (path.length > 1 && path.endsWith('/')) {
+        path = path.slice(0, -1);
+      }
+      
+      // Redirect to the hash route
+      var target = window.location.origin + '/#' + path + search + hash;
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to <a href="/">mmlotfy.github.io</a>...</p>
+  </body>
+</html>
