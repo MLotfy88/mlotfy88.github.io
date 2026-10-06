@@ -63,22 +63,22 @@ export const rolesData: Record<string, RoleData> = {
   "healthcare-ops": {
     slug: "healthcare-ops",
     navTitle: "Healthcare Ops",
-    roleTitle: "Healthcare Operations Director",
-    roleBadge: "Cardiac Catheterization & Clinical Operations",
+    roleTitle: "Healthcare Operations Leadership",
+    roleBadge: "Target Role: Healthcare Operations Director",
     subtitle: "High-Volume Cath Lab Leadership · Clinical Workflow Turnaround · Zero-Failure Supply Governance",
     valueProposition:
-      "Managed end-to-end operations of a high-volume Cardiac Catheterization Unit (90–140 procedures/month), delivering +56.3% YoY net profit growth while maintaining ZERO supply failures across 30+ months — under >70% macroeconomic cost inflation.",
+      "Managed end-to-end operations of a high-volume Cardiac Catheterization Unit (operating range 90–140 procedures/month; averaging ~66 complex cases/mo), delivering +56.3% YoY net profit growth while maintaining ZERO supply failures across 30+ months — under >70% macroeconomic cost inflation.",
     executiveSummary:
-      "Over 5+ years directing specialized clinical operations at Al-Obour Hospital, I unified administrative oversight, nursing workflows, and supply chain governance for a high-acuity interventional unit. By instituting procedure-linked consumable forecasting, strict financial controls, and custom frontline software, I transformed the department into the hospital's primary financial and clinical anchor (~20% of total revenue).",
+      "Over 5+ years leading specialized clinical operations at Al-Obour Hospital, I unified administrative oversight, nursing workflows, and supply chain governance for a high-acuity interventional unit. By instituting procedure-linked consumable forecasting, strict financial controls, and custom frontline digital tools, I transformed the department into the hospital's primary financial and clinical anchor (~20% of total revenue).",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Healthcare_Operations.pdf",
     cvTitle: "Healthcare Operations CV (PDF)",
     metrics: [
-      { label: "Net Profit Growth YoY", value: "+56.3%", note: "Audited H1 2024 vs H1 2025 under >70% cost inflation", highlight: true },
-      { label: "Revenue Growth YoY", value: "+65.5%", note: "Gross revenue expanded from EGP 5.85M to EGP 9.68M", highlight: true },
-      { label: "Supply Failure Cancellations", value: "ZERO", note: "30+ consecutive months with 100% procedure readiness", highlight: true },
-      { label: "Monthly Procedure Volume", value: "90–140", note: "Diagnostic angiographies, PCIs, and pacemaker implants" },
-      { label: "Team Leadership", value: "~45 Staff", note: "Nursing staff, surgical technicians, coordinators & admin" },
-      { label: "Equipment Readiness", value: "100%", note: "Zero unplanned imaging shutdowns; 1-Hour MAX vendor SLA" }
+      { label: "Net Profit Growth YoY", value: "+56.3%", note: "H1 2025 vs H1 2024 · Official Hospital Financial Data", highlight: true },
+      { label: "Revenue Growth YoY", value: "+65.5%", note: "H1 2024 to H1 2025 · EGP 5.85M to EGP 9.68M", highlight: true },
+      { label: "Supply Failure Cancellations", value: "ZERO", note: "Jan 2023 – Apr 2026 · 30+ Consecutive Months", highlight: true },
+      { label: "Monthly Procedures — Operating Range", value: "90–140", note: "Historical operating range; 399 documented cases in H1 2025 (~66/mo)" },
+      { label: "Personnel Oversight", value: "~45 Staff", note: "Direct management of 5–10 staff, with broader operational oversight across ~45 personnel" },
+      { label: "Equipment Readiness", value: "100%", note: "Zero unplanned imaging shutdowns; 1-Hour MAX vendor emergency SLA" }
     ],
     stories: [
       {
@@ -158,10 +158,10 @@ export const rolesData: Record<string, RoleData> = {
         location: "Zagazig, Sharkia, Egypt",
         summary: "Full administrative, financial, clinical workflow, and supply chain leadership of the specialized Cardiac Catheterization Unit.",
         highlights: [
-          "+56.3% YoY net profit growth; +65.5% gross revenue expansion (audited H1 2024 vs H1 2025)",
+          "+56.3% YoY net profit growth; +65.5% gross revenue expansion (H1 2024 vs H1 2025)",
           "Zero procedure cancellations due to supply failure across 30+ consecutive months",
-          "Managed ~45 cross-functional personnel across 90–140 monthly catheterization procedures",
-          "Engineered 4 enterprise web platforms on zero external budget (~3,570 development hours)"
+          "Operational oversight of ~45 personnel (5–10 direct management) across 90–140 procedures/month",
+          "Built 4 internal operational platforms using AI-assisted tools on zero external software budget"
         ]
       },
       {
@@ -193,8 +193,8 @@ export const rolesData: Record<string, RoleData> = {
   "supply-chain": {
     slug: "supply-chain",
     navTitle: "Supply Chain",
-    roleTitle: "Supply Chain Manager",
-    roleBadge: "Medical Devices & Critical Consumables",
+    roleTitle: "Supply Chain Management",
+    roleBadge: "Target Role: Supply Chain Manager",
     subtitle: "Demand Forecasting · Consignment Governance · 1-Hour Emergency SLAs · Zero Disruptions",
     valueProposition:
       "Built and managed a procedure-linked demand forecasting model that reduced emergency purchasing by 40–60%, maintained 100% stock availability across 3 fiscal years, and achieved ZERO supply disruptions for 30+ consecutive months — in a high-value medical consumables environment under >70% cost inflation.",
@@ -203,12 +203,12 @@ export const rolesData: Record<string, RoleData> = {
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Supply_Chain.pdf",
     cvTitle: "Supply Chain Management CV (PDF)",
     metrics: [
-      { label: "Supply Disruptions", value: "ZERO", note: "30+ consecutive months with zero supply cancellations", highlight: true },
+      { label: "Supply Disruptions", value: "ZERO", note: "Jan 2023 – Apr 2026 · 30+ Consecutive Months", highlight: true },
       { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Transitioned from panic spot buys to scheduled weekly replenishment", highlight: true },
-      { label: "Critical Stock Availability", value: "100%", note: "Maintained continuously across 3 consecutive fiscal years", highlight: true },
+      { label: "Critical Stock Availability", value: "100%", note: "3 Fiscal Years · 50+ Critical Surgical Item Codes", highlight: true },
       { label: "Vendor Emergency Response SLA", value: "1 Hour MAX", note: "Contractually enforced response time for specialized surgical sizes" },
       { label: "Physical vs Ledger Accuracy", value: "100%", note: "Zero stock discrepancy across 50+ critical surgical item codes" },
-      { label: "Cost Inflation Absorbed", value: ">70%", note: "Absorbed foreign currency import spikes through forward volume deals" }
+      { label: "Cost Inflation Mitigated", value: ">70%", note: "Performance maintained despite severe currency devaluations" }
     ],
     stories: [
       {
@@ -315,20 +315,20 @@ export const rolesData: Record<string, RoleData> = {
   "procurement": {
     slug: "procurement",
     navTitle: "Procurement",
-    roleTitle: "Procurement Director",
-    roleBadge: "Strategic Sourcing & Commercial Negotiations",
-    subtitle: "3-Criteria Sign-Off · Inflation Absorption (>70%) · Master Price Books · Working Capital Recovery",
+    roleTitle: "Procurement & Strategic Sourcing",
+    roleBadge: "Target Role: Procurement Manager / Director",
+    subtitle: "3-Criteria Sign-Off · Inflation Mitigation (>70%) · Master Price Books · Working Capital Recovery",
     valueProposition:
-      "Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency devaluation (~38% official + 70–72 EGP/USD parallel), and maintained cost discipline while absorbing >70% inflation.",
+      "Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency shocks, and maintained strict commercial discipline while absorbing >70% cost inflation.",
     executiveSummary:
       "Over 10+ years managing commercial purchasing and vendor relationships across healthcare, manufacturing, and commercial events. By establishing master price books, 100% invoice auditing, dual-sourcing redundancy, and a strict 3-criteria sign-off framework, I eliminated procurement leakage and maximized return on every spent pound.",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Procurement.pdf",
     cvTitle: "Procurement & Sourcing CV (PDF)",
     metrics: [
-      { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Eliminated premium spot pricing and rush freight surcharges", highlight: true },
-      { label: "Cost Inflation Absorbed", value: ">70%", note: "Actual departmental expenditure held at +69.9% despite massive import spikes", highlight: true },
+      { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Eliminated premium spot pricing through planned replenishment", highlight: true },
+      { label: "Cost Inflation Mitigated", value: ">70%", note: "Expenditure contained via forward volume commitments", highlight: true },
       { label: "Outstanding Balances Recovered", value: "20–30%", note: "Restructured receivables and vendor reconciliation backlogs", highlight: true },
-      { label: "Invoices Audited", value: "100%", note: "Zero invoices settled without verification against contracted master price books", highlight: true },
+      { label: "Invoices Audited", value: "100%", note: "100% verified against contracted master price books", highlight: true },
       { label: "Procurement Sign-Off Protocol", value: "3 Criteria", note: "Unit price benchmark, clinical suitability, and regulatory compliance" },
       { label: "Commercial Marketing ROMI", value: "250%", note: "Return on outreach investment connecting physician referrals to procedure bookings" }
     ],
@@ -437,21 +437,21 @@ export const rolesData: Record<string, RoleData> = {
   "business-ops": {
     slug: "business-ops",
     navTitle: "Business Ops",
-    roleTitle: "Business Operations Manager",
-    roleBadge: "Cross-Functional Leadership & P&L Stewardship",
+    roleTitle: "Business Operations Leadership",
+    roleBadge: "Target Role: Business Operations Lead / Director",
     subtitle: "P&L Ownership (~20% Hospital Revenue) · Operational Discipline · Zero-Budget Systems · Compounding Growth",
     valueProposition:
-      "Cross-functional operations leader with full P&L accountability (~20% of hospital revenue), building high-governance KPI systems and delivering 3 consecutive years of compounding profit growth — proving that systemic execution (observe → measure → build → improve) applies across healthcare, manufacturing, FMCG, and complex multi-stakeholder operations.",
+      "Cross-functional operations leader with full P&L accountability (~20% of hospital revenue), building high-governance KPI systems and delivering 3 consecutive years of compounding profit growth — proving that systemic execution applies across healthcare, manufacturing, FMCG, and complex multi-stakeholder operations.",
     executiveSummary:
-      "A versatile business operations executive with 15+ years of leadership spanning clinical healthcare administration, industrial manufacturing, commercial media production, and custom digital systems. I solve core operational problems by combining financial discipline, rigorous process design, frontline staff engagement, and self-built software platforms.",
+      "A versatile business operations executive with 15+ years of leadership spanning clinical healthcare administration, industrial manufacturing, commercial media production, and custom digital systems. I solve core operational problems by combining financial discipline, rigorous process design, frontline staff engagement, and practical internal software platforms.",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Business_Operations.pdf",
     cvTitle: "Business Operations CV (PDF)",
     metrics: [
-      { label: "Net Profit Growth YoY", value: "+56.3%", note: "Audited H1 2024 vs H1 2025 reaching record EGP 2,978,995", highlight: true },
-      { label: "Revenue Growth YoY", value: "+65.5%", note: "Gross annual revenue expanded from EGP 5.85M to EGP 9.68M", highlight: true },
+      { label: "Net Profit Growth YoY", value: "+56.3%", note: "H1 2025 vs H1 2024 · Official Hospital Financial Data", highlight: true },
+      { label: "Revenue Growth YoY", value: "+65.5%", note: "Gross revenue grew from EGP 5.85M to EGP 9.68M", highlight: true },
       { label: "Hospital Revenue Share", value: "~20%", note: "Contributing approximately 20% of facility revenue with steady operating margins" },
       { label: "Operational Platforms", value: "4 Systems", note: "Production web platforms built on zero external software budget", highlight: true },
-      { label: "Cross-Functional Team", value: "~45 Staff", note: "Clinicians, nursing supervisors, technicians, administrative and support staff" },
+      { label: "Personnel Oversight", value: "~45 Personnel", note: "Direct management of 5–10 staff, broader oversight of ~45 personnel" },
       { label: "Analytical Engines", value: "6 Modules", note: "Custom Excel and Sheets analytical decision models" }
     ],
     stories: [
@@ -480,13 +480,13 @@ export const rolesData: Record<string, RoleData> = {
       {
         id: "zero-budget-systems",
         title: "Building Enterprise Infrastructure with Zero Budget",
-        subtitle: "Solving Critical Operational Gaps by Writing the Code Myself",
-        problem: "Hospital executive leadership recognized the urgent need for process digitization and real-time operational reporting, but macroeconomic challenges meant capital expenditure for commercial ERP systems (Oracle/SAP/Cerner) was zero.",
+        subtitle: "Solving Critical Operational Gaps by Writing Tailored Tools",
+        problem: "Hospital executive leadership recognized the urgent need for process digitization and real-time operational reporting, but macroeconomic challenges meant capital expenditure for commercial ERP systems was zero.",
         whatISaw: "Waiting for external software budgets was a recipe for indefinite paralysis. Frontline staff needed simple, responsive, tailored tools immediately—not an over-engineered corporate system 2 years later.",
-        whatIDid: "Invested over 3,570 development hours across 3 years learning and writing full-stack code (React, TypeScript, Rust, SQLite) to build 4 purpose-built internal applications and 6 advanced Excel engines directly mapped to our daily floor operations.",
+        whatIDid: "Leveraged modern AI-assisted development tools and full-stack web technologies to build 4 purpose-built internal applications and 6 advanced Excel models directly mapped to our daily floor operations.",
         whatIBuilt: "4 standalone enterprise platforms (Cash Management, Inventory Tracking, Medical Diagnostic Reports, Nursing KPI Monitoring).",
-        result: "Achieved 100% digital process adoption on Day 1 at exactly EGP 0 in external software licensing costs.",
-        demonstrates: "Extreme resourcefulness, self-taught technical mastery, frontline user empathy, and digital enablement."
+        result: "Established immediate frontline adoption across clinical and administrative workflows at exactly EGP 0 in external software licensing costs.",
+        demonstrates: "Resourcefulness, pragmatic system building, frontline user empathy, and digital enablement."
       }
     ],
     digitalEnabler: {
@@ -539,7 +539,7 @@ export const rolesData: Record<string, RoleData> = {
         highlights: [
           "+56.3% YoY net profit growth; +65.5% gross revenue growth (audited H1 2024 vs H1 2025)",
           "Department accounts for ~20% of total hospital revenue stability",
-          "Engineered 4 internal enterprise platforms on zero external budget (~3,570 development hours)"
+          "Built 4 internal operational platforms using AI-assisted tools on zero external software budget"
         ]
       },
       {
@@ -589,8 +589,8 @@ export const rolesData: Record<string, RoleData> = {
   "events": {
     slug: "events",
     navTitle: "Events & Conferences",
-    roleTitle: "Events & Conferences Director",
-    roleBadge: "Medical Congresses & High-Stakes Production",
+    roleTitle: "Events & Conference Operations",
+    roleBadge: "Target Role: Events & Conferences Director",
     subtitle: "20+ Executed Events · Zagazig Med Faculty & Cairo Derma · TEDx Zagazig Co-Founder · Commercial Media Direction",
     valueProposition:
       "Conferences and events director with 20+ executed events including signature medical conferences for Zagazig University Faculty of Medicine departments (Zagazig Vascular Surgery, Cairo Derma), co-founder of TEDx Zagazig, combining insider medical operations knowledge with creative production, stakeholder management, and live execution discipline.",
@@ -604,7 +604,7 @@ export const rolesData: Record<string, RoleData> = {
       { label: "TEDx Platform Co-Founder", value: "TEDx Zagazig", note: "Brought official global TED license to Sharkia for the first time", highlight: true },
       { label: "Commercial Media Track Record", value: "5 Years", note: "8+ major national brands (Vodafone, Huawei, Cairo Festival City, Jumia)" },
       { label: "Job Fair Scale Directed", value: "2,000+ Attendees", note: "Zagazig University Career Center premier recruitment forum (30+ corporate sponsors)" },
-      { label: "Event Budget Overruns", value: "0.0%", note: "Strict financial governance delivering 100% on-budget execution" }
+      { label: "Live Production Span", value: "5 Years", note: "Assistant Production & Location Manager on 8+ major commercial TV campaigns" }
     ],
     stories: [
       {

@@ -14,17 +14,17 @@ export const cvCatalog: CvItem[] = [
   {
     id: "executive-general",
     number: "01",
-    title: "Executive General CV (Master ATS)",
+    title: "Executive General CV",
     roleLensId: "all",
-    targetRoles: "Healthcare Operations Director • General Manager • Chief Operating Officer (COO)",
-    badge: "Master Comprehensive Profile",
-    description: "The complete executive presentation covering multi-sector leadership, P&L stewardship, clinical Cath Lab turnaround, custom digital system engineering, and macroeconomic resilience.",
+    targetRoles: "Healthcare Operations Director • General Manager • Operations Director",
+    badge: "Comprehensive / ATS-Ready",
+    description: "The complete executive presentation covering multi-sector leadership, P&L stewardship, clinical Cath Lab turnaround, custom operational system building, and macroeconomic resilience.",
     pdfFile: "./cv/Mahmoud_Lotfy_CV_Executive_General.pdf",
     highlights: [
-      "15+ years of verified multi-sector operational leadership",
-      "+56.3% Cath Lab net profit and +65.5% revenue growth",
-      "Custom software engineering: 4 web platforms on EGP 0 external budget",
-      "Full oversight of ~45 staff across clinical, administrative, and inventory functions"
+      "15+ years of verified multi-sector operational leadership (2008 – 2026)",
+      "+56.3% Cath Lab net profit and +65.5% gross revenue growth",
+      "Built 4 internal operational platforms using AI-assisted tools on EGP 0 external budget",
+      "Operational oversight across ~45 personnel (5–10 direct management)"
     ]
   },
   {

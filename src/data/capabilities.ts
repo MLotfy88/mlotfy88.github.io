@@ -144,9 +144,9 @@ export const capabilityDomains: CapabilityDomain[] = [
       "React, Python, Rust, Excel"
     ],
     evidence: [
-      "Personally engineered 4 standalone custom web platforms on an external software budget of exactly EGP 0.",
-      "Built 6 advanced Excel/Google Sheets operational management modules (~3,570 documented development hours).",
-      "Achieved 100% digital process adoption on Day 1 across nursing, technical, and administrative hospital staff."
+      "Built 4 custom internal operational platforms on an external software budget of exactly EGP 0.",
+      "Built 6 advanced Excel and Sheets operational analytical models directly mapped to floor workflows.",
+      "Established high digital process adoption across nursing, technical, and administrative staff."
     ]
   }
 ];

@@ -3,7 +3,8 @@
 
 An executive professional operating system, evidence-based career positioning hub, and role-driven portfolio presentation for **Mahmoud Mohamed Lotfy**.
 
-- **Live Production URL**: [https://mmlotfy.github.io/](https://mmlotfy.github.io/)
+- **Live Production URL**: [https://mlotfy88.github.io/](https://mlotfy88.github.io/)
+- **GitHub Repository**: [https://github.com/MLotfy88/mlotfy88.github.io](https://github.com/MLotfy88/mlotfy88.github.io)
 - **Authoritative Source of Truth**: `Mahmoud Mohamed Lotfy — Complete Professional Biography.md` (Master Dossier)
 
 ---
@@ -96,14 +97,14 @@ mahmoud-lotfy-portfolio/
 
 This project is configured with a fully automated **GitHub Actions** deployment pipeline:
 
-1. **Repository Name**: Create a repository named `mmlotfy.github.io` on GitHub.
+1. **Repository Name**: Set up repository named `mlotfy88.github.io` under account `MLotfy88` on GitHub.
 2. **Push Code**: Push this repository to the `main` branch.
 3. **Configure Pages Setting (One-time, 10 seconds)**:
    - In GitHub, go to **Settings** → **Pages**.
    - Under **Build and deployment > Source**, select **"GitHub Actions"**.
 4. **Automatic Build & Live URL**:
    - The GitHub Actions workflow (`.github/workflows/deploy.yml`) automatically builds the project using Vite and deploys the `dist` artifact to GitHub Pages.
-   - The site goes live immediately at: **https://mmlotfy.github.io/**.
+   - The site goes live immediately at: **https://mlotfy88.github.io/**.
 
 
 ## 📦 Building for Production
@@ -123,13 +124,13 @@ npm run preview
 
 ## 🚀 GitHub Pages Deployment Setup
 
-This project is configured specifically for **GitHub Pages** under `https://mmlotfy.github.io`:
+This project is configured specifically for **GitHub Pages** under `https://mlotfy88.github.io`:
 
 1. **Base Path**: Configured as relative (`base: './'`) in `vite.config.ts`, ensuring all assets, fonts, and CV download links load properly on any domain or subpath.
 2. **Jekyll Bypass**: The `public/.nojekyll` file ensures GitHub Pages serves files starting with underscores and raw assets without Jekyll interference.
 3. **Automated Deployment Options**:
-   - **Option A (GitHub Actions)**: Create `.github/workflows/deploy.yml` with the standard Vite GitHub Pages action.
-   - **Option B (Direct branch deployment)**: Push the compiled contents of `dist/` to the `gh-pages` branch or the root of the user page repository (`mmlotfy/mmlotfy.github.io`).
+   - **Option A (GitHub Actions - Active)**: `.github/workflows/deploy.yml` builds and deploys on every push to `main`.
+   - **Option B (Direct branch deployment)**: Push the compiled contents of `dist/` to the `gh-pages` branch or the root of the user page repository (`MLotfy88/mlotfy88.github.io`).
 
 ---
 

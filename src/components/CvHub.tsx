@@ -25,9 +25,9 @@ export const CvHub: React.FC<CvHubProps> = ({ activeRole }) => {
             <Download size={14} />
             <span>Document Architecture</span>
           </div>
-          <h2 className="section-title">8 Targeted ATS-Compliant Executive CVs</h2>
+          <h2 className="section-title">8 Targeted Executive CVs</h2>
           <p className="section-subtitle">
-            Structured into 5 Primary Career Tracks, 2 Specialized Supply Chain Focus Areas, and 1 Comprehensive Master CV.
+            Structured into 5 Primary Career Dossiers + 3 Specialized CV Lenses (Demand Planning, Logistics Operations, and Executive General).
           </p>
 
           {/* Architecture Explanatory Pills */}
@@ -52,7 +52,7 @@ export const CvHub: React.FC<CvHubProps> = ({ activeRole }) => {
                 fontWeight: 600,
               }}
             >
-              5 Primary Dossiers (Healthcare, Supply Chain, Procurement, Business Ops, Events)
+              5 Primary Career Dossiers (Healthcare, Supply Chain, Procurement, Business Ops, Events)
             </span>
             <span
               style={{
@@ -65,20 +65,7 @@ export const CvHub: React.FC<CvHubProps> = ({ activeRole }) => {
                 fontWeight: 600,
               }}
             >
-              2 Specialized Tracks (Demand Planning & Logistics under Supply Chain)
-            </span>
-            <span
-              style={{
-                fontSize: '0.78rem',
-                backgroundColor: 'rgba(229, 169, 60, 0.15)',
-                border: '1px solid rgba(229, 169, 60, 0.3)',
-                color: '#E5A93C',
-                padding: '4px 12px',
-                borderRadius: 'var(--radius-full)',
-                fontWeight: 600,
-              }}
-            >
-              1 Master Executive General CV
+              3 Specialized CV Lenses (Demand Planning, Logistics Operations, Executive General)
             </span>
           </div>
         </div>

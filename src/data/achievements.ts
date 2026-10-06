@@ -109,9 +109,9 @@ export const achievementsData: AchievementItem[] = [
     metric: "EGP 0",
     title: "Software Budget for 4 Custom Platforms",
     category: "Digital",
-    context: "~3,570 Documented Dev Hours",
-    story: "Personally engineered 4 standalone web applications and 6 analytical Excel modules on an external software budget of exactly EGP 0.",
-    evidence: "Production Systems Architecture & Code Repository"
+    context: "Custom Operational Systems",
+    story: "Built 4 standalone operational web applications and 6 analytical Excel models on an external software budget of exactly EGP 0.",
+    evidence: "Production Systems Architecture & Internal Platforms"
   },
   {
     id: "events-01-conferences",

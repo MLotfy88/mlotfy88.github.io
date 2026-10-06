@@ -90,7 +90,7 @@ export const ExecutiveNavbar: React.FC<ExecutiveNavbarProps> = ({ currentRoleSlu
             </span>
           </div>
           <span style={{ fontSize: '0.72rem', color: 'var(--text-emerald)', fontWeight: 600, letterSpacing: '0.04em' }}>
-            EXECUTIVE CAREER DOSSIER
+            EXECUTIVE CAREER PORTFOLIO
           </span>
         </Link>
 

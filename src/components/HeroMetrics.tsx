@@ -96,13 +96,14 @@ export const HeroMetrics: React.FC = () => {
                     style={{
                       fontSize: '0.72rem',
                       fontFamily: 'var(--font-mono)',
-                      color: 'var(--text-muted)',
-                      backgroundColor: 'rgba(255, 255, 255, 0.05)',
+                      color: metric.id === 'profit-growth' ? 'var(--text-emerald)' : 'var(--text-muted)',
+                      backgroundColor: metric.id === 'profit-growth' ? 'rgba(13, 107, 82, 0.2)' : 'rgba(255, 255, 255, 0.05)',
                       padding: '2px 8px',
                       borderRadius: '4px',
+                      border: metric.id === 'profit-growth' ? '1px solid rgba(29, 158, 117, 0.3)' : 'none',
                     }}
                   >
-                    Audited KPI
+                    {metric.id === 'profit-growth' ? 'Audited Financial KPI' : 'Verified Metric'}
                   </span>
                 </div>
 

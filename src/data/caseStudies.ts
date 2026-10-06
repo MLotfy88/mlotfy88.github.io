@@ -81,14 +81,13 @@ export const caseStudies: CaseStudy[] = [
     title: "Digital Transformation",
     subtitle: "Zero-Budget Internal Systems Architecture",
     domain: "Systems Engineering & HealthTech",
-    timeframe: "2023 – 2025",
-    impactSummary: "100% digital process adoption on Day 1 across 4 custom web applications and 6 Excel modules on EGP 0 external software budget.",
+    impactSummary: "Established practical digital workflows across 4 custom web applications and 6 analytical models on EGP 0 external software budget.",
     problem: "Critical operational activities depended on fragmented paper logbooks and manual transcription, while hospital capital budgets had zero allocation for multi-million enterprise software (ERP/HIS) licenses.",
     whatISaw: "Management needed real-time visibility into inventory, patient flow, and P&L, but capital wasn't available; off-the-shelf software would require months of costly customization.",
-    whatIDid: "Mapped all manual clinical and administrative processes; designed clean relational data architectures; personally coded 4 standalone web platforms and 6 advanced analytical modules; and deployed them directly to the operational floor.",
+    whatIDid: "Mapped all clinical and administrative processes; designed clean relational data structures; built 4 custom operational web tools using AI-assisted development methods and 6 advanced analytical models; and deployed them directly to the floor.",
     whatIBuilt: "1) Cath Lab Inventory Management Platform, 2) Case Accounting & Cash Management System, 3) Financial & Operational Analytics Dashboard, 4) Nursing KPI Monitoring System; plus 6 integrated Excel engines.",
-    result: "Achieved 100% process digitization on Day 1 at an external software cost of exactly EGP 0 (~3,570 documented development hours invested), providing complete operational visibility.",
-    demonstrates: "Full-stack software engineering, zero-budget digital innovation, agile deployment, and human-centered systems design."
+    result: "Established practical digital workflows at an external software cost of exactly EGP 0, providing complete operational visibility and audit control.",
+    demonstrates: "Practical digital systems building, zero-budget operational innovation, frontline user adoption, and process standardization."
   },
   {
     id: "case-06-decision-support",

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mmlotfy.github.io/sitemap.xml
+Sitemap: https://mlotfy88.github.io/sitemap.xml

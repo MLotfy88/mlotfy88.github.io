@@ -31,8 +31,8 @@ export const roleLenses: RoleLens[] = [
       { label: "Supply Cancellations", value: "Zero (30+ Mos)" },
       { label: "Custom Software Platforms", value: "4 Platforms" }
     ],
-    targetPositions: "Healthcare Operations Director • Chief Operating Officer (COO) • General Manager • Business Operations Director",
-    recommendedCvTitle: "Executive General CV (Master ATS)",
+    targetPositions: "Healthcare Operations Director • General Manager • Business Operations Director",
+    recommendedCvTitle: "Executive General CV",
     cvFileNamePdf: "./cv/Mahmoud_Lotfy_CV_Executive_General.pdf"
   },
   {
@@ -216,7 +216,7 @@ export const roleLenses: RoleLens[] = [
       { label: "Adoption Rate", value: "100% Frontline" }
     ],
     targetPositions: "Digital Transformation Lead • Operations Analytics Manager • Systems & Process Architect • Business Systems Lead",
-    recommendedCvTitle: "Executive General CV (Master ATS)",
+    recommendedCvTitle: "Executive General CV",
     cvFileNamePdf: "./cv/Mahmoud_Lotfy_CV_Executive_General.pdf"
   },
   {

@@ -12,57 +12,57 @@ export const methodologySteps: MethodologyStep[] = [
     stepNumber: 1,
     name: "OBSERVE",
     action: "Observe Frontline Reality",
-    description: "Immerse completely in the frontline operating environment. Watch surgical room turnovers, observe how nursing handles sterile packages, map patient intake handoffs, and listen to friction points directly from clinicians and staff.",
-    tools: "Direct Floor Shadowing, Workflow Process Audits, Physical Stock Counts, Time-and-Motion Tracking.",
-    evidence: "Identified that procedural room delays were not caused by surgical technique, but by pre-procedure admission ticketing and unverified lab results."
+    description: "Immerse in the daily floor environment. Shadow room turnovers, track consumable handoffs, and identify real operational bottlenecks directly with frontline teams.",
+    tools: "Floor Shadowing, Process Mapping, Physical Stock Audits, Time Tracking.",
+    evidence: "Identified that procedural turnover delays stemmed from admission ticketing rather than surgical pacing."
   },
   {
     stepNumber: 2,
     name: "UNDERSTAND",
     action: "Diagnose Structural Root Causes",
-    description: "Separate superficial symptoms from underlying structural causes. Differentiate between behavioral friction, misaligned financial incentives, policy gaps, and lack of real-time data visibility.",
-    tools: "Root-Cause Analysis (5 Whys), Fishbone Diagrams, Value-Stream Mapping, Financial Ledger Cross-Examination.",
-    evidence: "Discovered that chronic emergency consumable spot purchases were caused by a total disconnect between physician operating schedules and warehouse ordering windows."
+    description: "Distinguish surface symptoms from structural friction, unaligned financial incentives, policy gaps, or missing data visibility.",
+    tools: "Root-Cause Analysis (5 Whys), Value-Stream Mapping, Ledger Cross-Auditing.",
+    evidence: "Traced emergency purchasing spikes to a lack of synchronization between physician schedules and supplier ordering cutoffs."
   },
   {
     stepNumber: 3,
     name: "DESIGN",
     action: "Architect Pragmatic Operating Models",
-    description: "Engineer practical, sustainable operational workflows tailored to real-world behavioral and clinical constraints. Eliminate points of manual failure and align stakeholder incentives without creating bureaucratic drag.",
-    tools: "Procedure-Linked Replenishment Algorithms, Staggered Shift Models, Dual-Custody Checklists, SLA Specifications.",
-    evidence: "Designed the 3-tier patient intake protocol and a closed-loop consignment custody workflow with a 12-patient buffer cap."
+    description: "Design practical workflows tailored to clinical realities, eliminating failure points and creating accountability without administrative drag.",
+    tools: "Procedure-Linked Demand Logic, Staggered Shift Design, Dual-Custody Checklists.",
+    evidence: "Instituted a 3-tier patient intake protocol and closed-loop consignment custody workflow."
   },
   {
     stepNumber: 4,
     name: "BUILD",
-    action: "Engineer Production Tools & Artifacts",
-    description: "When commercial tools are nonexistent or prohibitively expensive, build tailored internal systems from scratch. Design user interfaces that frontline workers actually want to use, enforcing data integrity at the point of action.",
-    tools: "Full-Stack Web Applications (React, TypeScript, Node/Rust, Relational Databases), Barcode Scanning, Production Excel Engines.",
-    evidence: "Personally coded 4 standalone web platforms and 6 advanced analytical Excel models on an external software budget of exactly EGP 0."
+    action: "Build Tailored Enablers & Systems",
+    description: "When commercial software is inaccessible or lacks adaptability, build targeted internal applications and analytical models to standardize workflows.",
+    tools: "Custom Web Applications & Operational Analytics (React, TypeScript, SQLite), Barcode Scanning, Financial Models.",
+    evidence: "Built 4 custom internal operational platforms using AI-assisted development tools, with EGP 0 external software spend."
   },
   {
     stepNumber: 5,
     name: "EXECUTE",
-    action: "Deploy with Presence & Frontline Empathy",
-    description: "Roll out systems alongside the team on the floor. Train staff personally, stand by nurses during initial barcode scans, listen to immediate feedback, and adapt workflows on the fly to secure genuine buy-in.",
-    tools: "Hands-On Clinical Floor Coaching, Quick-Reference Pocket Cards, Standard Operating Procedure (SOP) Manuals.",
-    evidence: "Achieved 100% digital adoption across clinical, administrative, and inventory personnel without disrupting active patient care."
+    action: "Deploy with Frontline Buy-In",
+    description: "Deploy workflows alongside frontline staff. Coach teams directly on the floor and refine steps immediately to ensure frictionless daily adoption.",
+    tools: "Hands-On Coaching, SOP Checklists, Dual-Verification Routines.",
+    evidence: "Established digital workflows across clinical, administrative, and inventory functions without disrupting active patient care."
   },
   {
     stepNumber: 6,
     name: "MEASURE",
-    action: "Track Audited Metrics Relentlessly",
-    description: "Establish objective, real-time KPI visibility. Monitor daily room utilization, procedure margin yields, physical vs digital stock variances, and supplier SLA adherence against contractual baselines.",
-    tools: "Automated Daily Dashboards, Weekly P&L Variance Reviews, Physical Cycle Count Audits, Supplier Performance Scorecards.",
-    evidence: "Generated audited departmental financial statements proving +56.3% net profit growth and 100% material stock availability."
+    action: "Track Quantified Metrics",
+    description: "Establish objective KPI visibility across utilization, case contribution margins, inventory variances, and supplier SLAs.",
+    tools: "Daily Operations Dashboards, Financial Variance Reviews, Cycle Counts, Supplier Scorecards.",
+    evidence: "Generated documented departmental statements proving +56.3% net profit growth and 100% material stock availability."
   },
   {
     stepNumber: 7,
     name: "IMPROVE",
-    action: "Institutionalize Continuous Kaizen",
-    description: "Operations is never 'done'. Use variance data to continuously tighten reorder thresholds, optimize physician schedule blocks, renegotiate vendor contracts, and elevate clinical standards.",
-    tools: "Quarterly Vendor Tendering, Case-Mix Optimization Reviews, Retrospective Clinical Quality Audits.",
-    evidence: "Sustained zero procedure cancellations due to stock failure across 30+ consecutive months through multiple national currency crises."
+    action: "Institutionalize Continuous Improvement",
+    description: "Continuously refine reorder thresholds, optimize case mix, and renegotiate supplier agreements based on real variance data.",
+    tools: "Quarterly Supplier Tendering, Case-Mix Reviews, Quality Retrospectives.",
+    evidence: "Sustained zero supply cancellations across 30+ consecutive months despite macroeconomic cost headwinds."
   }
 ];
 

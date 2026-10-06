@@ -23,7 +23,7 @@ export interface ExcelSystem {
 export const techPhilosophy = {
   headline: "Operational Problem Solving Through Technology",
   quote: "Technology is a tool, not the goal. I don't wait for enterprise software budgets that may never arrive. When operations demand clarity, I design, code, and deploy custom production tools from scratch.",
-  investment: "~3,570 Hours",
+  investment: "4 Production Platforms",
   budget: "EGP 0"
 };
 

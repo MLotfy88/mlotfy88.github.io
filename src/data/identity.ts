@@ -29,8 +29,7 @@ export const identityData: IdentityData = {
     "Events & Conferences"
   ],
   headline: "A Cross-Functional Operations Leader Who Turns Complex Operations Into Measurable Systems",
-  valueProposition: "Healthcare Operations • Supply Chain • Procurement • Business Operations • Events",
-  executiveSummary: "Over 15+ years of multi-sector professional experience (including 5+ years in high-acuity healthcare operations leadership), I have transformed complex operational units into high-margin, institutionalized systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) processing 90–140 procedures per month, I delivered +56.3% net profit growth and +65.5% revenue expansion, maintained 100% stock availability, and achieved zero procedure cancellations due to supply failure across 30+ consecutive months—all while absorbing >70% macroeconomic operational cost inflation and building 4 custom operational platforms on zero external software budget.",
+  executiveSummary: "Over 15+ years of multi-sector professional experience (including 5+ years in high-acuity healthcare operations leadership), I have transformed complex operational environments into measurable, controlled, and repeatable operating systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) with an operating range of 90–140 procedures per month (averaging ~66 complex cases/mo; 399 documented in H1 2025), I delivered +56.3% net profit growth and +65.5% gross revenue expansion, maintained 100% stock availability, and achieved zero procedure cancellations due to supply failure across 30+ consecutive months—while maintaining performance despite >70% cost inflation and building 4 custom internal operational platforms using AI-assisted development tools on zero external software budget.",
   contact: {
     email: "m.m.lotfy.88@gmail.com",
     phone: "+20 155 816 6440",

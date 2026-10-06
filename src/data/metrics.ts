@@ -19,16 +19,16 @@ export const heroMetrics: HeroMetric[] = [
     metric: "+56.3%",
     value: "+56.3%",
     label: "YoY Net Profitability Growth",
-    context: "Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,945 in H1 2024), verified in official hospital financial audits.",
-    detail: "Financial Impact & P&L Stewardship"
+    context: "Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,945 in H1 2024), documented in official hospital financial audits.",
+    detail: "Official Hospital Financial Data · H1 2025 vs H1 2024"
   },
   {
     id: "monthly-procedures",
     metric: "90–140",
     value: "90–140",
-    label: "Monthly Procedures Managed",
-    context: "Averaging 65–70 complex clinical cases/mo; 399 audited cases in H1 2025; >1,000 cases over 3 consecutive fiscal years.",
-    detail: "Clinical Scale & High-Acuity Throughput"
+    label: "Monthly Procedures Managed — Operating Range",
+    context: "Historical operating range; 399 documented cases in H1 2025, averaging ~66 complex clinical cases/month.",
+    detail: "Historical Range: 90–140 · Documented: ~66/mo"
   },
   {
     id: "cancellations-zero",
@@ -36,7 +36,7 @@ export const heroMetrics: HeroMetric[] = [
     value: "ZERO",
     label: "Supply-Failure Cancellations",
     context: "Zero procedural cancellations due to stock or supply failure sustained across 30+ consecutive months.",
-    detail: "Mission-Critical Operational Reliability"
+    detail: "Mission-Critical Reliability · Jan 2023 – Apr 2026"
   },
   {
     id: "conferences-count",
@@ -44,7 +44,7 @@ export const heroMetrics: HeroMetric[] = [
     value: "20+",
     label: "Conferences & Events Directed",
     context: "Directed premier international medical congresses (Cairo Derma, Vascular Surgery), academic symposia, and TEDx Zagazig.",
-    detail: "Multi-Stakeholder Event Operations (On-Budget)"
+    detail: "Medical Congresses, Symposia & TEDx Leadership"
   },
   {
     id: "experience-years",
@@ -59,8 +59,8 @@ export const heroMetrics: HeroMetric[] = [
     metric: "4 Systems",
     value: "4 Systems",
     label: "Operational Platforms Built",
-    context: "Developed 4 custom production software platforms to eliminate operational friction on EGP 0 external budget.",
-    detail: "Digital Transformation as an Operational Enabler"
+    context: "Built 4 custom internal operational platforms using AI-assisted development tools, with EGP 0 external software spend.",
+    detail: "Technology as an Operational Enabler"
   }
 ];
 
@@ -68,12 +68,12 @@ export const secondaryMetrics: SecondaryMetric[] = [
   {
     value: "100%",
     label: "Critical Stock Availability",
-    context: "Sustained across 3 consecutive fiscal years for 50+ item codes"
+    context: "3 Fiscal Years · 50+ Critical Item Codes"
   },
   {
     value: "+65.5%",
-    label: "Revenue Expansion",
-    context: "Grew from EGP 5.85M (2024) to EGP 9.68M (2025) across Cath Lab operations"
+    label: "Gross Revenue Expansion",
+    context: "H1 2024 to H1 2025 · EGP 5.85M to EGP 9.68M"
   },
   {
     value: "40–60%",
@@ -82,8 +82,8 @@ export const secondaryMetrics: SecondaryMetric[] = [
   },
   {
     value: ">70%",
-    label: "Cost Inflation Absorbed",
-    context: "Net margins expanded +56.3% despite severe macroeconomic currency devaluation"
+    label: "Cost Inflation Mitigated",
+    context: "Performance maintained despite severe currency devaluations"
   },
   {
     value: "6 Tools",

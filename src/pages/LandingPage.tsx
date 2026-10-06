@@ -28,22 +28,22 @@ export const LandingPage: React.FC = () => {
   }, []);
 
   const careerMetrics = [
-    { label: "Net Profit Growth YoY", value: "+56.3%", note: "Audited H1 2024 vs H1 2025 under >70% cost inflation", highlight: true },
+    { label: "Net Profit Growth YoY", value: "+56.3%", note: "H1 2024 vs H1 2025 · Official Hospital Financial Data", highlight: true },
     { label: "Revenue Expansion YoY", value: "+65.5%", note: "Cath Lab gross revenue grew from EGP 5.85M to EGP 9.68M", highlight: true },
     { label: "Supply Failure Cancellations", value: "ZERO", note: "30+ consecutive months with 100% procedure readiness", highlight: true },
-    { label: "Personnel Oversight", value: "~45 Staff", note: "Nursing staff, surgical technicians, coordinators & admin" },
-    { label: "Direct Events Executed", value: "20+ Events", note: "Zagazig Med Faculty congresses, Cairo Derma, TEDx Zagazig (On-Budget)" },
-    { label: "Multi-Sector Experience", value: "15+ Years", note: "Healthcare clinical operations, FMCG warehousing, commercial media" }
+    { label: "Personnel Oversight", value: "~45 Staff", note: "Direct management of 5–10 staff, broader oversight across ~45 personnel" },
+    { label: "Direct Events Executed", value: "20+ Events", note: "Zagazig Med Faculty congresses, Cairo Derma, TEDx Zagazig" },
+    { label: "Multi-Sector Experience", value: "15+ Years", note: "Healthcare clinical operations, FMCG warehousing, commercial media (2008 – 2026)" }
   ];
 
   const rolePathways = [
     {
       slug: "healthcare-ops",
       icon: Activity,
-      badge: "Target: Healthcare Operations Director",
-      title: "Healthcare Operations",
+      badge: "Target Role: Healthcare Operations Director",
+      title: "Healthcare Operations Leadership",
       subtitle: "Cardiac Catheterization Unit · Clinical Workflows · Zero Supply Disruptions",
-      description: "Direct management of a high-volume interventional Cardiac Catheterization Unit (90–140 cases/mo), delivering +56.3% YoY net profit growth and zero procedural cancellations across 30+ months.",
+      description: "Operational leadership of a high-volume interventional Cardiac Catheterization Unit (operating range 90–140 cases/mo; ~66 avg/mo), delivering +56.3% YoY net profit growth and zero procedural cancellations across 30+ months.",
       metrics: [
         { label: "Net Profit YoY", value: "+56.3%" },
         { label: "Monthly Procedures", value: "90–140" },
@@ -54,7 +54,7 @@ export const LandingPage: React.FC = () => {
     {
       slug: "supply-chain",
       icon: Truck,
-      badge: "Target: Supply Chain Manager",
+      badge: "Target Role: Supply Chain Manager",
       title: "Supply Chain Management",
       subtitle: "Procedure-Linked Demand Models · 1-Hour SLAs · Zero Stockouts",
       description: "Engineered procedure-linked demand forecasting models that reduced emergency purchasing by 40–60%, maintained 100% stock availability for 3 fiscal years, and enforced 1-Hour emergency vendor SLAs.",
@@ -68,12 +68,12 @@ export const LandingPage: React.FC = () => {
     {
       slug: "procurement",
       icon: ShoppingBag,
-      badge: "Target: Procurement Manager / Director",
-      title: "Strategic Procurement & Sourcing",
+      badge: "Target Role: Procurement Manager / Director",
+      title: "Procurement & Strategic Sourcing",
       subtitle: "3-Criteria Sign-Off · Currency Crisis Resilience · Contract Auditing",
       description: "Instituted a 3-criteria procurement sign-off protocol, audited 100% of supplier invoices against master price books, and absorbed >70% currency-driven inflation through forward volume commitments.",
       metrics: [
-        { label: "Inflation Absorbed", value: ">70%" },
+        { label: "Inflation Mitigated", value: ">70%" },
         { label: "Overdue Balances Cut", value: "20–30%" },
         { label: "Commercial ROMI", value: "250%" },
       ],
@@ -82,8 +82,8 @@ export const LandingPage: React.FC = () => {
     {
       slug: "business-ops",
       icon: Briefcase,
-      badge: "Target: Business Operations Lead / Director",
-      title: "Business Operations",
+      badge: "Target Role: Business Operations Lead / Director",
+      title: "Business Operations Leadership",
       subtitle: "Full P&L Stewardship (~20% Revenue) · Systemic Scaling · Margin Protection",
       description: "Led departmental P&L accountability contributing ~20% of hospital revenue, restructured operations through a 7-step execution framework, and delivered compounding profit expansion.",
       metrics: [
@@ -96,13 +96,13 @@ export const LandingPage: React.FC = () => {
     {
       slug: "events",
       icon: Calendar,
-      badge: "Target: Events & Conferences Director",
-      title: "Events & Conferences",
+      badge: "Target Role: Events & Conferences Director",
+      title: "Events & Conference Operations",
       subtitle: "20+ Executed Events · Zagazig Med Faculty & Cairo Derma · TEDx Zagazig Co-Founder",
       description: "Directed 20+ large-scale events and medical congresses for Zagazig University Faculty of Medicine and Egyptian medical societies, co-founded TEDx Zagazig, and spent 5 years in commercial media production.",
       metrics: [
         { label: "Executed Events", value: "20+ Events" },
-        { label: "Budget Performance", value: "On-Budget" },
+        { label: "Live Production", value: "5 Years" },
         { label: "Job Fair Scale", value: "2,000+ Attendees" },
       ],
       cvPdf: "./cv/Mahmoud_Lotfy_CV_Events_Conferences.pdf"
@@ -110,6 +110,13 @@ export const LandingPage: React.FC = () => {
   ];
 
   const careerPhases = [
+    {
+      phase: "Phase 0: Early Professional Foundation",
+      period: "2008 – 2010",
+      domain: "Telecom & Customer Support Operations",
+      narrative: "Initial operational foundation in high-volume customer support, technical troubleshooting, and team leadership at ETISAL International / Etisalat, alongside university business studies.",
+      takeaway: "Built foundational discipline in customer SLA response, frontline problem diagnosis, and structured operations."
+    },
     {
       phase: "Phase 1: High-Stakes Live Execution & Media Production",
       period: "2011 – 2014",
@@ -128,7 +135,7 @@ export const LandingPage: React.FC = () => {
       phase: "Phase 3: Specialized Healthcare Operations & P&L Leadership",
       period: "2018 – 2026",
       domain: "Healthcare Clinical Administration & Cath Lab (Al-Obour Hospital)",
-      narrative: "Directed end-to-end clinical operations of a high-volume Cardiac Catheterization Unit (90–140 procedures/month) with full P&L ownership representing ~20% of hospital revenue. Delivered +56.3% YoY net profit growth and zero supply failure cancellations across 30+ months under >70% currency-driven cost inflation.",
+      narrative: "Directed end-to-end clinical operations of a high-volume Cardiac Catheterization Unit (operating range 90–140 procedures/month) with full P&L ownership representing ~20% of hospital revenue. Delivered +56.3% YoY net profit growth and zero supply failure cancellations across 30+ months under >70% currency-driven cost inflation.",
       takeaway: "Integrated financial discipline, clinical governance, and mission-critical supply resilience."
     }
   ];
@@ -174,7 +181,7 @@ export const LandingPage: React.FC = () => {
                 }}
               >
                 <ShieldCheck size={14} />
-                <span>Executive Career Profile · Verified Evidence</span>
+                <span>Executive Career Portfolio · Evidence-Based</span>
               </div>
 
               <div 
