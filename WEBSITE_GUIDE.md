@@ -72,7 +72,7 @@ graph TD
 - **الشكل والمكان:** شريط عائم مثبت بأعلى الشاشة (Fixed Top) بارتفاع 72px، بخلفية زجاجية معتمة بنسبة 94% بخاصية Blur، وحد سفلي زمردي خافت.
 - **الجانب الأيسر (الهوية):**
   - السطر الأول: **MAHMOUD MOHAMED LOTFY** (أبيض، عريض جداً 800).
-  - السطر الثاني: **EXECUTIVE CAREER DOSSIER** (أخضر زمردي صغير 0.72rem).
+  - السطر الثاني: **EXECUTIVE CAREER PORTFOLIO** (أخضر زمردي صغير 0.72rem).
 - **المنتصف (روابط التنقل):**
   - `Overview`: يعود للصفحة الرئيسية.
   - `Career Paths` (قائمة منسدلة أنيقة): تفتح نافذة سوداء بعرض 320px تحتوي على الـ 5 أدوار مع أيقونات ووصف موجز لكل دور. العنوان الداخلي: "Select Professional Lens".
@@ -181,7 +181,7 @@ graph TD
 | 100% | Critical Stock Availability | Sustained across 3 consecutive fiscal years for 50+ item codes |
 | +65.5% | Revenue Expansion | Grew from EGP 5.85M (2024) to EGP 9.68M (2025) across Cath Lab operations |
 | 40-60% | Emergency Purchasing Reduction | Achieved via procedure-linked clinical replenishment modeling |
-| >70% | Cost Inflation Absorbed | Net margins expanded +56.3% despite severe macroeconomic currency devaluation |
+| >70% | Cost Inflation Mitigated | Performance maintained despite severe currency devaluations |
 | 6 Tools | Analytical Decision Models | Excel and Sheets reconciliation tools governing consignments, inventory, and pricing |
 
 ---
@@ -222,7 +222,7 @@ graph TD
 - **العنوان:** **Strategic Procurement and Sourcing**
 - **العنوان الفرعي:** 3-Criteria Sign-Off - Currency Crisis Resilience - Contract Auditing
 - **نص الكارت:**
-  > *"Instituted a 3-criteria procurement sign-off protocol, audited 100% of supplier invoices against master price books, and absorbed >70% currency-driven inflation through forward volume commitments."*
+  > *"Instituted a 3-criteria procurement sign-off protocol, audited 100% of supplier invoices against master price books, and mitigated >70% currency-driven cost inflation through forward volume commitments."*
 - **شريط الأرقام الثلاثية:**
   - `>70%` Inflation Absorbed | `20-30%` Overdue Balances Cut | `250%` Commercial ROMI
 - **الأزرار السفلية:**
@@ -307,13 +307,13 @@ graph TD
 
 | الخطوة | العنوان | الإجراء | الأدوات | الدليل الواقعي |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | OBSERVE | Understand frontline reality and identify operational friction. | Direct Floor Shadowing, Workflow Process Audits, Physical Stock Counts, Time-and-Motion Tracking | Identified that procedural room delays were not caused by surgical technique, but by pre-procedure admission ticketing and unverified lab results. |
-| 2 | UNDERSTAND | Diagnose root causes across people, process, data and resources. | Root-Cause Analysis (5 Whys), Fishbone Diagrams, Value-Stream Mapping, Financial Ledger Cross-Examination | Discovered that chronic emergency consumable spot purchases were caused by a total disconnect between physician operating schedules and warehouse ordering windows. |
-| 3 | DESIGN | Build practical workflows that reduce friction and operational risk. | Procedure-Linked Demand Logic, Staggered Shift Models, Dual-Custody Checklists, SLA Specifications | Designed the 3-tier patient intake protocol and a closed-loop consignment custody workflow with a 12-patient buffer cap. |
-| 4 | BUILD | Create the tools and controls needed to support the workflow. | Custom Web Applications (React, TypeScript, SQLite), Barcode Scanning, Production Excel Engines | Built 4 custom internal operational platforms using AI-assisted development tools and 6 advanced analytical models on an external software budget of exactly EGP 0. |
-| 5 | EXECUTE | Implement with the team and adapt to frontline feedback. | Hands-On Clinical Floor Coaching, Quick-Reference Pocket Cards, Standard Operating Procedure (SOP) Manuals | Established adoption of targeted digital workflows across clinical, administrative, and inventory functions without disrupting active patient care. |
-| 6 | MEASURE | Track objective operational and financial performance. | Automated Daily Dashboards, Weekly P&L Variance Reviews, Physical Cycle Count Audits, Supplier Performance Scorecards | Generated audited departmental financial statements proving +56.3% net profit growth and 100% material stock availability. |
-| 7 | IMPROVE | Institutionalize continuous improvement through measured results. | Quarterly Vendor Tendering, Case-Mix Optimization Reviews, Retrospective Clinical Quality Audits | Sustained zero procedure cancellations due to stock failure across 30+ consecutive months through multiple national currency crises. |
+| 1 | OBSERVE | Understand frontline reality and identify operational friction. | Floor Shadowing, Process Mapping, Physical Stock Audits, Time Tracking. | Identified that procedural turnover delays stemmed from admission ticketing rather than surgical pacing. |
+| 2 | UNDERSTAND | Diagnose root causes across people, process, data and resources. | Root-Cause Analysis (5 Whys), Value-Stream Mapping, Ledger Cross-Auditing. | Traced emergency purchasing spikes to a lack of synchronization between physician schedules and supplier ordering cutoffs. |
+| 3 | DESIGN | Build practical workflows that reduce friction and operational risk. | Procedure-Linked Demand Logic, Staggered Shift Design, Dual-Custody Checklists. | Instituted a 3-tier patient intake protocol and closed-loop consignment custody workflow. |
+| 4 | BUILD | Create the tools and controls needed to support the workflow. | Custom Web Applications & Operational Analytics (React, TypeScript, SQLite), Barcode Scanning, Financial Models. | Built 4 custom internal operational platforms using AI-assisted development tools, with EGP 0 external software spend. |
+| 5 | EXECUTE | Implement with the team and adapt to frontline feedback. | Hands-On Coaching, SOP Checklists, Dual-Verification Routines. | Established adoption of targeted digital workflows across clinical, administrative, and inventory functions without disrupting active patient care. |
+| 6 | MEASURE | Track objective operational and financial performance. | Daily Operations Dashboards, Financial Variance Reviews, Cycle Counts, Supplier Scorecards. | Generated documented departmental statements proving +56.3% net profit growth and 100% material stock availability. |
+| 7 | IMPROVE | Institutionalize continuous improvement through measured results. | Quarterly Supplier Tendering, Case-Mix Reviews, Quality Retrospectives. | Sustained zero supply cancellations across 30+ consecutive months despite macroeconomic cost headwinds. |
 
 ---
 
@@ -403,7 +403,7 @@ graph TD
 - **قصة 3: Delivering +56.3% Net Profit Under Severe Cost Inflation**
   - *Diagnosis:* قفزة في تكاليف المستلزمات الطبية المستوردة بنسبة +69.9%.
   - *Intervention:* تطبيق التسعير الديناميكي وتدقيق 100% من فواتير الموردين.
-  - *System/Action:* إعادة توجيه الطاقة التشغيلية للحالات ذات الهامش المرتفع وبرنامج تسويق مباشر.
+  - *System/Action:* إعادة توجيه الطاقة التشغيلية لحالات الـ Private category وبرنامج تسويق مباشر.
   - *Measured Outcome:* صافي ربح قياسي 2,978,995 جنيه (+56.3% نمو) ونمو الإيرادات +65.5%.
 
 ### 4. التمكين الرقمي (Digital Enabler Box):
@@ -514,6 +514,15 @@ graph TD
 | 7 | **توضيح معمارية CVs** | إضافة بادجات توضيحية: "5 Primary + 2 Specialized + 1 Master" | `CvHub.tsx` |
 | 8 | **تصحيح Event Metric** | من "0.0% Delay" إلى "Schedule Delivery: 100% On-Time" (صياغة إيجابية أوضح) | `rolesData.ts` |
 | 9 | **استعادة رابط GitHub** | إعادة رابط GitHub Profile (`github.com/MLotfy88`) بعد حذفه بالخطأ في commit سابق | `Hero.tsx` |
+| 10 | **تصحيح H1 2024 Baseline** | تصحيح الرقم من `EGP 1,905,945` إلى الرقم المدقق `EGP 1,905,803` | `metrics.ts`, `financials.ts`, `LandingPage.tsx` |
+| 11 | **معايرة Hero Quote** | تحديث إلى "measurable, controlled, and repeatable" | `identity.ts` |
+| 12 | **معايرة Monthly Procedures** | تحديث إلى "Monthly Procedures — Operating Range: 90–140" مع سياق H1 2025 | `metrics.ts` |
+| 13 | **معايرة Team Size** | تحديث إلى "Operational Oversight · ~45 Personnel" | `LandingPage.tsx`, `rolesData.ts` |
+| 14 | **معايرة المنهجية** | إعادة صياغة الـ 7 خطوات لتكون process-oriented وأقصر | `methodology.ts` |
+| 15 | **إزالة Digital Overclaiming** | حذف "personally engineered software" واستبدالها بـ "built targeted internal operational tools" | `rolesData.ts`, `cvs.ts` |
+| 16 | **توحيد Role Titles** | توحيد "Target Role: Healthcare Operations Director" عبر جميع الصفحات | `rolesData.ts`, `cvs.ts` |
+| 17 | **إزالة high-margin** | استبدال "high-margin" بـ "Private category" في 5 مواضع | `rolesData.ts`, `financials.ts`, `caseStudies.ts` |
+| 18 | **تحديث Navbar Subtitle** | من "EXECUTIVE CAREER DOSSIER" إلى "EXECUTIVE CAREER PORTFOLIO" | `ExecutiveNavbar.tsx` |
 
 ---
 
