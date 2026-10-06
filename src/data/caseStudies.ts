@@ -81,6 +81,7 @@ export const caseStudies: CaseStudy[] = [
     title: "Digital Transformation",
     subtitle: "Zero-Budget Internal Systems Architecture",
     domain: "Systems Engineering & HealthTech",
+    timeframe: "2023 – 2025",
     impactSummary: "Established practical digital workflows across 4 custom web applications and 6 analytical models on EGP 0 external software budget.",
     problem: "Critical operational activities depended on fragmented paper logbooks and manual transcription, while hospital capital budgets had zero allocation for multi-million enterprise software (ERP/HIS) licenses.",
     whatISaw: "Management needed real-time visibility into inventory, patient flow, and P&L, but capital wasn't available; off-the-shelf software would require months of costly customization.",
