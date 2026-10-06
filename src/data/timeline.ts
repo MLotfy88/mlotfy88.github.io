@@ -23,12 +23,12 @@ export const timelineEvents: TimelineEvent[] = [
     organization: "Al-Obour Hospital",
     location: "Zagazig, Sharkia, Egypt",
     domain: "Healthcare",
-    summary: "Full operational, clinical workflow, departmental P&L, supply chain, and administrative oversight of ~45 staff across 90–140 monthly interventional procedures.",
+    summary: "Full operational, clinical workflow, departmental P&L, supply chain, and administrative oversight of ~45 personnel (5–10 direct management) across 90–140 monthly interventional procedures.",
     highlights: [
       "Delivered +56.3% net profit growth and +65.5% revenue expansion (audited H1 2024 vs H1 2025)",
       "Maintained 100% stock availability and zero procedure cancellations across 30+ consecutive months",
-      "Absorbed >70% currency-driven price spikes on foreign surgical consumables",
-      "Personally built 4 custom enterprise software platforms on zero external software budget"
+      "Maintained operational performance despite >70% currency-driven price spikes on surgical consumables",
+      "Built 4 custom internal operational platforms using AI-assisted tools on zero external software budget"
     ]
   },
   {

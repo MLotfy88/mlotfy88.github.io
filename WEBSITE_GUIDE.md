@@ -131,7 +131,7 @@ graph TD
   - **الاقتباس بالخط المائل:**
     > *"Healthcare Operations - Supply Chain - Procurement - Business Operations - Events"*
   - **الفقرة التنفيذية المفصلة:**
-    > *"Over 15+ years of multi-sector professional experience (including 5+ years in high-acuity healthcare operations leadership), I have transformed complex operational environments into high-margin, institutionalized systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) processing 90-140 procedures per month, I delivered +56.3% net profit growth and +65.5% revenue expansion, maintained 100% stock availability, and achieved zero procedure cancellations due to supply failure across 30+ consecutive months—all while absorbing >70% macroeconomic operational cost inflation and engineering 4 custom operational platforms on zero external software budget."*
+    > *"Over 15+ years of multi-sector professional experience (including 5+ years in high-acuity healthcare operations leadership), I have transformed complex operational environments into measurable, controlled, and repeatable operating systems. In a high-acuity Cardiac Catheterization Unit (Cath Lab) with an operating range of 90–140 procedures per month (averaging ~66 complex cases/mo; 399 documented in H1 2025), I delivered +56.3% net profit growth and +65.5% gross revenue expansion, maintained 100% stock availability, and achieved zero procedure cancellations due to supply failure across 30+ consecutive months—while maintaining performance despite >70% cost inflation and building 4 custom internal operational platforms using AI-assisted tools on zero external software budget."*
 
 > [!TIP]
 > **ملاحظة التدقيق:** تم حذف ادعاء "3-Year CAGR +37.0%" واستبداله بـ "+65.5% Revenue Expansion" لأنه أوضح وأكثر قابلية للتحقق (نمو من EGP 5.85M إلى EGP 9.68M). تم حذف "3,570+ ساعة عمل" لعدم إمكانية التحقق منها.
@@ -307,13 +307,13 @@ graph TD
 
 | الخطوة | العنوان | الإجراء | الأدوات | الدليل الواقعي |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | OBSERVE | Observe Frontline Reality | Direct Floor Shadowing, Workflow Process Audits, Physical Stock Counts, Time-and-Motion Tracking | Identified that procedural room delays were not caused by surgical technique, but by pre-procedure admission ticketing and unverified lab results. |
-| 2 | UNDERSTAND | Diagnose Structural Root Causes | Root-Cause Analysis (5 Whys), Fishbone Diagrams, Value-Stream Mapping, Financial Ledger Cross-Examination | Discovered that chronic emergency consumable spot purchases were caused by a total disconnect between physician operating schedules and warehouse ordering windows. |
-| 3 | DESIGN | Architect Pragmatic Operating Models | Procedure-Linked Replenishment Algorithms, Staggered Shift Models, Dual-Custody Checklists, SLA Specifications | Designed the 3-tier patient intake protocol and a closed-loop consignment custody workflow with a 12-patient buffer cap. |
-| 4 | BUILD | Engineer Production Tools and Artifacts | Full-Stack Web Applications (React, TypeScript, Node/Rust, Relational Databases), Barcode Scanning, Production Excel Engines | Personally coded 4 standalone web platforms and 6 advanced analytical Excel models on an external software budget of exactly EGP 0. |
-| 5 | EXECUTE | Deploy with Presence and Frontline Empathy | Hands-On Clinical Floor Coaching, Quick-Reference Pocket Cards, Standard Operating Procedure (SOP) Manuals | Achieved 100% digital adoption across clinical, administrative, and inventory personnel without disrupting active patient care. |
-| 6 | MEASURE | Track Audited Metrics Relentlessly | Automated Daily Dashboards, Weekly P&L Variance Reviews, Physical Cycle Count Audits, Supplier Performance Scorecards | Generated audited departmental financial statements proving +56.3% net profit growth and 100% material stock availability. |
-| 7 | IMPROVE | Institutionalize Continuous Kaizen | Quarterly Vendor Tendering, Case-Mix Optimization Reviews, Retrospective Clinical Quality Audits | Sustained zero procedure cancellations due to stock failure across 30+ consecutive months through multiple national currency crises. |
+| 1 | OBSERVE | Understand frontline reality and identify operational friction. | Direct Floor Shadowing, Workflow Process Audits, Physical Stock Counts, Time-and-Motion Tracking | Identified that procedural room delays were not caused by surgical technique, but by pre-procedure admission ticketing and unverified lab results. |
+| 2 | UNDERSTAND | Diagnose root causes across people, process, data and resources. | Root-Cause Analysis (5 Whys), Fishbone Diagrams, Value-Stream Mapping, Financial Ledger Cross-Examination | Discovered that chronic emergency consumable spot purchases were caused by a total disconnect between physician operating schedules and warehouse ordering windows. |
+| 3 | DESIGN | Build practical workflows that reduce friction and operational risk. | Procedure-Linked Demand Logic, Staggered Shift Models, Dual-Custody Checklists, SLA Specifications | Designed the 3-tier patient intake protocol and a closed-loop consignment custody workflow with a 12-patient buffer cap. |
+| 4 | BUILD | Create the tools and controls needed to support the workflow. | Custom Web Applications (React, TypeScript, SQLite), Barcode Scanning, Production Excel Engines | Built 4 custom internal operational platforms using AI-assisted development tools and 6 advanced analytical models on an external software budget of exactly EGP 0. |
+| 5 | EXECUTE | Implement with the team and adapt to frontline feedback. | Hands-On Clinical Floor Coaching, Quick-Reference Pocket Cards, Standard Operating Procedure (SOP) Manuals | Established adoption of targeted digital workflows across clinical, administrative, and inventory functions without disrupting active patient care. |
+| 6 | MEASURE | Track objective operational and financial performance. | Automated Daily Dashboards, Weekly P&L Variance Reviews, Physical Cycle Count Audits, Supplier Performance Scorecards | Generated audited departmental financial statements proving +56.3% net profit growth and 100% material stock availability. |
+| 7 | IMPROVE | Institutionalize continuous improvement through measured results. | Quarterly Vendor Tendering, Case-Mix Optimization Reviews, Retrospective Clinical Quality Audits | Sustained zero procedure cancellations due to stock failure across 30+ consecutive months through multiple national currency crises. |
 
 ---
 
@@ -435,14 +435,14 @@ graph TD
 
 ### 1. رأس الصفحة:
 - بادج: `STRATEGIC SOURCING AND COMMERCIAL NEGOTIATIONS`
-- العنوان: **Procurement Director**
-- العنوان الفرعي: 3-Criteria Sign-Off - Inflation Absorption (>70%) - Master Price Books - Working Capital Recovery
+- العنوان: **Procurement & Strategic Sourcing** (Target Role: Procurement Manager / Director)
+- العنوان الفرعي: 3-Criteria Sign-Off - Inflation Mitigation (>70%) - Master Price Books - Working Capital Recovery
 - **القيمة المقترحة:**
-  > *"Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency devaluation, and maintained cost discipline while absorbing >70% inflation."*
+  > *"Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency shocks, and maintained strict commercial discipline while maintaining performance despite >70% cost inflation."*
 - **زر التحميل:** `Download Procurement and Sourcing CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Procurement.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `40-60%` Emergency Purchasing Reduction | 2. `>70%` Cost Inflation Absorbed | 3. `20-30%` Outstanding Balances Recovered | 4. `100%` Invoices Audited | 5. `3 Criteria` Procurement Sign-Off Protocol | 6. `250%` Commercial Marketing ROMI
+1. `40-60%` Emergency Purchasing Reduction | 2. `>70%` Cost Inflation Mitigated | 3. `20-30%` Outstanding Balances Recovered | 4. `100%` Invoices Audited | 5. `3 Criteria` Procurement Sign-Off Protocol | 6. `250%` Commercial Marketing ROMI
 
 ---
 

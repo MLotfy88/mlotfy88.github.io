@@ -17,19 +17,19 @@ export const roleLenses: RoleLens[] = [
     number: "00",
     title: "Master Profile (All Lenses)",
     subtitle: "Healthcare Operations Director • Business Operations • Supply Chain & Procurement",
-    pitch: "A comprehensive executive presentation integrating multi-sector leadership across healthcare administration, high-margin unit P&L stewardship, custom software engineering, and mission-critical supply chain governance.",
+    pitch: "A comprehensive executive presentation integrating multi-sector leadership across healthcare administration, departmental P&L turnaround, practical internal system building, and mission-critical supply chain governance.",
     focusAreas: [
       "Clinical Unit Operations & Turnaround",
       "End-to-End Medical Supply Chain & Consignments",
       "Departmental P&L Stewardship (+56.3% Profit)",
-      "Zero-Budget Software & Systems Engineering",
-      "Macroeconomic Cost Inflation Absorption (>70%)"
+      "Internal Digital Systems Building (Zero Budget)",
+      "Performance Maintained Despite Macroeconomic Inflation (>70%)"
     ],
     keyMetrics: [
       { label: "Net Profit Growth", value: "+56.3%" },
       { label: "Critical Stock Availability", value: "100%" },
       { label: "Supply Cancellations", value: "Zero (30+ Mos)" },
-      { label: "Custom Software Platforms", value: "4 Platforms" }
+      { label: "Operational Platforms Built", value: "4 Platforms" }
     ],
     targetPositions: "Healthcare Operations Director • General Manager • Business Operations Director",
     recommendedCvTitle: "Executive General CV",
@@ -45,14 +45,14 @@ export const roleLenses: RoleLens[] = [
       "Cath Lab & Specialized Surgical Unit Direction",
       "Clinical Workflow Optimization & Turnaround",
       "Capacity Planning & Scheduling (90–140 Cases/Mo)",
-      "Nursing KPI & Cross-Functional Team Leadership (~45 Staff)",
+      "Cross-Functional Operational Oversight (~45 Personnel)",
       "Clinical Consumables Governance (Catheters, Stents, Pacemakers)"
     ],
     keyMetrics: [
       { label: "Monthly Procedures", value: "90–140" },
       { label: "Case Readiness", value: "~100%" },
       { label: "Net Profit YoY", value: "+56.3%" },
-      { label: "Personnel Oversight", value: "~45 Staff" }
+      { label: "Operational Oversight", value: "~45 Personnel" }
     ],
     targetPositions: "Healthcare Operations Director • Hospital Operations Manager • Cath Lab Operations Lead • Director of Clinical Services",
     recommendedCvTitle: "Healthcare Operations CV",
@@ -63,7 +63,7 @@ export const roleLenses: RoleLens[] = [
     number: "02",
     title: "Supply Chain",
     subtitle: "Medical Consignment Governance, Continuous Readiness & Vendor SLAs",
-    pitch: "Engineered high-reliability supply chains for cardiovascular surgical devices. Maintained 100% availability on 50+ critical codes across 30+ consecutive months without a single stockout, deploying dynamic consignment reconciliations, 1-Hour MAX vendor SLAs, and dual-sourcing contracts absorbing >70% inflation.",
+    pitch: "Engineered high-reliability supply chains for cardiovascular surgical devices. Maintained 100% availability on 50+ critical codes across 30+ consecutive months without a single stockout, deploying dynamic consignment reconciliations, 1-Hour MAX vendor SLAs, and dual-sourcing contracts mitigating >70% inflation.",
     focusAreas: [
       "Medical Consignment Stock Governance",
       "Strategic Supplier Sourcing & Redundancy (30+ Partners)",
@@ -75,7 +75,7 @@ export const roleLenses: RoleLens[] = [
       { label: "Critical Stock Availability", value: "100%" },
       { label: "Supply Disruptions", value: "ZERO (30+ Mos)" },
       { label: "Emergency Orders", value: "-40% to -60%" },
-      { label: "Inflation Absorbed", value: ">70%" }
+      { label: "Inflation Mitigated", value: ">70%" }
     ],
     targetPositions: "Supply Chain Manager • Materials Manager • Healthcare Supply Chain Lead • Director of Supply Chain",
     recommendedCvTitle: "Supply Chain Management CV",
@@ -86,7 +86,7 @@ export const roleLenses: RoleLens[] = [
     number: "03",
     title: "Procurement",
     subtitle: "Strategic Sourcing, Commercial Negotiations & Cost Control",
-    pitch: "Directed strategic sourcing, vendor negotiations, and contract compliance across 30+ regional pharmaceutical and surgical suppliers. Absorbed >70% currency-driven price spikes via forward volume commitments, audited 100% of vendor invoices against contracted price books, and eliminated single-source dependencies.",
+    pitch: "Directed strategic sourcing, vendor negotiations, and contract compliance across 30+ regional pharmaceutical and surgical suppliers. Mitigated >70% currency-driven price spikes via forward volume commitments, audited 100% of vendor invoices against contracted price books, and eliminated single-source dependencies.",
     focusAreas: [
       "Commercial Contract & Tariff Negotiations",
       "100% Vendor Invoice Auditing Against Master Price Books",
@@ -96,7 +96,7 @@ export const roleLenses: RoleLens[] = [
     ],
     keyMetrics: [
       { label: "Invoices Audited", value: "100%" },
-      { label: "Inflation Absorbed", value: ">70%" },
+      { label: "Inflation Mitigated", value: ">70%" },
       { label: "Single-Source Risks", value: "Eliminated" },
       { label: "Supplier Partners", value: "30+ Vendors" }
     ],
@@ -108,7 +108,7 @@ export const roleLenses: RoleLens[] = [
     id: "demand-planning",
     number: "04",
     title: "Demand Planning & Inventory",
-    subtitle: "Mathematical Safety Stocks, Dynamic Reorder Points & Barcode Governance",
+    subtitle: "Calibrated Safety Stocks, Dynamic Reorder Points & Barcode Governance",
     pitch: "Transformed reactive purchasing into an automated, predictive demand planning engine. Built rolling 30-day forecast models tied directly to consultant procedure schedules, slashing costly spot orders by 40–60% and achieving 100% physical vs ledger reconciliation.",
     focusAreas: [
       "Procedure-Linked Demand Planning",
@@ -132,13 +132,13 @@ export const roleLenses: RoleLens[] = [
     number: "05",
     title: "Business Operations & Management",
     subtitle: "Departmental P&L Stewardship, Margin Turnaround & Systemic Scaling",
-    pitch: "Turned the Cath Lab into the hospital's financial growth engine: delivered +56.3% net profit growth and +65.5% revenue expansion within 12 months. Mastered unit contribution economics, eliminated billing leakage, and engineered internal enterprise software on zero capital expenditure.",
+    pitch: "Turned the Cath Lab into the hospital's financial growth engine: delivered +56.3% net profit growth and +65.5% revenue expansion within 12 months. Mastered unit contribution economics, eliminated billing leakage, and built custom operational platforms on zero external software budget.",
     focusAreas: [
       "Departmental P&L Leadership & Margin Scaling",
       "Revenue Cycle Management & Leakage Elimination",
       "Cost Control & Budget Management",
       "Operational Restructuring & Governance",
-      "Zero-Budget Software Application Engineering"
+      "Internal Operational Systems Building"
     ],
     keyMetrics: [
       { label: "Net Profit YoY", value: "+56.3%" },

@@ -77,7 +77,7 @@ export const rolesData: Record<string, RoleData> = {
       { label: "Revenue Growth YoY", value: "+65.5%", note: "H1 2024 to H1 2025 · EGP 5.85M to EGP 9.68M", highlight: true },
       { label: "Supply Failure Cancellations", value: "ZERO", note: "Jan 2023 – Apr 2026 · 30+ Consecutive Months", highlight: true },
       { label: "Monthly Procedures — Operating Range", value: "90–140", note: "Historical operating range; 399 documented cases in H1 2025 (~66/mo)" },
-      { label: "Personnel Oversight", value: "~45 Staff", note: "Direct management of 5–10 staff, with broader operational oversight across ~45 personnel" },
+      { label: "Operational Oversight", value: "~45 Personnel", note: "Direct management of 5–10 accounting/operations staff, with broader operational oversight across ~45 personnel" },
       { label: "Equipment Readiness", value: "100%", note: "Zero unplanned imaging shutdowns; 1-Hour MAX vendor emergency SLA" }
     ],
     stories: [
@@ -118,7 +118,7 @@ export const rolesData: Record<string, RoleData> = {
     digitalEnabler: {
       title: "Technology as an Operational Enabler",
       subtitle: "Custom-Built Digital Infrastructure with Zero External Budget",
-      description: "Rather than waiting for enterprise software licenses, I personally designed and engineered custom internal applications to eliminate administrative friction and enforce operational discipline on the floor.",
+      description: "Rather than waiting for enterprise software licenses, I built practical internal tools and digital workflows using AI-assisted development methods to eliminate administrative friction and enforce operational discipline on the floor.",
       systemsSummary: "4 Custom Platforms",
       externalCost: "EGP 0",
       platforms: [
@@ -146,7 +146,7 @@ export const rolesData: Record<string, RoleData> = {
       { name: "Clinical Unit Operations & Turnaround", level: 5, description: "End-to-end administration of high-acuity surgical units, capacity scheduling, and patient throughput." },
       { name: "P&L Management & Financial Stewardship", level: 5, description: "Full unit financial accountability, variance analysis, dynamic pricing, and cost discipline." },
       { name: "Medical Supply Chain & Consignments", level: 5, description: "Consignment stock governance, procedure-linked replenishment, and vendor SLA enforcement." },
-      { name: "Clinical Team Leadership (~45 Staff)", level: 5, description: "Direct oversight of specialized nursing, surgical technicians, administrative coordinators, and maintenance teams." },
+      { name: "Operational Oversight (~45 Personnel)", level: 5, description: "Direct management of 5–10 accounting/operations staff, with broader operational oversight across specialized nursing, surgical technicians, and administrative coordinators." },
       { name: "Governance & Audit Readiness", level: 5, description: "Standardizing workflows to meet institutional healthcare accreditation and medical audit compliance." },
       { name: "Crisis Management & Inflation Absorption", level: 5, description: "Maintaining unbroken clinical readiness through extreme currency shocks and market shortages." }
     ],
@@ -199,7 +199,7 @@ export const rolesData: Record<string, RoleData> = {
     valueProposition:
       "Built and managed a procedure-linked demand forecasting model that reduced emergency purchasing by 40–60%, maintained 100% stock availability across 3 fiscal years, and achieved ZERO supply disruptions for 30+ consecutive months — in a high-value medical consumables environment under >70% cost inflation.",
     executiveSummary:
-      "Specialized in high-reliability supply chain management for mission-critical medical consumables (drug-eluting stents, PTCA balloon catheters, pacemakers, introducer sheaths). By deploying mathematical safety stocks, procedure-linked replenishment models, and strict vendor SLA contracts, I eliminated stockouts and shielded clinical operations from extreme currency shocks.",
+      "Specialized in high-reliability supply chain management for mission-critical medical consumables (drug-eluting stents, PTCA balloon catheters, pacemakers, introducer sheaths). By deploying calibrated safety stock levels, procedure-linked replenishment models, and strict vendor SLA contracts, I eliminated stockouts and shielded clinical operations from extreme currency shocks.",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Supply_Chain.pdf",
     cvTitle: "Supply Chain Management CV (PDF)",
     metrics: [
@@ -214,13 +214,13 @@ export const rolesData: Record<string, RoleData> = {
       {
         id: "demand-forecasting-model",
         title: "The Procedure-Linked Demand Replenishment Engine",
-        subtitle: "Replacing Panic Reordering with Algorithmic Predictability",
+        subtitle: "Replacing Reactive Reordering with Systematic Demand Forecasting",
         problem: "Catheterization consumables are expensive (individual items costing thousands of EGP) and have strict expiry horizons. Ordering reactively caused periodic stock shortages of critical balloon sizes alongside capital tie-up in slow-moving stent lengths.",
         whatISaw: "Procurement operated on a calendar replenishment basis completely uncoupled from upcoming consultant procedure schedules and patient pathology trends.",
         whatIDid: "Analyzed 12 months of historical surgical usage to calculate consumable velocity per cardiologist. Developed a rolling 30-day procedure-linked demand forecasting model that mapped upcoming surgical bookings directly to safety stock requirements.",
         whatIBuilt: "Automated Reorder Point & Safety Stock Calculator in Excel integrated with a custom barcode-scanning inventory system.",
         result: "Slashed emergency spot-purchasing by 40–60%, unlocked working capital, and achieved 100% stock availability without holding excess buffer inventory.",
-        demonstrates: "Demand planning, inventory modeling, working capital optimization, and statistical forecasting."
+        demonstrates: "Demand planning, inventory modeling, working capital optimization, and systematic demand forecasting."
       },
       {
         id: "one-hour-sla",
@@ -230,7 +230,7 @@ export const rolesData: Record<string, RoleData> = {
         whatISaw: "Suppliers treated emergency requests with casual response times (4 to 8 hours), jeopardizing acute emergency PCI cases.",
         whatIDid: "Leveraged our high purchasing volume to negotiate a structured consignment partnership with our 3 primary multinational suppliers. Instituted contractually binding Service Level Agreements requiring emergency delivery within a guaranteed 60-minute window, backed by regular inventory rotation audits.",
         whatIBuilt: "Vendor SLA Performance Scorecard and an emergency dispatch protocol connecting on-call catheterization nursing with vendor courier hubs.",
-        result: "Secured 100% access to the entire multinational device catalog within 60 minutes, with zero clinical delays recorded across 30+ months.",
+        result: "Secured emergency access to required specialized device sizes within the agreed 60-minute SLA, with zero clinical delays recorded across 30+ months.",
         demonstrates: "Vendor contract negotiation, SLA governance, emergency logistics, and strategic supplier partnerships."
       },
       {
@@ -256,11 +256,11 @@ export const rolesData: Record<string, RoleData> = {
           name: "Cath Lab Inventory Tracking System",
           tech: "Web Application · Barcode Scanning Integration",
           description: "Live scanning of lot numbers, serials, and expiry dates upon room arrival and patient consumption.",
-          impact: "Achieved 100% physical-to-ledger reconciliation accuracy and zero expired consumables."
+          impact: "Achieved 100% physical-to-ledger reconciliation accuracy and zero expiration-related write-offs on high-value surgical items."
         },
         {
           name: "Automated Reorder Threshold Engine",
-          tech: "Algorithmic Rules Engine · Real-time Alerts",
+          tech: "Demand-Linked Reorder Rules · Real-time Alerts",
           description: "Triggers automated replenishment alerts when critical stent or catheter inventory crosses calculated safety stock lines.",
           impact: "Completely eliminated emergency ordering panic and stockouts for 30+ consecutive months."
         }
@@ -319,7 +319,7 @@ export const rolesData: Record<string, RoleData> = {
     roleBadge: "Target Role: Procurement Manager / Director",
     subtitle: "3-Criteria Sign-Off · Inflation Mitigation (>70%) · Master Price Books · Working Capital Recovery",
     valueProposition:
-      "Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency shocks, and maintained strict commercial discipline while absorbing >70% cost inflation.",
+      "Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency shocks, and maintained strict commercial discipline while maintaining performance despite >70% cost inflation.",
     executiveSummary:
       "Over 10+ years managing commercial purchasing and vendor relationships across healthcare, manufacturing, and commercial events. By establishing master price books, 100% invoice auditing, dual-sourcing redundancy, and a strict 3-criteria sign-off framework, I eliminated procurement leakage and maximized return on every spent pound.",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Procurement.pdf",
@@ -352,7 +352,7 @@ export const rolesData: Record<string, RoleData> = {
         whatISaw: "Suppliers were prioritizing delivery to clients who accepted immediate spot rate increases, while institutional clients who had no alternative vendors faced delivery embargoes.",
         whatIDid: "Leveraged annual volume commitments to secure price stabilization clauses with core multinational distributors. Introduced secondary and tertiary certified suppliers for every critical surgical item code, creating competitive tension. Implemented weekly price-indexing reviews linked to official exchange rates rather than arbitrary supplier markups.",
         whatIBuilt: "Multi-Tier Supplier Redundancy Matrix and Dynamic Currency Exposure Model.",
-        result: "Absorbed >70% macroeconomic inflation while containing total expenditure growth to +69.9%, enabling our unit to post +56.3% net profit growth during the country's worst economic crisis.",
+        result: "Maintained performance despite >70% macroeconomic inflation, containing total expenditure growth to +69.9% and enabling our unit to deliver +56.3% net profit growth during the economic crisis.",
         demonstrates: "Strategic sourcing, contract negotiation, vendor diversification, and macro-financial defense."
       },
       {

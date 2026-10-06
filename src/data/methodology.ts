@@ -11,7 +11,7 @@ export const methodologySteps: MethodologyStep[] = [
   {
     stepNumber: 1,
     name: "OBSERVE",
-    action: "Observe Frontline Reality",
+    action: "Understand frontline reality and identify operational friction.",
     description: "Immerse in the daily floor environment. Shadow room turnovers, track consumable handoffs, and identify real operational bottlenecks directly with frontline teams.",
     tools: "Floor Shadowing, Process Mapping, Physical Stock Audits, Time Tracking.",
     evidence: "Identified that procedural turnover delays stemmed from admission ticketing rather than surgical pacing."
@@ -19,7 +19,7 @@ export const methodologySteps: MethodologyStep[] = [
   {
     stepNumber: 2,
     name: "UNDERSTAND",
-    action: "Diagnose Structural Root Causes",
+    action: "Diagnose root causes across people, process, data and resources.",
     description: "Distinguish surface symptoms from structural friction, unaligned financial incentives, policy gaps, or missing data visibility.",
     tools: "Root-Cause Analysis (5 Whys), Value-Stream Mapping, Ledger Cross-Auditing.",
     evidence: "Traced emergency purchasing spikes to a lack of synchronization between physician schedules and supplier ordering cutoffs."
@@ -27,7 +27,7 @@ export const methodologySteps: MethodologyStep[] = [
   {
     stepNumber: 3,
     name: "DESIGN",
-    action: "Architect Pragmatic Operating Models",
+    action: "Build practical workflows that reduce friction and operational risk.",
     description: "Design practical workflows tailored to clinical realities, eliminating failure points and creating accountability without administrative drag.",
     tools: "Procedure-Linked Demand Logic, Staggered Shift Design, Dual-Custody Checklists.",
     evidence: "Instituted a 3-tier patient intake protocol and closed-loop consignment custody workflow."
@@ -35,7 +35,7 @@ export const methodologySteps: MethodologyStep[] = [
   {
     stepNumber: 4,
     name: "BUILD",
-    action: "Build Tailored Enablers & Systems",
+    action: "Create the tools and controls needed to support the workflow.",
     description: "When commercial software is inaccessible or lacks adaptability, build targeted internal applications and analytical models to standardize workflows.",
     tools: "Custom Web Applications & Operational Analytics (React, TypeScript, SQLite), Barcode Scanning, Financial Models.",
     evidence: "Built 4 custom internal operational platforms using AI-assisted development tools, with EGP 0 external software spend."
@@ -43,15 +43,15 @@ export const methodologySteps: MethodologyStep[] = [
   {
     stepNumber: 5,
     name: "EXECUTE",
-    action: "Deploy with Frontline Buy-In",
+    action: "Implement with the team and adapt to frontline feedback.",
     description: "Deploy workflows alongside frontline staff. Coach teams directly on the floor and refine steps immediately to ensure frictionless daily adoption.",
     tools: "Hands-On Coaching, SOP Checklists, Dual-Verification Routines.",
-    evidence: "Established digital workflows across clinical, administrative, and inventory functions without disrupting active patient care."
+    evidence: "Established adoption of targeted digital workflows across clinical, administrative, and inventory functions without disrupting active patient care."
   },
   {
     stepNumber: 6,
     name: "MEASURE",
-    action: "Track Quantified Metrics",
+    action: "Track objective operational and financial performance.",
     description: "Establish objective KPI visibility across utilization, case contribution margins, inventory variances, and supplier SLAs.",
     tools: "Daily Operations Dashboards, Financial Variance Reviews, Cycle Counts, Supplier Scorecards.",
     evidence: "Generated documented departmental statements proving +56.3% net profit growth and 100% material stock availability."
@@ -59,7 +59,7 @@ export const methodologySteps: MethodologyStep[] = [
   {
     stepNumber: 7,
     name: "IMPROVE",
-    action: "Institutionalize Continuous Improvement",
+    action: "Institutionalize continuous improvement through measured results.",
     description: "Continuously refine reorder thresholds, optimize case mix, and renegotiate supplier agreements based on real variance data.",
     tools: "Quarterly Supplier Tendering, Case-Mix Reviews, Quality Retrospectives.",
     evidence: "Sustained zero supply cancellations across 30+ consecutive months despite macroeconomic cost headwinds."

@@ -26,9 +26,9 @@ export const heroMetrics: HeroMetric[] = [
     id: "monthly-procedures",
     metric: "90–140",
     value: "90–140",
-    label: "Monthly Procedures Managed — Operating Range",
-    context: "Historical operating range; 399 documented cases in H1 2025, averaging ~66 complex clinical cases/month.",
-    detail: "Historical Range: 90–140 · Documented: ~66/mo"
+    label: "Monthly Procedures — Operating Range",
+    context: "Historical operating range · 399 documented cases in H1 2025 (~66/month average).",
+    detail: "Operating Range · 399 in H1 2025 (~66/mo)"
   },
   {
     id: "cancellations-zero",
