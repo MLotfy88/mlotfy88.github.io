@@ -86,7 +86,7 @@ export const operatingUnderPressure = {
     { strategy: "Demand Planning", action: "Built procedure-linked replenishment models tied directly to consultant bookings, slashing emergency spot-purchasing by 40–60%." },
     { strategy: "Inventory Control", action: "Governed consignment stocks via live barcode scanning, maintaining 100% availability for 50+ critical item codes." },
     { strategy: "Cost Discipline", action: "Audited 100% of vendor invoices against contracted price books, preventing phantom distributor storage markups." },
-    { strategy: "Resource Allocation", action: "Prioritized high-margin private case mix (+50%) and capped recovery room buffer stock to 12 patients." },
+    { strategy: "Resource Allocation", action: "Prioritized Private category case mix (+50%) and capped recovery room buffer stock to 12 patients." },
     { strategy: "Market Monitoring", action: "Continuously modeled replacement costs and aligned procedure tariffs to preserve solvency without reckless cost burden on patients." }
   ],
   bottomLine: "+56.3% net profitability growth and zero procedure cancellations achieved despite >70% cost inflation."

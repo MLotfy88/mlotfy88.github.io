@@ -25,7 +25,7 @@ export const caseStudies: CaseStudy[] = [
     impactSummary: "+56.3% YoY net profit growth (record EGP 2,978,995 in H1 2025) and +65.5% gross revenue expansion.",
     problem: "The Cardiac Catheterization Unit operated with limited financial visibility, fragmented reporting, and insufficient profitability analysis. Macroeconomic headwinds surged operating expenditures by +69.9% (imported consumable inflation +35%, currency floatation), threatening departmental operating margins.",
     whatISaw: "Management was making operational decisions without seeing the full financial picture: procedure pricing was static, case mix favored lower-margin procedures, and consumable costs were not tracked against replacement market rates.",
-    whatIDid: "Traced every clinical case from admission billing to final settlement; built weekly unit cost models vs budget; transitioned to dynamic replacement-cost pricing; and prioritized high-margin Private category procedures (+50% growth).",
+    whatIDid: "Traced every clinical case from admission billing to final settlement; built weekly unit cost models vs budget; transitioned to dynamic replacement-cost pricing; and prioritized Private category procedures (+50% growth).",
     whatIBuilt: "Advanced profitability & revenue tracking models in Excel, real-time cost monitoring & variance analysis ledgers, and executive board reporting dashboards.",
     result: "Delivered +56.3% YoY net profit growth reaching EGP 2,978,995 in H1 2025; +65.5% gross revenue growth; +27.1% case volume expansion; and contributed ~20% of total hospital revenue stability.",
     demonstrates: "P&L stewardship, financial analysis, margin turnaround, and executive leadership under severe economic inflation."
@@ -112,12 +112,12 @@ export const caseStudies: CaseStudy[] = [
     subtitle: "250% Return on Marketing Investment via Physician Referral Management",
     domain: "Commercial Strategy & Physician Relations",
     timeframe: "2024 – 2025",
-    impactSummary: "250% ROMI (every EGP 1 invested returned EGP 2.5 in net profit) and +50% YoY growth in high-margin Private category cases.",
+    impactSummary: "250% ROMI (every EGP 1 invested returned EGP 2.5 in net profit) and +50% YoY growth in Private category cases.",
     problem: "The unit had no structured approach to physician referrals or procedure volume growth. New cases came exclusively through passive word-of-mouth, with no proactive effort to engage external cardiologists or expand high-value private patient volume.",
     whatISaw: "Top interventional cardiologists in the surrounding governorate were referring cases to competing private centers due to lack of awareness of Al-Obour's modernized cath lab suite and reliable consumable availability.",
     whatIDid: "Designed and executed a targeted physician referral strategy: conducted direct clinical outreach and facility tours with regional cardiologists; organized targeted medical awareness sessions; and connected every marketing initiative directly to actual procedure bookings.",
     whatIBuilt: "Physician Referral Economics & Scheduling Tracker, modeling referral conversion rates, procedural category mix, and net contribution margins per physician.",
-    result: "Achieved a documented 250% Return on Marketing Investment (ROMI); expanded the high-margin Private category by +50% YoY; and maximized elective room schedule utilization during afternoon blocks.",
+    result: "Achieved a documented 250% Return on Marketing Investment (ROMI); expanded the Private category by +50% YoY; and maximized elective room schedule utilization during afternoon blocks.",
     demonstrates: "Commercial strategy, physician relationship management, ROI tracking, and healthcare business development."
   },
   {

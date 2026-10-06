@@ -108,8 +108,8 @@ export const rolesData: Record<string, RoleData> = {
         title: "Delivering +56.3% Net Profit Under Severe Cost Inflation",
         subtitle: "Margin Protection and Case-Mix Optimization",
         problem: "Between 2023 and 2025, macroeconomic currency devaluations drove imported medical consumable costs up by +69.9%. Without aggressive operational intervention, departmental operating margins would have collapsed into net losses.",
-        whatISaw: "Pricing schedules were static and unlinked to replacement costs. Low-margin subsidized procedures were consuming peak-hour room capacity, while high-value Private cases lacked dedicated operational scheduling.",
-        whatIDid: "Introduced dynamic replacement-cost pricing models, audited 100% of vendor invoices against contracted master price books, and prioritized afternoon capacity for high-margin Private category cases (+50% growth). Concurrently launched a structured physician outreach initiative that produced a 250% Return on Marketing Investment (ROMI).",
+        whatISaw: "Pricing schedules were static and unlinked to replacement costs. Low-margin subsidized procedures were consuming peak-hour room capacity, while higher-value Private cases lacked dedicated operational scheduling.",
+        whatIDid: "Introduced dynamic replacement-cost pricing models, audited 100% of vendor invoices against contracted master price books, and prioritized afternoon capacity for Private category cases (+50% growth). Concurrently launched a structured physician outreach initiative that produced a 250% Return on Marketing Investment (ROMI).",
         whatIBuilt: "Real-time P&L variance tracker in Excel and executive board reporting dashboards monitoring case contribution margins daily.",
         result: "Achieved record net profit of EGP 2,978,995 in H1 2025 (+56.3% YoY growth), expanded gross revenues by +65.5%, and grew procedure volume by +27.1%.",
         demonstrates: "P&L stewardship, financial discipline, commercial healthcare strategy, and crisis resilience."
