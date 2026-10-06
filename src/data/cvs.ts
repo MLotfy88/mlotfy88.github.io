@@ -32,7 +32,7 @@ export const cvCatalog: CvItem[] = [
     number: "02",
     title: "Healthcare Operations CV",
     roleLensId: "healthcare-operations",
-    targetRoles: "Healthcare Director • Hospital Operations Manager • Cath Lab Lead",
+    targetRoles: "Healthcare Operations Director • Hospital Operations Manager • Cath Lab Operations Lead",
     badge: "Clinical & Hospital Leadership",
     description: "Tailored specifically for healthcare administration, hospital operations, and specialized clinical unit management with rigorous clinical governance and throughput optimization.",
     pdfFile: "./cv/Mahmoud_Lotfy_CV_Healthcare_Operations.pdf",
@@ -69,7 +69,7 @@ export const cvCatalog: CvItem[] = [
     description: "Highlighting commercial contract negotiations, commercial audit mechanisms, supplier scorecards, and emergency price mitigation under currency devaluation.",
     pdfFile: "./cv/Mahmoud_Lotfy_CV_Procurement.pdf",
     highlights: [
-      "Absorbed >70% currency-driven price spikes via strategic volume commitments",
+      "Mitigated >70% currency-driven price spikes via strategic volume commitments",
       "Audited 100% of vendor billing invoices against contracted price books",
       "Established multi-tier supplier redundancy preventing sole-source dependency",
       "Zero single-point supplier dependencies on emergency cardiac supplies"
@@ -82,7 +82,7 @@ export const cvCatalog: CvItem[] = [
     roleLensId: "demand-planning",
     targetRoles: "Demand Planner • Inventory Control Specialist • Materials Lead",
     badge: "Quantitative Inventory Control",
-    description: "Emphasizing mathematical safety stocks, dynamic reorder points, consumption tracking, expiration audits, and physical reconciliation governance.",
+    description: "Emphasizing calibrated safety stock levels, dynamic reorder points, consumption tracking, expiration audits, and physical reconciliation governance.",
     pdfFile: "./cv/Mahmoud_Lotfy_CV_Demand_Planning.pdf",
     highlights: [
       "Dynamic rolling 30-day forecast models aligned with consultant caseloads",

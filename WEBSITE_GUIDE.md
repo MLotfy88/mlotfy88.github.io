@@ -166,12 +166,12 @@ graph TD
 
 | # | الرقم | المسمى | السياق التوثيقي | التصنيف |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | **+56.3%** | YoY Net Profitability Growth | Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,945 in H1 2024), verified in official hospital financial audits. | Financial Impact and P&L Stewardship |
-| 2 | **90-140** | Monthly Procedures Managed | Averaging 65-70 complex clinical cases/mo; 399 audited cases in H1 2025; >1,000 cases over 3 consecutive fiscal years. | Clinical Scale and High-Acuity Throughput |
+| 1 | **+56.3%** | YoY Net Profitability Growth | Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), verified in official hospital financial audits. | Financial Impact and P&L Stewardship |
+| 2 | **90-140** | Monthly Procedures — Operating Range | Historical operating range · 399 documented cases in H1 2025 (~66/month average). | Clinical Scale and High-Acuity Throughput |
 | 3 | **ZERO** | Supply-Failure Cancellations | Zero procedural cancellations due to stock or supply failure sustained across 30+ consecutive months. | Mission-Critical Operational Reliability |
 | 4 | **20+** | Conferences and Events Directed | Directed premier international medical congresses (Cairo Derma, Vascular Surgery), academic symposia, and TEDx Zagazig. | Multi-Stakeholder Event Operations (On-Budget) |
 | 5 | **15+** | Years Multi-Sector Experience | Cross-functional career spanning Healthcare, FMCG Manufacturing, HealthTech SaaS, Telecom, Media, and Live Events. | Accumulated Operational Breadth (2008 - 2026) |
-| 6 | **4 Systems** | Operational Platforms Built | Developed 4 custom production software platforms to eliminate operational friction on EGP 0 external budget. | Digital Transformation as an Operational Enabler |
+| 6 | **4 Systems** | Operational Platforms Built | Built 4 custom internal operational platforms using AI-assisted tools on EGP 0 external budget. | Digital Transformation as an Operational Enabler |
 
 - **شريط المؤشرات الثانوية (Secondary Operational Stats Bar):**
   - شريط مستطيل أسود مقسم لـ 5 أعمدة:

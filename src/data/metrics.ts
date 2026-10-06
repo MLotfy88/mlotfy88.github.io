@@ -19,7 +19,7 @@ export const heroMetrics: HeroMetric[] = [
     metric: "+56.3%",
     value: "+56.3%",
     label: "YoY Net Profitability Growth",
-    context: "Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,945 in H1 2024), documented in official hospital financial audits.",
+    context: "Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), documented in official hospital financial audits.",
     detail: "Official Hospital Financial Data · H1 2025 vs H1 2024"
   },
   {

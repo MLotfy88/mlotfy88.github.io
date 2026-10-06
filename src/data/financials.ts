@@ -16,7 +16,7 @@ export const financialMetrics = {
     {
       growth: "+56.3%",
       metric: "Net Profitability Growth",
-      context: "Departmental net profit reached EGP 2,978,995 in H1 2025 (vs EGP 1,905,945 in H1 2024), verified in official hospital financial audits."
+      context: "Departmental net profit reached EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), verified in official hospital financial audits."
     },
     {
       growth: "+65.5%",
@@ -46,7 +46,7 @@ export const financialMetrics = {
   ],
   trendData: [
     { year: "2023", revenueStatus: "EGP 5,689,106", profitStatus: "Operational Stabilization", note: "Unit restructuring & inventory control initiation" },
-    { year: "2024", revenueStatus: "EGP 5,850,791", profitStatus: "EGP 1,905,945 (H1)", note: "Dynamic pricing introduced & waiting list modeled" },
+    { year: "2024", revenueStatus: "EGP 5,850,791", profitStatus: "EGP 1,905,803 (H1)", note: "Dynamic pricing introduced & waiting list modeled" },
     { year: "2025", revenueStatus: "EGP 9,679,955 (+65.5%)", profitStatus: "EGP 2,978,995 (H1 Record)", note: "Record net profitability (+56.3% YoY)" }
   ],
   growthDrivers: [

@@ -118,7 +118,7 @@ export const rolesData: Record<string, RoleData> = {
     digitalEnabler: {
       title: "Technology as an Operational Enabler",
       subtitle: "Custom-Built Digital Infrastructure with Zero External Budget",
-      description: "Rather than waiting for enterprise software licenses, I built practical internal tools and digital workflows using AI-assisted development methods to eliminate administrative friction and enforce operational discipline on the floor.",
+      description: "Rather than waiting for enterprise software licenses, I designed and built targeted internal operational tools and digital workflows using AI-assisted development methods to eliminate administrative friction and enforce operational discipline on the floor.",
       systemsSummary: "4 Custom Platforms",
       externalCost: "EGP 0",
       platforms: [
