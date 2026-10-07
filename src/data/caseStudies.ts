@@ -57,7 +57,7 @@ export const caseStudies: CaseStudy[] = [
     whatISaw: "Intra-operative items used in surgery were frequently omitted from the final billing file, patient admissions records lacked verified copayment documentation, and collection reviews were ad-hoc.",
     whatIDid: "Instituted a mandatory digital clinical consumption sign-off inside the catheterization suite; synchronized patient admissions documentation with discharge cashiering; and enforced weekly SLA-based collection reviews.",
     whatIBuilt: "End-to-End Billing Tracker & Cash Management Desktop System, providing immediate reconciliation between clinical implants used and final patient/insurance claims.",
-    result: "Cut outstanding balances by 20–30%; achieved 100% reconciliation accuracy between physical clinical consumption and financial billing; and eliminated disputed patient accounts.",
+    result: "Cut outstanding balances by 20–30%; achieved 100% reconciliation accuracy between physical clinical consumption and financial billing; and resolved disputed patient accounts.",
     demonstrates: "Revenue cycle management (RCM), accounts receivable optimization, cashiering governance, and financial reconciliation."
   },
   {
@@ -108,16 +108,16 @@ export const caseStudies: CaseStudy[] = [
   {
     id: "case-07-commercial-romi",
     number: 7,
-    title: "Commercial / ROMI Strategy",
-    subtitle: "250% Return on Marketing Investment via Physician Referral Management",
+    title: "Physician Referral & Capacity Strategy",
+    subtitle: "+50% Growth in Private Elective Cases via Physician Relations & Scheduling",
     domain: "Commercial Strategy & Physician Relations",
     timeframe: "2024 – 2025",
-    impactSummary: "250% ROMI (every EGP 1 invested returned EGP 2.5 in net profit) and +50% YoY growth in Private category cases.",
+    impactSummary: "+50% YoY volume growth in Private category cases and optimized afternoon cath lab suite utilization.",
     problem: "The unit had no structured approach to physician referrals or procedure volume growth. New cases came exclusively through passive word-of-mouth, with no proactive effort to engage external cardiologists or expand high-value private patient volume.",
     whatISaw: "Top interventional cardiologists in the surrounding governorate were referring cases to competing private centers due to lack of awareness of Al-Obour's modernized cath lab suite and reliable consumable availability.",
-    whatIDid: "Designed and executed a targeted physician referral strategy: conducted direct clinical outreach and facility tours with regional cardiologists; organized targeted medical awareness sessions; and connected every marketing initiative directly to actual procedure bookings.",
+    whatIDid: "Designed and executed a targeted physician referral strategy: conducted direct clinical outreach and facility tours with regional cardiologists; organized targeted medical awareness sessions; and connected every outreach initiative directly to actual procedure bookings.",
     whatIBuilt: "Physician Referral Economics & Scheduling Tracker, modeling referral conversion rates, procedural category mix, and net contribution margins per physician.",
-    result: "Achieved a documented 250% Return on Marketing Investment (ROMI); expanded the Private category by +50% YoY; and maximized elective room schedule utilization during afternoon blocks.",
+    result: "Delivered +50% YoY growth in Private category procedures; optimized elective room schedule utilization during afternoon blocks; and significantly expanded departmental operating returns.",
     demonstrates: "Commercial strategy, physician relationship management, ROI tracking, and healthcare business development."
   },
   {

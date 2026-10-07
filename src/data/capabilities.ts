@@ -47,7 +47,7 @@ export const capabilityDomains: CapabilityDomain[] = [
     evidence: [
       "Delivered +56.3% YoY net profit growth (reaching record EGP 2,978,995 in H1 2025) and +65.5% revenue expansion.",
       "Restructured billing cycles and SLA-based collection reviews, reducing outstanding balances by 20–30%.",
-      "Absorbed >70% operating cost inflation through strategic case-mix optimization toward higher-value procedures."
+      "Mitigated >70% operating cost inflation through strategic case-mix alignment and dynamic replacement-cost pricing."
     ]
   },
   {
@@ -87,7 +87,7 @@ export const capabilityDomains: CapabilityDomain[] = [
     evidence: [
       "Developed objective multi-criteria performance scorecards and rankings replacing subjective staff evaluations.",
       "Built unified data models linking clinical, inventory, and financial KPIs into daily and monthly executive reviews.",
-      "Modeled physician referral economics and scheduling to deliver a documented 250% ROMI."
+      "Modeled physician referral economics and scheduling to drive +50% private elective procedure growth."
     ]
   },
   {

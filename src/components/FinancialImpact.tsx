@@ -13,7 +13,7 @@ export const FinancialImpact: React.FC = () => {
             <DollarSign size={14} />
             <span>Master Part 6 & 7 • Financial Deep-Dive</span>
           </div>
-          <h2 className="section-title">Financial Impact & Audited Performance</h2>
+          <h2 className="section-title">Financial Impact & Verified Performance</h2>
           <p className="section-subtitle">
             Operations without financial stewardship is incomplete. How operational optimization directly expanded departmental margins and preserved solvency during national macroeconomic shocks.
           </p>
@@ -57,7 +57,7 @@ export const FinancialImpact: React.FC = () => {
               <div>
                 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '12px' }}>
                   <span style={{ fontSize: '0.72rem', fontFamily: 'var(--font-mono)', color: 'var(--text-muted)', textTransform: 'uppercase' }}>
-                    Audited Master Metric
+                    Official Financial Metric
                   </span>
                   <span
                     style={{

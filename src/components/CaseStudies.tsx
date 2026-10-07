@@ -351,7 +351,7 @@ export const CaseStudies: React.FC<CaseStudiesProps> = ({ activeRole }) => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.8rem', color: '#34D399', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '4px' }}>
-                    5. Measured Outcome (Audited Business Results):
+                    5. Measured Outcome (Verified Business Results):
                   </div>
                   <div style={{ fontSize: '0.94rem', color: '#FFFFFF', fontWeight: 600, lineHeight: 1.65 }}>
                     {activeCase.result}

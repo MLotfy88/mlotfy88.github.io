@@ -16,7 +16,7 @@ export const financialMetrics = {
     {
       growth: "+56.3%",
       metric: "Net Profitability Growth",
-      context: "Departmental net profit reached EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), verified in official hospital financial audits."
+      context: "Departmental net profit reached EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), documented in official hospital financial statements."
     },
     {
       growth: "+65.5%",
@@ -25,7 +25,7 @@ export const financialMetrics = {
     },
     {
       growth: "314 → 399",
-      metric: "Audited Case Volume",
+      metric: "Documented Case Volume",
       context: "Interventional procedures performed in H1 2025 vs H1 2024 (+27.1% procedural volume growth)."
     },
     {
@@ -36,7 +36,7 @@ export const financialMetrics = {
     {
       growth: "+65.5%",
       metric: "Top-Line Revenue Expansion",
-      context: "Gross annual revenue expanded from EGP 5,850,791 to EGP 9,679,955 in audited statements (+30.4% 3-year CAGR from 2023 baseline)."
+      context: "Gross revenue expanded from EGP 5,850,791 to EGP 9,679,955 in official hospital financial statements."
     },
     {
       growth: "~20%",

@@ -54,7 +54,7 @@ export const Achievements: React.FC<AchievementsProps> = ({ activeRole }) => {
           </div>
           <h2 className="section-title">Results & Documented Achievements</h2>
           <p className="section-subtitle">
-            Audited operational outcomes achieved through disciplined system redesign, financial control, and frontline execution.
+            Documented operational outcomes achieved through disciplined system redesign, financial control, and frontline execution.
           </p>
         </div>
 

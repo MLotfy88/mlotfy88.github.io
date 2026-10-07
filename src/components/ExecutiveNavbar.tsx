@@ -42,7 +42,7 @@ export const ExecutiveNavbar: React.FC<ExecutiveNavbarProps> = ({ currentRoleSlu
   const roles = [
     { name: 'Healthcare Operations', slug: 'healthcare-ops', icon: Activity, desc: 'Cath Lab, clinical ops, P&L, 0 disruptions' },
     { name: 'Supply Chain Management', slug: 'supply-chain', icon: Truck, desc: 'Demand models, 40-60% emergency cuts, 1-hr SLA' },
-    { name: 'Procurement & Sourcing', slug: 'procurement', icon: ShoppingBag, desc: '3-criteria sign-off, currency crisis, 250% ROMI' },
+    { name: 'Procurement & Sourcing', slug: 'procurement', icon: ShoppingBag, desc: '3-criteria sign-off, inflation mitigation, 100% invoice audit' },
     { name: 'Business Operations', slug: 'business-ops', icon: Briefcase, desc: 'P&L stewardship, operational turnaround, zero-budget apps' },
     { name: 'Events & Conferences', slug: 'events', icon: Calendar, desc: '20+ events, medical congresses, TEDx Zagazig co-founder' },
   ];

@@ -29,10 +29,10 @@ export const ExecutiveStories: React.FC<ExecutiveStoriesProps> = ({ stories, rol
             <span>Operational Evidence</span>
           </div>
           <h2 style={{ fontSize: 'clamp(1.6rem, 2.5vw, 2.2rem)', fontWeight: 800, color: '#FFFFFF', marginBottom: '10px' }}>
-            Execution Case Studies: Problem → Action → Result
+            Execution Case Studies: Diagnosis → Intervention → System → Measured Outcome
           </h2>
           <p style={{ color: '#94A3B8', fontSize: '0.95rem', maxWidth: '760px', margin: 0 }}>
-            Every claim is supported by documented operational interventions, structured problem analysis, and audited outcomes.
+            Every claim is supported by documented operational interventions, structured problem analysis, and verified outcomes.
           </p>
         </div>
 
@@ -102,7 +102,7 @@ export const ExecutiveStories: React.FC<ExecutiveStoriesProps> = ({ stories, rol
                   <div style={{ padding: '16px', backgroundColor: 'rgba(239, 68, 68, 0.04)', border: '1px solid rgba(239, 68, 68, 0.15)', borderRadius: '10px' }}>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#F87171', fontSize: '0.8rem', fontWeight: 700, textTransform: 'uppercase', marginBottom: '6px' }}>
                       <AlertCircle size={15} />
-                      <span>The Operational Challenge</span>
+                      <span>Diagnosis (The Operational Challenge)</span>
                     </div>
                     <p style={{ color: '#E2E8F0', fontSize: '0.9rem', lineHeight: 1.55, margin: 0 }}>
                       {story.problem}
@@ -111,7 +111,7 @@ export const ExecutiveStories: React.FC<ExecutiveStoriesProps> = ({ stories, rol
 
                   <div style={{ padding: '16px', backgroundColor: 'rgba(255, 255, 255, 0.02)', border: '1px solid rgba(255, 255, 255, 0.06)', borderRadius: '10px' }}>
                     <div style={{ fontSize: '0.78rem', fontWeight: 700, color: '#94A3B8', textTransform: 'uppercase', marginBottom: '6px' }}>
-                      Diagnostic Observation (What I Saw)
+                      Diagnostic Observation
                     </div>
                     <p style={{ color: '#CBD5E1', fontSize: '0.88rem', lineHeight: 1.55, margin: 0 }}>
                       {story.whatISaw}
@@ -124,7 +124,7 @@ export const ExecutiveStories: React.FC<ExecutiveStoriesProps> = ({ stories, rol
                   <div style={{ padding: '16px', backgroundColor: 'rgba(52, 211, 153, 0.04)', border: '1px solid rgba(52, 211, 153, 0.18)', borderRadius: '10px' }}>
                     <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#34D399', fontSize: '0.8rem', fontWeight: 700, textTransform: 'uppercase', marginBottom: '6px' }}>
                       <Wrench size={15} />
-                      <span>Strategic Intervention (What I Did)</span>
+                      <span>Intervention (Strategic Action)</span>
                     </div>
                     <p style={{ color: '#E2E8F0', fontSize: '0.9rem', lineHeight: 1.55, margin: 0 }}>
                       {story.whatIDid}
@@ -134,7 +134,7 @@ export const ExecutiveStories: React.FC<ExecutiveStoriesProps> = ({ stories, rol
                   {story.whatIBuilt && (
                     <div style={{ padding: '16px', backgroundColor: 'rgba(255, 255, 255, 0.02)', border: '1px solid rgba(255, 255, 255, 0.06)', borderRadius: '10px' }}>
                       <div style={{ fontSize: '0.78rem', fontWeight: 700, color: '#94A3B8', textTransform: 'uppercase', marginBottom: '6px' }}>
-                        Operational Framework / Systems Built
+                        System / Action (Framework Built)
                       </div>
                       <p style={{ color: '#CBD5E1', fontSize: '0.88rem', lineHeight: 1.55, margin: 0 }}>
                         {story.whatIBuilt}
@@ -161,7 +161,7 @@ export const ExecutiveStories: React.FC<ExecutiveStoriesProps> = ({ stories, rol
                 </div>
                 <div>
                   <div style={{ fontSize: '0.75rem', fontWeight: 700, color: 'var(--text-emerald)', letterSpacing: '0.05em', textTransform: 'uppercase', marginBottom: '4px' }}>
-                    Audited Quantified Result
+                    Measured Outcome (Verified Result)
                   </div>
                   <div style={{ fontSize: '0.98rem', fontWeight: 600, color: '#FFFFFF', lineHeight: 1.5, marginBottom: '6px' }}>
                     {story.result}

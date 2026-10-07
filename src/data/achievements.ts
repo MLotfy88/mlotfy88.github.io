@@ -80,20 +80,20 @@ export const achievementsData: AchievementItem[] = [
   {
     id: "proc-01-inflation",
     metric: ">70%",
-    title: "Cost Inflation Absorbed",
+    title: "Cost Inflation Mitigated",
     category: "Procurement",
     context: "Egypt Currency Floatation Period",
-    story: "Successfully absorbed sharp currency devaluation spikes (EGP float from ~30.9 to ~48-50 per USD) and >35% consumable inflation through advance volume commitments.",
+    story: "Successfully mitigated sharp currency devaluation spikes (EGP float from ~30.9 to ~48-50 per USD) and >35% consumable inflation through advance volume commitments.",
     evidence: "Executive Macroeconomic Response Review & Supplier Contracts"
   },
   {
     id: "perf-01-romi",
-    metric: "250%",
-    title: "Return on Marketing Investment (ROMI)",
+    metric: "+50%",
+    title: "Private Case-Mix Growth (+50%)",
     category: "Performance",
     context: "Physician Referral Strategy",
-    story: "Every EGP 1 invested in targeted physician outreach returned EGP 2.5 in net profit; highest-margin Private category procedures expanded +50% YoY.",
-    evidence: "Master Dossier Section 5.7 & Physician Referral Registry"
+    story: "Targeted physician relationship and referral coordination expanded elective Private category volume by +50% YoY, optimizing afternoon procedural capacity.",
+    evidence: "Physician Referral Registry & Procedural Log"
   },
   {
     id: "gov-01-sla",

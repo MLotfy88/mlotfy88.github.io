@@ -103,7 +103,7 @@ export const HeroMetrics: React.FC = () => {
                       border: metric.id === 'profit-growth' ? '1px solid rgba(29, 158, 117, 0.3)' : 'none',
                     }}
                   >
-                    {metric.id === 'profit-growth' ? 'Audited Financial KPI' : 'Verified Metric'}
+                    {metric.id === 'profit-growth' ? 'Official Financial Record' : 'Verified Metric'}
                   </span>
                 </div>
 

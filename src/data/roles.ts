@@ -86,18 +86,18 @@ export const roleLenses: RoleLens[] = [
     number: "03",
     title: "Procurement",
     subtitle: "Strategic Sourcing, Commercial Negotiations & Cost Control",
-    pitch: "Directed strategic sourcing, vendor negotiations, and contract compliance across 30+ regional pharmaceutical and surgical suppliers. Mitigated >70% currency-driven price spikes via forward volume commitments, audited 100% of vendor invoices against contracted price books, and eliminated single-source dependencies.",
+    pitch: "Directed strategic sourcing, vendor negotiations, and contract compliance across 30+ regional pharmaceutical and surgical suppliers. Mitigated >70% currency-driven price spikes via forward volume commitments, audited 100% of vendor invoices against contracted price books, and mitigated single-source supply risks.",
     focusAreas: [
       "Commercial Contract & Tariff Negotiations",
       "100% Vendor Invoice Auditing Against Master Price Books",
       "Multi-Tier Supplier Redundancy & Dual Sourcing",
       "Consumable Replacement-Cost Price Indexing",
-      "Emergency Surcharge & Storage Fee Elimination"
+      "Emergency Surcharge & Fee Containment"
     ],
     keyMetrics: [
       { label: "Invoices Audited", value: "100%" },
       { label: "Inflation Mitigated", value: ">70%" },
-      { label: "Single-Source Risks", value: "Eliminated" },
+      { label: "Single-Source Risks", value: "Mitigated" },
       { label: "Supplier Partners", value: "30+ Vendors" }
     ],
     targetPositions: "Head of Procurement • Strategic Sourcing Specialist • Purchasing Lead • Commercial Sourcing Manager",
@@ -132,10 +132,10 @@ export const roleLenses: RoleLens[] = [
     number: "05",
     title: "Business Operations & Management",
     subtitle: "Departmental P&L Stewardship, Margin Turnaround & Systemic Scaling",
-    pitch: "Turned the Cath Lab into the hospital's financial growth engine: delivered +56.3% net profit growth and +65.5% revenue expansion within 12 months. Mastered unit contribution economics, eliminated billing leakage, and built custom operational platforms on zero external software budget.",
+    pitch: "Turned the Cath Lab into the hospital's financial growth engine: delivered +56.3% net profit growth and +65.5% revenue expansion within 12 months. Mastered unit contribution economics, prevented billing leakage, and built custom operational platforms on zero external software budget.",
     focusAreas: [
       "Departmental P&L Leadership & Margin Scaling",
-      "Revenue Cycle Management & Leakage Elimination",
+      "Revenue Cycle Management & Leakage Prevention",
       "Cost Control & Budget Management",
       "Operational Restructuring & Governance",
       "Internal Operational Systems Building"

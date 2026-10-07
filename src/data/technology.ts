@@ -123,6 +123,6 @@ export const excelSystems: ExcelSystem[] = [
     name: "Billing Tracker Module",
     purpose: "End-to-end revenue cycle tracking from clinical case completion to final settlement.",
     features: "Implant-to-billing cross-referencing, insurance claims status tracker, and cashiering reconciliations.",
-    impact: "Eliminated intra-operative consumable billing leakage and protected cash flow."
+    impact: "Resolved intra-operative consumable billing leakage and protected cash flow."
   }
 ];

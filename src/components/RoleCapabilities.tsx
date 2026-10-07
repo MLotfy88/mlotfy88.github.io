@@ -31,7 +31,7 @@ export const RoleCapabilities: React.FC<RoleCapabilitiesProps> = ({ capabilities
             Targeted Core Capabilities for {roleTitle}
           </h2>
           <p style={{ color: '#94A3B8', fontSize: '0.95rem', margin: 0 }}>
-            Curated functional competencies verified through audited executive performance and operational turnaround.
+            Curated functional competencies verified through documented executive performance and operational turnaround.
           </p>
         </div>
 

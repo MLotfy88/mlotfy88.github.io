@@ -89,7 +89,7 @@ export const rolesData: Record<string, RoleData> = {
         whatISaw: "I noticed that administrative leadership lacked real-time visibility into the surgical suite, while clinicians felt constrained by bureaucratic procurement delays. Decisions were reactive, based on intuition rather than unified operational data.",
         whatIDid: "I systematically mapped every stage of the patient and consumable lifecycle—from pre-operative admission and inventory staging to intra-operative consumption and discharge billing. I presented a comprehensive restructuring plan to hospital executive leadership and was appointed to lead operations.",
         whatIBuilt: "Standardized Daily Operational Protocols, integrated clinical consumption logs, and an open interdepartmental communication rhythm between surgical consultants, nursing heads, and the hospital director.",
-        result: "Eliminated operational friction, synchronized clinical schedules with consumable availability, and successfully re-linked the unit to the hospital's core executive governance.",
+        result: "Significantly reduced operational friction, synchronized clinical schedules with consumable availability, and successfully re-linked the unit to the hospital's core executive governance.",
         demonstrates: "Operational restructuring, cross-functional diplomacy, change management, and executive initiative."
       },
       {
@@ -109,7 +109,7 @@ export const rolesData: Record<string, RoleData> = {
         subtitle: "Margin Protection and Case-Mix Optimization",
         problem: "Between 2023 and 2025, macroeconomic currency devaluations drove imported medical consumable costs up by +69.9%. Without aggressive operational intervention, departmental operating margins would have collapsed into net losses.",
         whatISaw: "Pricing schedules were static and unlinked to replacement costs. Low-margin subsidized procedures were consuming peak-hour room capacity, while higher-value Private cases lacked dedicated operational scheduling.",
-        whatIDid: "Introduced dynamic replacement-cost pricing models, audited 100% of vendor invoices against contracted master price books, and prioritized afternoon capacity for Private category cases (+50% growth). Concurrently launched a structured physician outreach initiative that produced a 250% Return on Marketing Investment (ROMI).",
+        whatIDid: "Introduced dynamic replacement-cost pricing models, audited 100% of vendor invoices against contracted master price books, and prioritized afternoon capacity for Private category cases (+50% growth). Concurrently established a structured physician referral coordination framework that drove +50% growth in Private elective cases, optimizing departmental operating returns.",
         whatIBuilt: "Real-time P&L variance tracker in Excel and executive board reporting dashboards monitoring case contribution margins daily.",
         result: "Achieved record net profit of EGP 2,978,995 in H1 2025 (+56.3% YoY growth), expanded gross revenues by +65.5%, and grew procedure volume by +27.1%.",
         demonstrates: "P&L stewardship, financial discipline, commercial healthcare strategy, and crisis resilience."
@@ -126,13 +126,13 @@ export const rolesData: Record<string, RoleData> = {
           name: "Nursing KPI & Shift Monitoring Platform",
           tech: "Full KPI System · Web Architecture",
           description: "Digitized daily shift logs, infection control checklists, and performance scoring across 45 personnel.",
-          impact: "Eliminated subjective evaluations and established transparent clinical performance governance."
+          impact: "Minimized subjective evaluations and established transparent clinical performance governance."
         },
         {
           name: "Medical Diagnostic Reports System",
           tech: "Desktop App · Standardized Templates",
           description: "Replaced vulnerable Word files with a structured, standardized report generation engine for catheterization results.",
-          impact: "Standardized clinical documentation, eliminated lost reports, and expedited patient discharge."
+          impact: "Standardized clinical documentation, prevented lost reports, and expedited patient discharge."
         },
         {
           name: "Inventory & Consignment Tracker",
@@ -171,7 +171,7 @@ export const rolesData: Record<string, RoleData> = {
         location: "Zagazig, Sharkia, Egypt",
         summary: "Managed admissions, patient billing, treasury, and supplier reconciliation for the catheterization unit prior to executive promotion.",
         highlights: [
-          "Eliminated billing leakage by introducing intra-operative consumable sign-off sheets",
+          "Prevented billing leakage by introducing intra-operative consumable sign-off sheets",
           "Restructured patient receivables and reduced overdue balances by 20–30%",
           "Audited 100% of medical supplier invoices against contracted master price books"
         ]
@@ -199,12 +199,12 @@ export const rolesData: Record<string, RoleData> = {
     valueProposition:
       "Built and managed a procedure-linked demand forecasting model that reduced emergency purchasing by 40–60%, maintained 100% stock availability across 3 fiscal years, and achieved ZERO supply disruptions for 30+ consecutive months — in a high-value medical consumables environment under >70% cost inflation.",
     executiveSummary:
-      "Specialized in high-reliability supply chain management for mission-critical medical consumables (drug-eluting stents, PTCA balloon catheters, pacemakers, introducer sheaths). By deploying calibrated safety stock levels, procedure-linked replenishment models, and strict vendor SLA contracts, I eliminated stockouts and shielded clinical operations from extreme currency shocks.",
+      "Specialized in high-reliability supply chain management for mission-critical medical consumables (drug-eluting stents, PTCA balloon catheters, pacemakers, introducer sheaths). By deploying calibrated safety stock levels, procedure-linked replenishment models, and strict vendor SLA contracts, I prevented stockouts and shielded clinical operations from extreme currency shocks.",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Supply_Chain.pdf",
     cvTitle: "Supply Chain Management CV (PDF)",
     metrics: [
       { label: "Supply Disruptions", value: "ZERO", note: "Jan 2023 – Apr 2026 · 30+ Consecutive Months", highlight: true },
-      { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Transitioned from panic spot buys to scheduled weekly replenishment", highlight: true },
+      { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Transitioned from ad-hoc spot purchasing to scheduled weekly replenishment", highlight: true },
       { label: "Critical Stock Availability", value: "100%", note: "3 Fiscal Years · 50+ Critical Surgical Item Codes", highlight: true },
       { label: "Vendor Emergency Response SLA", value: "1 Hour MAX", note: "Contractually enforced response time for specialized surgical sizes" },
       { label: "Physical vs Ledger Accuracy", value: "100%", note: "Zero stock discrepancy across 50+ critical surgical item codes" },
@@ -228,7 +228,7 @@ export const rolesData: Record<string, RoleData> = {
         subtitle: "Contractual Architecture for Life-Saving Consignment Items",
         problem: "In acute coronary syndromes, rare anatomical variations demand non-standard stent diameters or specialized guide catheters. Storing every conceivable variation in on-site inventory is financially prohibitive for hospital working capital.",
         whatISaw: "Suppliers treated emergency requests with casual response times (4 to 8 hours), jeopardizing acute emergency PCI cases.",
-        whatIDid: "Leveraged our high purchasing volume to negotiate a structured consignment partnership with our 3 primary multinational suppliers. Instituted contractually binding Service Level Agreements requiring emergency delivery within a guaranteed 60-minute window, backed by regular inventory rotation audits.",
+        whatIDid: "Leveraged our high purchasing volume to negotiate a structured consignment partnership with our 3 primary multinational suppliers. Instituted contractually binding Service Level Agreements requiring emergency delivery within a committed 60-minute response window, backed by regular inventory rotation audits.",
         whatIBuilt: "Vendor SLA Performance Scorecard and an emergency dispatch protocol connecting on-call catheterization nursing with vendor courier hubs.",
         result: "Secured emergency access to required specialized device sizes within the agreed 60-minute SLA, with zero clinical delays recorded across 30+ months.",
         demonstrates: "Vendor contract negotiation, SLA governance, emergency logistics, and strategic supplier partnerships."
@@ -262,7 +262,7 @@ export const rolesData: Record<string, RoleData> = {
           name: "Automated Reorder Threshold Engine",
           tech: "Demand-Linked Reorder Rules · Real-time Alerts",
           description: "Triggers automated replenishment alerts when critical stent or catheter inventory crosses calculated safety stock lines.",
-          impact: "Completely eliminated emergency ordering panic and stockouts for 30+ consecutive months."
+          impact: "Maintained continuous stock availability and avoided stockouts for 30+ consecutive months."
         }
       ]
     },
@@ -295,7 +295,7 @@ export const rolesData: Record<string, RoleData> = {
         summary: "Supervised daily consumable receipts, verified supplier invoices, and tracked clinical implant consumption.",
         highlights: [
           "Audited 100% of vendor invoices against contracted master price books",
-          "Eliminated inventory discrepancies through monthly physical cycle counts"
+          "Resolved inventory discrepancies through monthly physical cycle counts"
         ]
       },
       {
@@ -321,27 +321,27 @@ export const rolesData: Record<string, RoleData> = {
     valueProposition:
       "Strategic procurement leader who instituted a rigorous 3-criteria sign-off protocol, managed high-value medical consumables procurement under extreme currency shocks, and maintained strict commercial discipline while maintaining performance despite >70% cost inflation.",
     executiveSummary:
-      "Over 10+ years managing commercial purchasing and vendor relationships across healthcare, manufacturing, and commercial events. By establishing master price books, 100% invoice auditing, dual-sourcing redundancy, and a strict 3-criteria sign-off framework, I eliminated procurement leakage and maximized return on every spent pound.",
+      "Over 10+ years managing commercial purchasing and vendor relationships across healthcare, manufacturing, and commercial events. By establishing master price books, 100% invoice auditing, dual-sourcing redundancy, and a strict 3-criteria sign-off framework, I contained procurement leakage and protected hospital purchasing value.",
     cvPdf: "./cv/Mahmoud_Lotfy_CV_Procurement.pdf",
     cvTitle: "Procurement & Sourcing CV (PDF)",
     metrics: [
-      { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Eliminated premium spot pricing through planned replenishment", highlight: true },
+      { label: "Emergency Purchasing Reduction", value: "40–60%", note: "Minimized premium spot pricing through planned replenishment", highlight: true },
       { label: "Cost Inflation Mitigated", value: ">70%", note: "Expenditure contained via forward volume commitments", highlight: true },
       { label: "Outstanding Balances Recovered", value: "20–30%", note: "Restructured receivables and vendor reconciliation backlogs", highlight: true },
       { label: "Invoices Audited", value: "100%", note: "100% verified against contracted master price books", highlight: true },
       { label: "Procurement Sign-Off Protocol", value: "3 Criteria", note: "Unit price benchmark, clinical suitability, and regulatory compliance" },
-      { label: "Commercial Marketing ROMI", value: "250%", note: "Return on outreach investment connecting physician referrals to procedure bookings" }
+      { label: "Active Suppliers Managed", value: "30+", note: "Dual-sourcing coverage across 30+ regional medical device and consumable suppliers" }
     ],
     stories: [
       {
         id: "three-criteria-protocol",
         title: "Instituting the 3-Criteria Procurement Sign-Off Protocol",
-        subtitle: "Eliminating Maverick Spending and Supplier Price Exploitation",
+        subtitle: "Controlling Maverick Spending and Preventing Price Creep",
         problem: "Prior to formal controls, department purchases were frequently authorized under emergency pretexts, allowing suppliers to bill items at list price without contractual discounts. Internal teams accepted quotes based on brand familiarity rather than benchmarked market value.",
         whatISaw: "Suppliers exploited clinical urgency to introduce incremental price hikes. Invoices arrived with uncontracted delivery surcharges, and duplicate item descriptions masked variable pricing.",
         whatIDid: "Instituted a mandatory 3-criteria sign-off protocol for every procurement requisition: 1) Verification of unit price against contracted master price books, 2) Technical/clinical suitability confirmation by the chief consultant, and 3) Regulatory and batch expiry compliance verification. Zero payments were released without matching purchase order, receiving report, and audited invoice.",
         whatIBuilt: "Standardized Procurement Approval Workflow & Vendor Price-Book Variance Ledger in Excel.",
-        result: "Completely eliminated maverick purchases, halted unauthorized price escalations, and reduced emergency surcharge expenses by over 50%.",
+        result: "Curtailed off-contract purchases, halted unauthorized price escalations, and reduced emergency surcharge expenses by over 50%.",
         demonstrates: "Procurement governance, commercial discipline, spend analytics, and process enforcement."
       },
       {
@@ -363,7 +363,7 @@ export const rolesData: Record<string, RoleData> = {
         whatISaw: "Payments were stalled because invoice files lacked individual procedure case sign-offs and implant verification vouchers.",
         whatIDid: "Executed a line-by-line reconciliation of all disputed vendor balances across 3 fiscal years. Established bilateral settlement agreements where historical supplier claims were offset against reconciled credit notes and scheduled payment tranches.",
         whatIBuilt: "Automated Billing & Reconciliation Tracker linking patient admission files to supplier delivery vouchers.",
-        result: "Cut overdue balances by 20–30%, restored favorable commercial credit terms with all key medical device vendors, and eliminated interest and late-fee liabilities.",
+        result: "Cut overdue balances by 20–30%, restored favorable commercial credit terms with all key medical device vendors, and prevented late-fee liabilities.",
         demonstrates: "Financial reconciliation, working capital recovery, vendor diplomacy, and commercial settlement."
       }
     ],
@@ -378,7 +378,7 @@ export const rolesData: Record<string, RoleData> = {
           name: "Cash Management & Procurement Tracker",
           tech: "Full-Stack Application · React + Rust",
           description: "High-integrity ledger tracking every outgoing supplier disbursement and incoming patient revenue stream.",
-          impact: "Eliminated unauthorized disbursements and established real-time cash flow visibility."
+          impact: "Prevented unauthorized disbursements and established real-time cash flow visibility."
         },
         {
           name: "Contract Price-Book Variance Engine",
@@ -390,7 +390,7 @@ export const rolesData: Record<string, RoleData> = {
     },
     capabilities: [
       { name: "Strategic Sourcing & Category Management", level: 5, description: "Master price books, supplier qualification, category spend analysis, and dual-sourcing frameworks." },
-      { name: "Commercial Contract & SLA Negotiation", level: 5, description: "Negotiating volume tiering, delivery response guarantees (1-Hour MAX), and currency adjustment clauses." },
+      { name: "Commercial Contract & SLA Negotiation", level: 5, description: "Negotiating volume tiering, committed delivery response SLAs (1-Hour MAX), and currency adjustment clauses." },
       { name: "Spend Analytics & Invoice Auditing", level: 5, description: "100% three-way matching (PO, Delivery Voucher, Invoice), variance tracking, and price book compliance." },
       { name: "Working Capital & Cash Flow Management", level: 5, description: "Payment terms structuring, supplier credit reconciliation, and accounts receivable acceleration." },
       { name: "Supplier Relationship Management (SRM)", level: 5, description: "Quarterly supplier performance reviews, dispute resolution, and partnership development." }
@@ -405,7 +405,7 @@ export const rolesData: Record<string, RoleData> = {
         highlights: [
           "Instituted mandatory 3-criteria sign-off protocol, eliminating uncontracted supplier surcharges",
           "Audited 100% of vendor invoices against master price books with zero compliance gaps",
-          "Absorbed >70% currency inflation while preserving departmental operating profit margins (+56.3%)",
+          "Mitigated >70% currency inflation while protecting departmental operating profit margins (+56.3%)",
           "Restructured outstanding supplier and payor balances, reducing overdue amounts by 20–30%"
         ]
       },
@@ -464,7 +464,7 @@ export const rolesData: Record<string, RoleData> = {
         whatIDid: "Applied manufacturing principles: instituted standard work checklists for suite turnaround; established staged consumable kits for upcoming surgical types; and treated the catheterization suite as a high-value production line where idle time equals lost care and revenue.",
         whatIBuilt: "Standard Operating Procedures (SOPs) for procedural turnover, room preparation checklists, and live schedule boards.",
         result: "Expanded monthly procedure volume from 90 to 140 cases (+37.8% throughput) without adding physical room capacity or overtime hours.",
-        demonstrates: "Cross-industry transferability, operational efficiency, bottleneck elimination, and throughput optimization."
+        demonstrates: "Cross-industry transferability, operational efficiency, bottleneck resolution, and throughput optimization."
       },
       {
         id: "compounding-discipline",
@@ -500,7 +500,7 @@ export const rolesData: Record<string, RoleData> = {
           name: "Cash Management & Settlement Platform",
           tech: "React · Rust · SQLite Engine",
           description: "Full unit financial ledger tracking patient admissions, cashier collections, and supplier disbursements.",
-          impact: "Eliminated billing leakage and cut accounts receivable disputes by 20–30%."
+          impact: "Prevented billing leakage and cut accounts receivable disputes by 20–30%."
         },
         {
           name: "Consumable Inventory & Reorder System",
@@ -537,7 +537,7 @@ export const rolesData: Record<string, RoleData> = {
         location: "Zagazig, Sharkia, Egypt",
         summary: "P&L ownership, clinical operations, staff leadership (~45 personnel), and strategic growth.",
         highlights: [
-          "+56.3% YoY net profit growth; +65.5% gross revenue growth (audited H1 2024 vs H1 2025)",
+          "+56.3% YoY net profit growth; +65.5% gross revenue growth (verified H1 2024 vs H1 2025 financials)",
           "Department accounts for ~20% of total hospital revenue stability",
           "Built 4 internal operational platforms using AI-assisted tools on zero external software budget"
         ]
@@ -549,7 +549,7 @@ export const rolesData: Record<string, RoleData> = {
         location: "Zagazig, Sharkia, Egypt",
         summary: "Unit admissions, financial reconciliation, patient collections, and administrative coordination.",
         highlights: [
-          "Eliminated billing leakage and instituted intra-operative consumption tracking",
+          "Prevented billing leakage and instituted intra-operative consumption tracking",
           "Reduced outstanding receivables by 20–30%"
         ]
       },
@@ -651,7 +651,7 @@ export const rolesData: Record<string, RoleData> = {
           name: "Minute-by-Minute Run-Down Timing Engine",
           tech: "Dynamic Scheduling Model",
           description: "Calculates stage cues, speaker countdowns, and sponsor video triggers in real time.",
-          impact: "Eliminated speaker schedule creep and kept 100% of scientific sessions on time."
+          impact: "Prevented speaker schedule creep and kept 100% of scientific sessions on time."
         },
         {
           name: "Digital Registration & Badge Generation Engine",
@@ -664,7 +664,7 @@ export const rolesData: Record<string, RoleData> = {
     capabilities: [
       { name: "Medical & Academic Congress Direction", level: 5, description: "Protocol management, CME accreditation logistics, live clinical workshop staging, and speaker coordination." },
       { name: "Audio-Visual & Live Staging Direction", level: 5, description: "Stage architecture, multi-track AV coordination, lighting, simultaneous translation, and technical cues." },
-      { name: "Sponsorship Acquisition & Corporate Relations", level: 5, description: "Structuring corporate sponsor packages, pharmaceutical booth floor plans, and delivering measurable ROMI." },
+      { name: "Sponsorship Acquisition & Corporate Relations", level: 5, description: "Structuring corporate sponsor packages, pharmaceutical booth floor plans, and delivering measurable sponsor return on investment." },
       { name: "Large-Scale Crowd Logistics & Security", level: 5, description: "Crowd flow engineering, ticketing, emergency contingency planning, and municipal location permitting." },
       { name: "Creative Media & Video Production Direction", level: 5, description: "Directing multi-camera live video recording, promotional teasers, post-event documentary films, and branding." }
     ],

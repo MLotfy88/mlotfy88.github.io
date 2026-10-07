@@ -101,10 +101,10 @@ export const cvCatalog: CvItem[] = [
     description: "Centered on business scaling, departmental P&L leadership, cross-functional organizational alignment, unit cost analysis, and lean workflow institutionalization.",
     pdfFile: "./cv/Mahmoud_Lotfy_CV_Business_Operations.pdf",
     highlights: [
-      "+56.3% net profit expansion from H1 2024 to H1 2025 (audited financials)",
+      "+56.3% net profit expansion from H1 2024 to H1 2025 (official hospital financial statements)",
       "+65.5% departmental gross revenue expansion over the same comparison period",
       "EGP 0 external software expenditure through custom internal application engineering",
-      "Elimination of billing revenue leakage via mandatory post-procedure clinical checklists"
+      "Prevention of billing revenue leakage via mandatory post-procedure clinical checklists"
     ]
   },
   {

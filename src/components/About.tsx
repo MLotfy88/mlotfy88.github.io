@@ -119,7 +119,7 @@ export const About: React.FC = () => {
                 2. Rigorous Financial Stewardship
               </h4>
               <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)', lineHeight: 1.6, margin: 0 }}>
-                Operations without financial literacy is blind. Managing departmental P&L, analyzing procedure-level contribution margins, and auditing 100% of vendor statements delivered +56.3% net profit expansion and absorbed &gt;70% macroeconomic inflation.
+                Operations without financial literacy is blind. Managing departmental P&L, analyzing procedure-level contribution margins, and verifying 100% of vendor statements delivered +56.3% net profit expansion and mitigated &gt;70% macroeconomic cost inflation.
               </p>
             </div>
 

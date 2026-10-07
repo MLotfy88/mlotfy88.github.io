@@ -28,7 +28,7 @@ export const LandingPage: React.FC = () => {
   }, []);
 
   const careerMetrics = [
-    { label: "Net Profit Growth YoY", value: "+56.3%", note: "EGP 2,978,995 in H1 2025 vs EGP 1,905,803 in H1 2024 · Audited Data", highlight: true },
+    { label: "Net Profit Growth YoY", value: "+56.3%", note: "EGP 2,978,995 in H1 2025 vs EGP 1,905,803 in H1 2024 · Official Financial Records", highlight: true },
     { label: "Revenue Expansion YoY", value: "+65.5%", note: "Cath Lab gross revenue grew from EGP 5.85M to EGP 9.68M", highlight: true },
     { label: "Supply Failure Cancellations", value: "ZERO", note: "30+ consecutive months with 100% procedure readiness", highlight: true },
     { label: "Operational Oversight", value: "~45 Personnel", note: "Direct management of 5–10 accounting/operations staff, with broader operational oversight across ~45 personnel" },
@@ -75,7 +75,7 @@ export const LandingPage: React.FC = () => {
       metrics: [
         { label: "Inflation Mitigated", value: ">70%" },
         { label: "Overdue Balances Cut", value: "20–30%" },
-        { label: "Commercial ROMI", value: "250%" },
+        { label: "Invoices Verified", value: "100%" },
       ],
       cvPdf: "./cv/Mahmoud_Lotfy_CV_Procurement.pdf"
     },
@@ -339,7 +339,7 @@ export const LandingPage: React.FC = () => {
             {/* Career Metrics Bar */}
             <div>
               <div style={{ fontSize: '0.78rem', fontWeight: 700, color: '#94A3B8', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '16px' }}>
-                Key Career Proof Points · Fully Audited & Validated
+                Key Career Proof Points · Documented & Verified
               </div>
               <div 
                 style={{

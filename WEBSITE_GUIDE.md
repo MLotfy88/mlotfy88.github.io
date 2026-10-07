@@ -162,11 +162,11 @@ graph TD
 
 - **شبكة الكروت الستة:**
   - كل كارت يتضمن: أيقونة ملونة داخل مربع رمادي، الرقم الكبير (خط عريض 2.6rem)، المسمى، السياق التوثيقي، وعنوان التصنيف أسفل الكارت.
-  - كل كارت يحمل بادج صغير `Audited KPI` وخط زمردي متوهج أعلاه.
+  - كل كارت يحمل بادج صغير `Verified Metric` وخط زمردي متوهج أعلاه.
 
 | # | الرقم | المسمى | السياق التوثيقي | التصنيف |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | **+56.3%** | YoY Net Profitability Growth | Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), verified in official hospital financial audits. | Financial Impact and P&L Stewardship |
+| 1 | **+56.3%** | YoY Net Profitability Growth | Surged to EGP 2,978,995 in H1 2025 (vs EGP 1,905,803 in H1 2024), documented in official hospital financial records. | Financial Impact and P&L Stewardship |
 | 2 | **90-140** | Monthly Procedures — Operating Range | Historical operating range · 399 documented cases in H1 2025 (~66/month average). | Clinical Scale and High-Acuity Throughput |
 | 3 | **ZERO** | Supply-Failure Cancellations | Zero procedural cancellations due to stock or supply failure sustained across 30+ consecutive months. | Mission-Critical Operational Reliability |
 | 4 | **20+** | Conferences and Events Directed | Directed premier international medical congresses (Cairo Derma, Vascular Surgery), academic symposia, and TEDx Zagazig. | Multi-Stakeholder Event Operations (On-Budget) |
@@ -224,7 +224,7 @@ graph TD
 - **نص الكارت:**
   > *"Instituted a 3-criteria procurement sign-off protocol, audited 100% of supplier invoices against master price books, and mitigated >70% currency-driven cost inflation through forward volume commitments."*
 - **شريط الأرقام الثلاثية:**
-  - `>70%` Inflation Absorbed | `20-30%` Overdue Balances Cut | `250%` Commercial ROMI
+  - `>70%` Inflation Mitigated | `20-30%` Overdue Balances Cut | `100%` Invoices Verified
 - **الأزرار السفلية:**
   - `Open Role Dossier` ينقل لصفحة `/#/procurement`.
   - `CV PDF` يحمل `Mahmoud_Lotfy_CV_Procurement.pdf`.
@@ -382,8 +382,8 @@ graph TD
   - أزرار سريعة لمراسلة الإيميل أو الاتصال بالهاتف مباشرة.
 
 ### 2. شبكة الأرقام المدققة (6 Key Metrics):
-1. `+56.3%` Net Profit Growth YoY (Audited H1 2024 vs H1 2025 under >70% cost inflation)
-2. `+65.5%` Revenue Expansion (Gross revenue grew from EGP 5.85M to EGP 9.68M in audited statements)
+1. `+56.3%` Net Profit Growth YoY (Official Hospital Financial Data: H1 2024 vs H1 2025 under >70% cost inflation)
+2. `+65.5%` Revenue Expansion (Gross revenue grew from EGP 5.85M to EGP 9.68M in official financial statements)
 3. `ZERO` Supply Failure Cancellations (30+ consecutive months with 100% procedure readiness)
 4. `90-140` Monthly Procedure Volume (Diagnostic angiographies, PCIs, and pacemaker implants)
 5. `~45 Staff` Team Leadership (Nursing staff, surgical technicians, coordinators and admin)
@@ -426,7 +426,7 @@ graph TD
 - **زر التحميل:** `Download Supply Chain Management CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Supply_Chain.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `ZERO` Supply Disruptions | 2. `40-60%` Emergency Purchasing Reduction | 3. `100%` Critical Stock Availability | 4. `1 Hour MAX` Vendor Emergency Response SLA | 5. `100%` Physical vs Ledger Accuracy | 6. `>70%` Cost Inflation Absorbed
+1. `ZERO` Supply Disruptions | 2. `40-60%` Emergency Purchasing Reduction | 3. `100%` Critical Stock Availability | 4. `1 Hour MAX` Vendor Emergency Response SLA | 5. `100%` Physical vs Ledger Accuracy | 6. `>70%` Cost Inflation Mitigated
 
 ---
 
@@ -442,7 +442,7 @@ graph TD
 - **زر التحميل:** `Download Procurement and Sourcing CV (PDF)` (ملف `Mahmoud_Lotfy_CV_Procurement.pdf`).
 
 ### 2. شبكة الأرقام المدققة:
-1. `40-60%` Emergency Purchasing Reduction | 2. `>70%` Cost Inflation Mitigated | 3. `20-30%` Outstanding Balances Recovered | 4. `100%` Invoices Audited | 5. `3 Criteria` Procurement Sign-Off Protocol | 6. `250%` Commercial Marketing ROMI
+1. `40-60%` Emergency Purchasing Reduction | 2. `>70%` Cost Inflation Mitigated | 3. `20-30%` Outstanding Balances Recovered | 4. `100%` Invoices Audited | 5. `3 Criteria` Procurement Sign-Off Protocol | 6. `30+` Active Suppliers Managed
 
 ---
 
@@ -524,6 +524,10 @@ graph TD
 | 17 | **إزالة high-margin** | استبدال "high-margin" بـ "Private category" في 5 مواضع | `rolesData.ts`, `financials.ts`, `caseStudies.ts` |
 | 18 | **تحديث Navbar Subtitle** | من "EXECUTIVE CAREER DOSSIER" إلى "EXECUTIVE CAREER PORTFOLIO" | `ExecutiveNavbar.tsx` |
 | 19 | **دمج التحليلات والتتبع اللحظي (Stealth Mode)** | إضافة Google Analytics 4 (GA4) و Zoho SalesIQ للتتبع اللحظي للزوار بدون إظهار أيقونة الشات عبر الـ API الرسمي مع ربط التنقل اللحظي بين الملفات (SPA Routes) | `index.html`, `App.tsx` |
+| 20 | **معايرة مؤشرات Procurement** | إزالة `250% Commercial ROMI` من قسم المشتريات والنافبار واستبدالها بـ `100% Invoices Verified` و `30+ Active Suppliers Managed` | `LandingPage.tsx`, `rolesData.ts`, `ExecutiveNavbar.tsx` |
+| 21 | **ترشيد استخدام مصطلح Audited** | قصر كلمة "Audited" على تدقيق فواتير الموردين (Invoice Auditing)، واستبدالها في المؤشرات والنتائج بـ `Official Financial Records / Verified / Documented` | `HeroMetrics.tsx`, `FinancialImpact.tsx`, `ExecutiveStories.tsx`, `CaseStudies.tsx`, `metrics.ts`, `financials.ts` |
+| 22 | **معايرة لغة الجزم (Executive Softening)** | استبدال `Eliminated` بـ `Prevented / Resolved / Curtailed`، و `Guaranteed` بـ `Committed`، و `Cost Inflation Absorbed` بـ `Cost Inflation Mitigated` | `rolesData.ts`, `roles.ts`, `capabilities.ts`, `achievements.ts`, `About.tsx` |
+| 23 | **مطابقة مسميات دراسات الحالة بالصفحات التخصصية** | تحديث مكون `ExecutiveStories.tsx` في جميع صفحات الأدوار الخمس ليطابق حرفياً: `Diagnosis → Intervention → System → Measured Outcome` | `ExecutiveStories.tsx` |
 
 ---
 
