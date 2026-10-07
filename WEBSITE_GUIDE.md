@@ -523,7 +523,7 @@ graph TD
 | 16 | **توحيد Role Titles** | توحيد "Target Role: Healthcare Operations Director" عبر جميع الصفحات | `rolesData.ts`, `cvs.ts` |
 | 17 | **إزالة high-margin** | استبدال "high-margin" بـ "Private category" في 5 مواضع | `rolesData.ts`, `financials.ts`, `caseStudies.ts` |
 | 18 | **تحديث Navbar Subtitle** | من "EXECUTIVE CAREER DOSSIER" إلى "EXECUTIVE CAREER PORTFOLIO" | `ExecutiveNavbar.tsx` |
-| 19 | **دمج التحليلات والتتبع اللحظي** | إضافة Google Analytics 4 (GA4) و Zoho SalesIQ للشات التنفيذي والتتبع اللحظي للزوار | `index.html` |
+| 19 | **دمج التحليلات والتتبع اللحظي (Stealth Mode)** | إضافة Google Analytics 4 (GA4) و Zoho SalesIQ للتتبع اللحظي للزوار بدون إظهار أيقونة الشات عبر الـ API الرسمي مع ربط التنقل اللحظي بين الملفات (SPA Routes) | `index.html`, `App.tsx` |
 
 ---
 

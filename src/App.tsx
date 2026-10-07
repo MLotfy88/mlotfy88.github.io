@@ -1,5 +1,5 @@
-import React from 'react';
-import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { HashRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { LandingPage } from './pages/LandingPage';
 import { HealthcareOpsPage } from './pages/HealthcareOpsPage';
 import { SupplyChainPage } from './pages/SupplyChainPage';
@@ -7,9 +7,41 @@ import { ProcurementPage } from './pages/ProcurementPage';
 import { BusinessOpsPage } from './pages/BusinessOpsPage';
 import { EventsPage } from './pages/EventsPage';
 
+// Real-time SPA Route Tracker for Google Analytics 4 & Zoho SalesIQ
+function AnalyticsTracker() {
+  const location = useLocation();
+
+  useEffect(() => {
+    const fullPath = window.location.pathname + window.location.hash;
+    const pageTitle = document.title;
+
+    // 1. GA4 SPA page tracking
+    if (typeof (window as any).gtag === 'function') {
+      (window as any).gtag('event', 'page_view', {
+        page_path: fullPath,
+        page_title: pageTitle,
+      });
+    }
+
+    // 2. Zoho SalesIQ real-time visitor page update
+    const salesiq = (window as any).$zoho?.salesiq;
+    if (salesiq?.visitor) {
+      if (typeof salesiq.visitor.cpage === 'function') {
+        salesiq.visitor.cpage(window.location.href);
+      }
+      if (typeof salesiq.visitor.pagetitle === 'function') {
+        salesiq.visitor.pagetitle(pageTitle);
+      }
+    }
+  }, [location]);
+
+  return null;
+}
+
 export function App() {
   return (
     <HashRouter>
+      <AnalyticsTracker />
       <Routes>
         {/* Main Executive Hub */}
         <Route path="/" element={<LandingPage />} />

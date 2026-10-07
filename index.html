@@ -69,18 +69,22 @@
     <div id="root"></div>
     <script type="module" src="./src/main.tsx"></script>
 
-    <!-- Zoho SalesIQ Live Visitor Tracking (Stealth Mode) -->
+    <!-- Zoho SalesIQ Live Visitor Tracking (Official Stealth Tracking) -->
     <style>
-      #zsiq_float, .zsiq_floatmain, #zsiq_chatbtn, div[id*="zsiq"], iframe[id*="siqiframe"] {
-        opacity: 0 !important;
-        pointer-events: none !important;
-        position: fixed !important;
-        right: -9999px !important;
-        bottom: -9999px !important;
-        visibility: hidden !important;
+      /* Prevent chat float button flash without interfering with tracking engine or iframes */
+      #zsiq_float {
+        display: none !important;
       }
     </style>
-    <script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script>
+    <script>
+      window.$zoho = window.$zoho || {};
+      $zoho.salesiq = $zoho.salesiq || { ready: function() {} };
+      $zoho.salesiq.ready = function() {
+        if ($zoho.salesiq && $zoho.salesiq.floatbutton) {
+          $zoho.salesiq.floatbutton.visible("hide");
+        }
+      };
+    </script>
     <script id="zsiqscript" src="https://salesiq.zohopublic.com/widget?wc=siq35edcbef12714a63f3cceff7e1af25026201bba01ed77000965f92acd2024099" defer></script>
   </body>
 </html>
