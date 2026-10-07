@@ -20,8 +20,18 @@
       gtag('config', 'G-5CZG6GNYLW');
     </script>
 
-    <!-- Zoho SalesIQ Live Tracking & Executive Chat -->
-    <script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script>
+    <!-- Zoho SalesIQ Live Visitor Tracking (Stealth Mode - Chat Widget Hidden) -->
+    <style>
+      #zsiq_float, .zsiq_floatmain, #zsiq_chatbtn { display: none !important; }
+    </style>
+    <script>
+      window.$zoho = window.$zoho || {};
+      $zoho.salesiq = $zoho.salesiq || {
+        ready: function() {
+          $zoho.salesiq.floatbutton.visible("hide");
+        }
+      };
+    </script>
     <script id="zsiqscript" src="https://salesiq.zohopublic.com/widget?wc=siq35edcbef12714a63f3cceff7e1af25026201bba01ed77000965f92acd2024099" defer></script>
     
     <!-- Open Graph / Social -->
